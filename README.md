@@ -3,7 +3,7 @@ Analyzing historical CS graduate admission records in the US from 2009 Fall to 2
 
 ## Acknowledgement
 
-We would like to express our sincere gratitude towards Mr. [Qingning Yao](https://vvvfo.com/). Without his generous support, we could never have reached our current status.
+We would like to express our sincere gratitude towards [Qingning Yao](https://vvvfo.com/). Without his generous support, we could never have reached our current status.
 
 We would also like to thank [Chen Liu](https://www.linkedin.com/in/chen-liu-283830105/), [Zehao Su](https://www.linkedin.com/in/zehao-su-235a9b153/), and [Jiayao Zhang](https://jiayao-zhang.com) for their pioneering work on [understanding admission results](https://github.com/zjiayao/stat7614/blob/master/README.markdown), which lays the foundation for our work.
 

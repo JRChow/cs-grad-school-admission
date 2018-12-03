@@ -5,6 +5,11 @@ colnames(csRaw)
 
 library(ggplot2)
 library(plyr)
+library("gridExtra")
+library("PerformanceAnalytics")
+library(varhandle)
+library(corrplot)
+
 # GRE Verbal
 csRawFull <- csRaw[!is.na(csRaw$decision), ]
 csRawFull <- csRawFull[!is.na(csRawFull$gre_verbal), ]
@@ -46,10 +51,8 @@ greWbox <- p + geom_jitter(shape=16, position=position_jitter(0.2)) +
 grid.arrange(greQdist, greVdist, greQbox, greVbox, greWbox, layout_matrix=rbind(c(1,2,5),c(3,4,5)))
 
 # Initial correlation matrix
-library("PerformanceAnalytics")
 summary(csRaw)
 csTmp <- subset(csRaw, select = -c(X, id))
-library(corrplot)
 M<-cor(data.matrix(na.omit(csTmp)), method="kendall")
 corrplot(M, type = "lower", order = "hclust")
 
@@ -62,8 +65,6 @@ corrplot(M, type = "lower", order = "hclust", method = "number")
 ggplot(csTmp, aes(x=major, fill=decision)) + geom_bar(stat="count")
 
 # GPA vs Ranking
-library("gridExtra")
-
 csRnk <- csRnk[csRnk$world_ranking != 1000, ]
 gpaRnk <- ggplot(csRnk, aes(x=gpa, y=world_ranking, color=decision)) +
   geom_point() + geom_smooth(method=lm)
@@ -94,7 +95,6 @@ ggplot(csAdmit[], aes(x=year, y=decision, group=season)) +
   geom_line(aes(color=season)) +
   geom_point(aes(color=season))
 
-library(varhandle)
 csAdmit$year <- unfactor(csAdmit$year)
 isSpr <- csAdmit$season == 'S'
 splineSpr <- as.data.frame(spline(csAdmit[isSpr, "year"], csAdmit[isSpr, "decision"]))

@@ -18,4 +18,4 @@ The dataset we use is the [TheGradCafe](https://github.com/deedy/gradcafe_data).
 ### Skewness of GRE score distributions
 **GRE verbal**, **GRE quantatitive**, and **GRE writing** all follow a left-skewed distribution. `gre_quant` is probably the most skewed, while `gre_writing` has the least skewness among the three.
 
-![The distribution of GRE quantitative, verbal and writing scores](img/gre.png "Logo Title Text 1")
+![The distribution of GRE quantitative, verbal and writing scores](img/gre.png "The distribution of GRE quantitative, verbal and writing scores")

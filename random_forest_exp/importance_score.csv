@@ -1,0 +1,16 @@
+relative importance, parameter name
+0.234000,university_ranking
+0.178900,gpa
+0.144800,gre_verbal
+0.109900,gre_quant
+0.068600,year
+0.063400,university_publication
+0.060100,university_faculty
+0.054100,gre_writing
+0.024500,is_phd
+0.022400,is_american
+0.017900,is_ms
+0.017400,is_international_without_american_degree
+0.003700,is_international_with_american_degree
+0.000200,is_spring
+0.000200,is_fall

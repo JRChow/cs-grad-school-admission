@@ -1,0 +1,3296 @@
+"degree","decision_method","gpa","gre_verbal","gre_quant","status","uni_faculty","uni_pub","decision_month"
+"MS","E-mail",3.5,156,169,"International",53,4.8,11
+"MS","E-mail",NA,158,163,"International",55,4.7,9
+"MS","E-mail",NA,NA,NA,"International",15,1.5,11
+"MS","Website",3.3,147,161,"International",50,5.7,7
+"MS","E-mail",3.91,157,169,"International with US Degree",34,2.3,11
+"MS","E-mail",NA,NA,NA,"International",46,4.3,10
+"MS","E-mail",NA,NA,NA,"International",68,8.7,11
+"MS","E-mail",3.5,144,167,"International",23,1.9,10
+"MS","E-mail",3.5,144,167,"International",15,1.5,10
+"MS","E-mail",NA,156,163,"International",22,2.4,10
+"MS","E-mail",3.9,156,167,"International",50,5.7,10
+"MS","E-mail",4,147,163,"Other",34,2.3,10
+"MS","Website",NA,NA,NA,"International with US Degree",34,2.3,10
+"PhD","E-mail",3.71,143,160,"International with US Degree",19,1.9,3
+"PhD","E-mail",3.6,160,170,"International",29,4.2,8
+"MS","E-mail",3.3,160,170,"International",73,6.7,6
+"MS","E-mail",3.3,152,162,"International",152,18.1,6
+"MS","E-mail",NA,NA,NA,"International",48,5.9,5
+"MS","E-mail",3,140,161,"International",36,2.8,5
+"MS","Website",NA,NA,NA,"International with US Degree",37,3.1,5
+"PhD","E-mail",3.83,165,166,"International",28,2.9,5
+"MS","E-mail",3.15,156,158,"American",50,5.7,5
+"MS","Website",3.6,159,164,"International",37,3.1,5
+"MS","Website",3.6,161,168,"American",50,5.7,4
+"MS","E-mail",NA,NA,NA,"Other",37,3.1,5
+"MS","E-mail",NA,NA,NA,"Other",37,3.1,5
+"MS","Website",NA,NA,NA,"American",10,1.5,2
+"MS","E-mail",NA,NA,NA,"International",28,2.9,5
+"PhD","E-mail",3.44,159,156,"American",55,4.3,5
+"PhD","E-mail",3,150,167,"International",55,4.7,5
+"MS","Other",3.5,151,161,"American",43,3.6,5
+"PhD","Website",3.65,159,165,"International",55,4.3,4
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,5
+"MS","Website",NA,NA,NA,"International",30,2.3,4
+"MS","E-mail",3.4,155,162,"International",55,4.3,4
+"MS","Website",NA,NA,NA,"International",46,5.6,4
+"PhD","E-mail",3.56,158,165,"American",36,2.8,4
+"MS","E-mail",3.83,142,161,"International",14,1.4,4
+"MS","Website",3.6,161,170,"International",37,3.1,4
+"PhD","Website",NA,NA,NA,"International",55,4.3,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",55,4.3,4
+"MS","E-mail",NA,148,159,"International",5,1.2,4
+"MS","E-mail",NA,NA,NA,"International",26,2.3,4
+"PhD","E-mail",2.96,152,167,"International",NA,NA,4
+"PhD","E-mail",2.96,152,167,"International",28,2,2
+"PhD","E-mail",2.96,152,167,"International",10,1.3,2
+"MS","Other",NA,NA,NA,"International",39,2.4,4
+"MS","Website",NA,NA,NA,"International",39,2.4,4
+"PhD","E-mail",NA,NA,NA,"International",13,1.6,3
+"MS","E-mail",NA,NA,NA,"International",23,1.9,4
+"MS","E-mail",3.85,157,167,"International",25,3.5,4
+"PhD","E-mail",NA,155,164,"International",38,3.1,4
+"MS","Website",3.8,154,164,"International",55,4.3,4
+"MS","E-mail",3.8,155,170,"International",47,5.8,4
+"MS","E-mail",3.3,154,156,"International",42,2.6,3
+"PhD","Website",NA,NA,NA,"International with US Degree",50,5.7,4
+"PhD","Website",NA,NA,NA,"International",13,1.5,4
+"MS","E-mail",NA,NA,NA,"International",43,3.6,4
+"MS","E-mail",3.83,161,160,"American",63,8.6,4
+"MS","E-mail",NA,NA,NA,"International",21,2.4,4
+"MS","E-mail",3.4,155,165,"International",26,3.3,2
+"PhD","E-mail",3.71,156,168,"International",11,1.4,4
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,4
+"MS","Website",3.48,158,168,"International",55,4.3,4
+"MS","Other",NA,NA,NA,"International",55,4.3,4
+"PhD","E-mail",NA,NA,NA,"International",19,2.8,4
+"MS","Website",NA,NA,NA,"American",55,4.3,4
+"PhD","Other",NA,NA,NA,"International",42,5.4,3
+"MS","Website",3.74,154,167,"International",53,4.8,4
+"MS","E-mail",NA,NA,NA,"International with US Degree",21,2.1,4
+"MS","E-mail",3.74,161,163,"International",53,6.9,4
+"MS","E-mail",3.3,161,158,"American",53,6.9,4
+"MS","E-mail",3.5,150,170,"International",53,6.9,4
+"MS","E-mail",NA,NA,NA,"International",47,5.8,4
+"PhD","E-mail",NA,NA,NA,"International",14,1.4,4
+"PhD","Other",NA,NA,NA,"Other",25,3.5,4
+"MS","E-mail",NA,NA,NA,"International",55,4.3,4
+"MS","E-mail",3.76,160,169,"International",22,2.4,4
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",68,8.7,4
+"MS","Website",NA,160,167,"International",53,4.8,4
+"MS","Website",NA,NA,NA,"International",53,4.8,4
+"PhD","E-mail",3.8,157,168,"International with US Degree",68,8.7,4
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,4
+"MS","Website",NA,153,161,"International",37,5,4
+"PhD","E-mail",NA,NA,NA,"American",47,5.8,4
+"PhD","Other",NA,NA,NA,"International",38,3.1,4
+"MS","E-mail",3.3,170,157,"International",53,6.9,4
+"MS","Other",3.42,154,170,"International",55,4.3,4
+"MS","E-mail",NA,NA,NA,"International",37,5,4
+"MS","E-mail",NA,167,170,"International",37,5,4
+"MS","E-mail",NA,153,168,"International",43,3.6,4
+"PhD","E-mail",3.8,162,158,"International",47,5.8,4
+"MS","Website",NA,NA,NA,"International",37,5,4
+"MS","E-mail",NA,NA,NA,"International",37,5,4
+"MS","Website",NA,NA,NA,"International with US Degree",37,5,4
+"MS","Website",NA,156,155,"American",37,5,4
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,4
+"MS","E-mail",3.56,152,169,"International",47,5.8,4
+"PhD","Website",NA,NA,NA,"International",10,1.6,4
+"PhD","E-mail",3.14,145,165,"International",40,3.6,4
+"MS","E-mail",NA,NA,NA,"International",152,18.1,4
+"MS","Website",NA,147,170,"International",33,2.8,4
+"PhD","E-mail",NA,142,156,"International",40,3.6,4
+"MS","E-mail",NA,NA,NA,"International",40,3.6,4
+"MS","E-mail",3.97,164,169,"International",47,5.8,4
+"PhD","E-mail",2.7,148,166,"Other",11,1.4,4
+"MS","E-mail",NA,162,166,"International",22,2.4,4
+"MS","E-mail",NA,NA,NA,"International",34,2.3,3
+"MS","E-mail",NA,159,166,"International",73,6.7,1
+"MS","E-mail",NA,NA,NA,"International",28,2.9,3
+"PhD","E-mail",2.6,163,145,"International",10,1.2,4
+"MS","E-mail",3.48,158,168,"International",42,5.4,4
+"MS","E-mail",3.68,153,162,"International",42,5.4,4
+"MS","E-mail",NA,NA,NA,"International",42,5.4,4
+"MS","E-mail",3.94,144,168,"International with US Degree",42,5.4,4
+"MS","E-mail",NA,NA,NA,"International",42,5.4,4
+"MS","E-mail",3.8,148,170,"International",42,5.4,4
+"PhD","E-mail",3.8,157,168,"International with US Degree",53,6.9,4
+"MS","E-mail",NA,NA,NA,"International",19,1.6,4
+"PhD","E-mail",NA,NA,NA,"American",37,3.4,4
+"MS","E-mail",NA,NA,NA,"International",73,6.7,3
+"MS","E-mail",3,158,163,"International",57,11.5,3
+"MS","E-mail",NA,156,163,"International",15,1.5,2
+"MS","E-mail",NA,154,166,"International",68,8.7,4
+"MS","E-mail",3.75,157,164,"American",42,5.4,4
+"MS","E-mail",NA,NA,NA,"American",46,4.3,4
+"MS","E-mail",3.3,154,170,"International",46,4.3,4
+"MS","E-mail",3.88,163,168,"International",42,5.4,4
+"MS","E-mail",3.7,163,168,"American",42,5.4,4
+"MS","E-mail",3.8,162,168,"International",68,8.7,4
+"MS","E-mail",NA,NA,NA,"International",47,5.8,4
+"PhD","E-mail",3.56,147,166,"International",22,2.8,4
+"MS","E-mail",3.9,152,160,"American",46,4.3,3
+"MS","E-mail",3.5,150,170,"International",47,5.8,4
+"MS","E-mail",NA,NA,NA,"International",47,5.8,4
+"MS","Website",3.77,155,167,"International",73,6.7,3
+"MS","E-mail",3.77,155,167,"International",26,2.3,3
+"MS","E-mail",3.77,155,165,"International",152,18.1,2
+"MS","E-mail",3.77,155,167,"International",152,18.1,4
+"MS","E-mail",NA,NA,NA,"International with US Degree",25,3.5,4
+"MS","E-mail",3.97,165,166,"International",47,5.8,4
+"MS","E-mail",NA,NA,NA,"International",22,2.8,4
+"MS","Website",NA,NA,NA,"International",22,2.8,4
+"MS","E-mail",3.2,157,160,"American",47,5.8,4
+"MS","E-mail",3.52,161,153,"American",26,3.3,3
+"MS","E-mail",NA,NA,NA,"American",53,6.9,4
+"PhD","E-mail",4,155,169,"American",30,2.8,4
+"PhD","E-mail",3.7,146,162,"International",NA,NA,4
+"MS","Website",3.67,152,160,"International",35,3.4,4
+"MS","E-mail",NA,NA,NA,"International",46,4.3,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,4
+"MS","E-mail",3.86,150,170,"International",83,9.9,4
+"MS","E-mail",NA,NA,NA,"International",83,9.9,4
+"MS","E-mail",3.56,161,168,"International",48,5.9,3
+"MS","E-mail",3.6,158,164,"International",63,8.6,3
+"MS","E-mail",NA,NA,NA,"International",35,3.4,4
+"MS","E-mail",3.6,160,166,"International",48,5.9,4
+"MS","E-mail",NA,NA,NA,"International",47,5.8,4
+"MS","E-mail",3.7,158,170,"International",48,5.9,3
+"MS","E-mail",3.65,156,163,"International with US Degree",47,5.8,3
+"PhD","Website",3.91,146,168,"International",42,5.4,3
+"MS","E-mail",NA,159,168,"International",63,8.6,3
+"MS","Website",3.35,160,170,"International",38,3.1,3
+"PhD","E-mail",3.93,160,165,"American",63,8.6,3
+"PhD","E-mail",NA,NA,NA,"International",63,8.6,3
+"PhD","E-mail",3.7,152,170,"International",63,8.6,3
+"MS","Other",NA,NA,NA,"American",24,1.6,3
+"PhD","E-mail",3.82,151,164,"International",42,5.4,3
+"MS","Website",3.94,NA,NA,"International with US Degree",55,4.3,3
+"MS","Website",NA,162,157,"International",30,2.3,3
+"PhD","Other",NA,NA,NA,"International",37,3.4,3
+"MS","E-mail",NA,NA,NA,"International",35,3.4,3
+"MS","Website",3.65,161,170,"International",73,6.7,3
+"MS","Website",3.8,152,164,"International",73,6.7,3
+"MS","Website",NA,NA,NA,"International",73,6.7,3
+"MS","E-mail",NA,161,167,"International",73,6.7,3
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"International",30,2.8,3
+"MS","Website",3.5,151,168,"International",73,6.7,3
+"MS","Website",4,148,170,"International",73,6.7,3
+"MS","Website",NA,NA,NA,"International",73,6.7,3
+"MS","Website",3.67,167,167,"International",73,6.7,3
+"MS","E-mail",3.81,157,163,"American",43,3.6,3
+"MS","Website",NA,NA,NA,"International",73,6.7,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",22,2.8,3
+"MS","E-mail",3,150,165,"International",NA,NA,3
+"PhD","Website",4,155,170,"International with US Degree",73,6.7,3
+"MS","E-mail",NA,154,162,"International",40,3.6,3
+"MS","E-mail",NA,NA,NA,"American",10,1.6,3
+"MS","E-mail",NA,NA,NA,"International",47,5.8,3
+"PhD","E-mail",4,155,144,"International",30,2.8,3
+"MS","E-mail",3,NA,NA,"International",19,1.5,2
+"MS","E-mail",NA,165,170,"International",55,4.3,2
+"MS","Website",NA,NA,NA,"International",33,2.8,1
+"MS","E-mail",3.83,153,166,"International with US Degree",22,2.5,3
+"MS","E-mail",NA,NA,NA,"International",23,1.9,3
+"MS","E-mail",NA,NA,NA,"International",37,5,3
+"MS","E-mail",NA,164,168,"International",55,4.3,3
+"MS","Website",3.1,164,167,"International with US Degree",55,4.3,3
+"MS","E-mail",3.1,164,167,"International with US Degree",53,6.9,3
+"MS","E-mail",3,159,170,"International",53,6.9,3
+"MS","E-mail",3.68,160,170,"International",63,8.6,3
+"MS","E-mail",3.5,159,165,"International",53,6.9,3
+"MS","E-mail",NA,165,165,"International",53,6.9,3
+"MS","E-mail",NA,NA,NA,"International",53,6.9,3
+"MS","E-mail",NA,NA,NA,"International",53,6.9,3
+"PhD","E-mail",3.4,155,168,"International",73,6.7,3
+"MS","E-mail",3.48,158,168,"International",53,6.9,3
+"PhD","E-mail",NA,NA,NA,"International",22,2.8,3
+"MS","E-mail",3.75,147,170,"International",34,2.3,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",37,3.4,3
+"PhD","E-mail",3.58,152,170,"International",37,3.4,3
+"MS","E-mail",3.3,161,158,"American",37,5,3
+"MS","E-mail",NA,NA,NA,"International",21,2.1,3
+"MS","Website",3.2,152,168,"International",21,2.1,3
+"PhD","E-mail",3.7,149,165,"International",25,3.5,3
+"PhD","Website",3.67,164,145,"International",25,3.5,3
+"MS","E-mail",NA,154,162,"International",23,2.7,3
+"MS","E-mail",NA,NA,NA,"International",47,3,3
+"MS","E-mail",NA,167,170,"International",25,3.5,3
+"MS","E-mail",NA,NA,NA,"International",46,4.3,3
+"MS","E-mail",3.6,156,167,"International",50,5.7,3
+"MS","Website",3.83,153,166,"International with US Degree",25,3.5,3
+"MS","E-mail",NA,155,165,"International",25,3.5,3
+"MS","E-mail",NA,165,166,"International",26,2.3,3
+"MS","E-mail",NA,NA,NA,"International",35,3.4,3
+"MS","Website",3.7,159,170,"International",42,5.4,3
+"MS","Website",NA,NA,NA,"International",6,1.1,3
+"MS","E-mail",3.8,158,167,"International with US Degree",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",46,5.6,3
+"PhD","E-mail",3.7,149,165,"International",47,3,3
+"MS","E-mail",NA,NA,NA,"International",35,3.4,3
+"MS","E-mail",4,148,157,"International",42,2.6,3
+"MS","E-mail",3.8,167,170,"International",50,4.7,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"MS","E-mail",3.63,157,160,"International",47,5.8,3
+"PhD","E-mail",3.85,152,169,"International",47,5.8,3
+"MS","Website",3.9,152,160,"American",73,6.7,3
+"MS","E-mail",3.7,159,170,"International with US Degree",46,5.6,3
+"MS","E-mail",NA,NA,NA,"American",26,2.3,3
+"PhD","E-mail",NA,145,167,"International",30,2.8,3
+"MS","E-mail",NA,161,170,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",57,11.5,3
+"MS","Other",NA,NA,NA,"International with US Degree",19,2.8,3
+"MS","E-mail",NA,154,168,"International",43,3.6,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,3
+"MS","E-mail",3.93,163,170,"International with US Degree",57,11.5,3
+"PhD","E-mail",NA,166,151,"International",50,4.7,3
+"MS","E-mail",NA,161,169,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",25,3.5,3
+"MS","E-mail",3.84,157,169,"International",57,11.5,3
+"MS","E-mail",3.8,149,168,"International",47,5.8,3
+"MS","E-mail",NA,NA,NA,"International",57,11.5,3
+"MS","E-mail",3.8,165,168,"International",57,11.5,3
+"MS","E-mail",3.5,150,170,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",57,11.5,3
+"MS","E-mail",NA,NA,NA,"American",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",57,11.5,3
+"MS","E-mail",3.68,153,162,"International",47,5.8,3
+"MS","E-mail",3.73,160,170,"International with US Degree",73,6.7,3
+"MS","E-mail",3.96,169,158,"American",57,11.5,3
+"MS","E-mail",3.7,156,164,"International",47,5.8,3
+"MS","E-mail",NA,165,164,"International",52,6.4,3
+"MS","E-mail",NA,151,159,"International",47,3,3
+"MS","E-mail",3.74,159,164,"American",33,3.4,3
+"MS","E-mail",3.92,162,155,"American",46,4.3,3
+"MS","E-mail",NA,151,167,"International",33,3.4,3
+"MS","Website",3.45,158,168,"International",30,2.3,3
+"MS","Website",3.45,158,168,"International",55,4.7,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",22,1.9,3
+"MS","E-mail",3.7,158,170,"International",47,5.8,3
+"MS","E-mail",3.9,163,170,"International",47,5.8,3
+"PhD","E-mail",3.75,168,151,"International with US Degree",15,1.5,3
+"MS","E-mail",NA,NA,NA,"International",47,5.8,3
+"MS","E-mail",3.7,159,165,"International",63,8.6,3
+"MS","E-mail",NA,163,167,"International",37,5,3
+"MS","E-mail",3.97,150,168,"International",38,3.1,3
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",3.8,162,168,"International",63,8.6,3
+"PhD","E-mail",3.83,161,160,"American",42,5.4,3
+"PhD","E-mail",3.93,160,165,"American",42,5.4,3
+"MS","E-mail",3.5,165,159,"International",38,3.1,3
+"MS","E-mail",NA,152,168,"International",73,6.7,3
+"MS","E-mail",3.89,155,164,"American",73,6.7,3
+"MS","E-mail",NA,NA,NA,"International",73,6.7,3
+"MS","E-mail",3.6,167,167,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",15,1.9,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",3.8,164,153,"Other",53,4.8,3
+"MS","E-mail",3.9,155,168,"International",83,9.9,3
+"MS","E-mail",3.8,162,168,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,3
+"MS","Other",3.94,154,170,"International with US Degree",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"American",83,9.9,3
+"PhD","E-mail",NA,151,166,"International",83,9.9,3
+"PhD","E-mail",3.93,160,165,"American",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"American",83,11.1,2
+"PhD","E-mail",NA,168,160,"International",46,4.3,3
+"MS","E-mail",3.87,154,162,"International",23,1.9,3
+"PhD","E-mail",NA,NA,NA,"International",39,2.4,3
+"PhD","E-mail",3.3,141,158,"International",23,1.9,3
+"MS","Website",NA,NA,NA,"International",52,6.4,2
+"MS","E-mail",NA,154,170,"International",63,8.6,2
+"MS","Other",NA,NA,NA,"International",52,6.4,3
+"MS","Website",NA,NA,NA,"International",52,6.4,3
+"MS","Website",3.91,153,166,"International",52,6.4,3
+"MS","E-mail",3.38,145,161,"International",33,2.8,2
+"MS","E-mail",NA,145,163,"International",15,1.5,3
+"MS","Website",3.2,157,167,"International",52,6.4,3
+"MS","Website",3.2,157,167,"International",53,4.8,3
+"MS","E-mail",NA,164,163,"International",25,3.5,3
+"PhD","Website",3.67,164,145,"International",52,6.4,3
+"MS","E-mail",NA,156,163,"International",25,3.5,3
+"MS","Website",NA,154,168,"International",46,5.6,2
+"MS","Website",NA,154,168,"International",52,6.4,3
+"PhD","Website",NA,NA,NA,"International",52,6.4,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"MS","E-mail",NA,NA,NA,"International",50,5.7,3
+"MS","E-mail",NA,NA,NA,"International",15,1.5,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",46,4.3,3
+"PhD","E-mail",3.7,152,170,"International",53,4.8,3
+"MS","E-mail",NA,NA,NA,"International",53,4.8,3
+"PhD","E-mail",3.77,150,170,"International",53,4.8,3
+"MS","E-mail",3.63,166,161,"American",19,2.8,3
+"PhD","E-mail",3.76,152,170,"International",53,4.8,3
+"MS","E-mail",4,157,170,"International",53,6.9,2
+"MS","Website",3.7,153,170,"International",30,2.3,3
+"PhD","Website",3.43,166,165,"International",52,6.4,3
+"PhD","E-mail",NA,NA,NA,"International",15,1.5,3
+"MS","E-mail",3.7,164,169,"International",53,6.9,3
+"PhD","Website",NA,NA,NA,"International",52,6.4,3
+"PhD","Website",3.6,151,169,"International with US Degree",52,6.4,3
+"MS","Website",3.39,160,170,"International",30,2.3,3
+"MS","E-mail",3.2,150,170,"International",47,3,3
+"MS","E-mail",NA,NA,NA,"American",33,3.4,3
+"MS","E-mail",3.83,161,168,"International",83,11.1,3
+"MS","Website",NA,164,168,"International",30,2.3,3
+"MS","E-mail",NA,NA,NA,"International",47,5.8,3
+"PhD","E-mail",NA,NA,NA,"International",15,1.5,3
+"MS","E-mail",4,162,164,"International",10,1.2,3
+"MS","Website",3.22,170,159,"American",73,6.7,3
+"MS","E-mail",NA,NA,NA,"International",47,3,3
+"MS","Website",NA,157,164,"International",30,2.3,3
+"MS","E-mail",NA,NA,NA,"International",39,2.4,3
+"MS","E-mail",3.3,160,162,"American",50,4.7,3
+"PhD","E-mail",3.78,169,162,"International",152,18.1,3
+"PhD","E-mail",3.5,159,158,"International",25,3.5,3
+"PhD","E-mail",2.95,152,163,"International",152,18.1,3
+"PhD","E-mail",3.6,151,169,"International with US Degree",152,18.1,3
+"MS","Website",NA,NA,NA,"International",30,2.3,3
+"MS","E-mail",3.75,152,167,"International",37,3.4,3
+"MS","Website",3.75,152,167,"International",30,2.3,3
+"MS","Website",3.75,160,170,"International",30,2.3,3
+"PhD","Website",3.93,160,165,"American",50,4.7,3
+"MS","Website",4,158,167,"International",30,2.3,3
+"MS","E-mail",NA,NA,NA,"International",50,4.7,3
+"MS","Website",3.86,156,165,"International",30,2.3,3
+"MS","E-mail",NA,NA,NA,"International",63,8.6,3
+"MS","E-mail",3.4,168,160,"International",22,2.8,3
+"PhD","E-mail",2.7,148,166,"International",21,2.4,3
+"MS","Website",2.7,166,170,"International",30,2.3,3
+"MS","E-mail",3.75,153,162,"International",34,2.3,1
+"MS","E-mail",NA,NA,NA,"International",53,4.8,3
+"MS","E-mail",3.69,167,164,"American",28,2.9,3
+"PhD","E-mail",3.6,157,164,"International",22,1.9,3
+"MS","E-mail",3.5,148,166,"International",42,2.6,3
+"MS","E-mail",NA,NA,NA,"International",21,2.4,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",3.72,155,167,"International",42,2.6,3
+"MS","E-mail",3.74,153,166,"International",83,9.9,3
+"MS","E-mail",NA,168,154,"International",21,2.4,3
+"MS","E-mail",3.3,161,158,"American",32,2.7,2
+"MS","Website",3.3,161,158,"American",55,4.3,3
+"PhD","E-mail",3.86,156,161,"International",NA,NA,3
+"MS","E-mail",3.8,155,170,"International with US Degree",50,5.7,3
+"MS","Website",3.85,163,167,"International",73,6.7,3
+"MS","E-mail",NA,154,162,"International",23,1.9,3
+"MS","E-mail",3.39,160,170,"International",40,3.6,3
+"MS","E-mail",3.5,156,163,"International",40,3.6,3
+"MS","E-mail",NA,NA,NA,"American",83,11.1,3
+"MS","E-mail",NA,NA,NA,"International",40,3.6,3
+"MS","E-mail",NA,163,170,"Other",73,6.7,3
+"MS","Website",3.7,168,163,"American",73,6.7,3
+"MS","E-mail",3.74,163,170,"American",68,8.7,3
+"PhD","E-mail",3.7,149,165,"International",85,12.3,3
+"PhD","E-mail",3.7,149,165,"International",40,3.6,1
+"PhD","E-mail",3.5,160,166,"International",21,2.4,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",83,11.1,3
+"MS","E-mail",3.8,158,164,"International with US Degree",73,6.7,2
+"MS","E-mail",3.8,154,170,"International with US Degree",152,18.1,3
+"MS","E-mail",4,158,163,"International",152,18.1,3
+"MS","E-mail",3.8,161,169,"International",53,4.8,3
+"MS","E-mail",NA,NA,NA,"International",42,2.6,3
+"MS","E-mail",NA,164,168,"International",47,5.8,3
+"MS","E-mail",NA,152,169,"International",26,2.5,2
+"MS","Website",NA,NA,NA,"International",30,2.3,5
+"PhD","E-mail",3.77,150,170,"International",36,2.8,3
+"MS","Website",3.54,157,168,"International",73,6.7,3
+"PhD","E-mail",3.7,163,150,"International",NA,NA,3
+"PhD","Website",4,165,162,"International",29,4.2,3
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",3.84,140,161,"International",21,2.4,3
+"PhD","Website",3.5,145,160,"International",29,4.2,3
+"PhD","E-mail",2.95,152,163,"International",85,12.3,2
+"PhD","Website",NA,NA,NA,"International with US Degree",29,4.2,3
+"MS","Website",4,162,164,"International",13,1.8,3
+"PhD","E-mail",NA,NA,NA,"American",47,3,3
+"MS","E-mail",3.6,155,170,"International with US Degree",51,5.3,2
+"MS","E-mail",3.8,158,170,"International",152,18.1,3
+"MS","E-mail",NA,NA,NA,"Other",73,6.7,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",47,3,3
+"PhD","E-mail",3.64,144,158,"International with US Degree",32,2.7,2
+"PhD","Website",NA,NA,NA,"International",55,4.3,3
+"MS","E-mail",3.5,158,162,"International",42,2.6,2
+"PhD","E-mail",3.91,163,170,"International",73,6.7,2
+"MS","Website",NA,NA,NA,"International",21,2.4,2
+"MS","E-mail",3.77,149,160,"International with US Degree",152,18.1,2
+"PhD","Website",NA,156,152,"International",NA,NA,2
+"PhD","Website",NA,NA,NA,"International",24,2,2
+"MS","E-mail",3.55,164,165,"International",55,4.3,2
+"MS","E-mail",3.6,151,170,"International",47,5.8,2
+"PhD","E-mail",NA,NA,NA,"American",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"Other",85,12.3,2
+"PhD","E-mail",NA,166,155,"International",152,18.1,2
+"PhD","E-mail",3.6,147,168,"International",85,12.3,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",85,12.3,2
+"PhD","E-mail",3.7,160,168,"American",85,12.3,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",55,4.3,2
+"PhD","E-mail",NA,NA,NA,"International",16,1.3,2
+"PhD","Other",NA,160,170,"International",29,4.2,2
+"PhD","E-mail",NA,NA,NA,"International",38,3.1,2
+"PhD","Website",3.5,159,158,"International",11,1.4,2
+"PhD","Website",NA,NA,NA,"International with US Degree",55,4.3,2
+"MS","E-mail",NA,NA,NA,"International",32,2.7,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",32,2.7,2
+"PhD","E-mail",NA,157,165,"International",36,2.8,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",32,2.7,2
+"PhD","E-mail",NA,NA,NA,"American",53,6.9,2
+"MS","E-mail",3.4,164,158,"International",NA,NA,2
+"PhD","E-mail",3.94,159,168,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"MS","E-mail",3.27,155,164,"International with US Degree",47,5.8,2
+"PhD","E-mail",NA,NA,NA,"International",32,2.7,2
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,2
+"MS","Website",4,158,163,"International",83,11.1,2
+"MS","E-mail",NA,NA,NA,"American",73,6.7,2
+"MS","E-mail",NA,153,169,"International",50,5.7,2
+"PhD","E-mail",NA,NA,NA,"International",73,6.7,2
+"MS","E-mail",3.5,157,164,"International",24,2,2
+"PhD","E-mail",3.84,166,168,"International",38,3.1,2
+"PhD","E-mail",3.84,166,168,"International",26,2.3,2
+"MS","E-mail",NA,NA,NA,"International",26,2.5,2
+"MS","E-mail",NA,NA,NA,"American",26,2.5,2
+"MS","E-mail",3.81,163,157,"American",68,8.7,2
+"MS","E-mail",3.63,166,161,"American",26,3.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",22,2.4,2
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,2
+"MS","Website",NA,NA,NA,"International",NA,NA,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",50,4.7,2
+"PhD","E-mail",3.86,149,166,"International",73,6.7,2
+"PhD","E-mail",NA,NA,NA,"American",26,2.3,2
+"MS","E-mail",3.94,151,161,"International",32,2.7,2
+"MS","E-mail",3,163,163,"International",26,2.3,2
+"PhD","E-mail",3.68,141,170,"International",26,2.3,2
+"PhD","Website",3.6,157,164,"International",26,2.3,2
+"MS","E-mail",NA,NA,NA,"International",83,11.1,2
+"MS","Website",3.72,155,167,"International",83,11.1,2
+"MS","E-mail",NA,155,163,"International",83,11.1,2
+"PhD","Website",NA,NA,NA,"International with US Degree",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,2
+"PhD","E-mail",3.72,154,159,"American",83,11.1,2
+"MS","E-mail",3.9,163,167,"International",83,11.1,2
+"MS","Website",3.65,156,163,"International with US Degree",83,11.1,2
+"MS","Website",3.87,161,170,"International",83,11.1,2
+"MS","Website",NA,NA,NA,"International",83,11.1,2
+"MS","Website",3.9,163,170,"International",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",83,11.1,2
+"MS","E-mail",NA,157,170,"International",53,6.9,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",19,2.8,2
+"MS","E-mail",3.84,157,169,"International",53,6.9,2
+"PhD","E-mail",NA,170,153,"International",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"American",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",68,8.7,2
+"PhD","E-mail",3.7,158,164,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,2
+"PhD","E-mail",3.89,158,168,"International",83,11.1,2
+"PhD","E-mail",3.83,165,166,"International",68,8.7,2
+"PhD","E-mail",3.8,170,152,"International",68,8.7,2
+"PhD","E-mail",3.9,165,169,"American",26,2.5,2
+"PhD","E-mail",NA,NA,NA,"American",68,8.7,2
+"MS","E-mail",3.72,163,168,"International",152,18.1,2
+"PhD","Website",NA,NA,NA,"International",83,11.1,2
+"MS","E-mail",3.85,162,170,"International",53,6.9,2
+"MS","E-mail",4,156,170,"International",83,11.1,2
+"MS","E-mail",NA,NA,NA,"International",33,2.8,2
+"PhD","Website",3.89,170,143,"International",83,11.1,2
+"MS","Website",3.84,157,169,"International",83,11.1,2
+"PhD","E-mail",4,158,170,"International",83,11.1,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",NA,NA,2
+"MS","E-mail",3.25,151,159,"International",33,2.8,2
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,2
+"PhD","E-mail",3.41,141,151,"International with US Degree",83,11.1,2
+"MS","E-mail",4,163,167,"American",83,9.9,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",29,4.2,2
+"MS","E-mail",3.9,163,170,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",48,5.9,2
+"MS","E-mail",NA,160,165,"International",NA,NA,2
+"MS","E-mail",NA,157,167,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",83,9.9,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",3.8,163,161,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",3.76,163,163,"International",152,18.1,2
+"MS","E-mail",3.9,158,169,"International",83,9.9,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",3.3,150,162,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",3,143,154,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",3.8,159,170,"International with US Degree",152,18.1,2
+"PhD","E-mail",3.3,161,168,"American",13,1.4,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"MS","E-mail",3.89,160,165,"International",152,18.1,2
+"PhD","Website",NA,NA,NA,"American",46,5.6,2
+"MS","E-mail",3.6,159,170,"International with US Degree",152,18.1,2
+"PhD","E-mail",3.6,164,166,"American",68,8.7,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","Website",NA,NA,NA,"International",11,1.4,2
+"MS","E-mail",NA,160,166,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",3.44,162,163,"International",152,18.1,2
+"MS","E-mail",3.58,159,160,"American",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"MS","E-mail",3.9,168,152,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","Website",3.52,165,170,"International",52,6.4,2
+"MS","E-mail",3.87,167,170,"International",51,5.3,2
+"MS","E-mail",NA,156,165,"International",50,5.7,2
+"PhD","E-mail",3.8,153,170,"American",57,8.4,2
+"PhD","E-mail",3.8,166,160,"International",52,6.4,2
+"MS","E-mail",NA,NA,NA,"International",48,5.9,2
+"PhD","E-mail",NA,159,168,"International",57,8.4,2
+"MS","E-mail",3.28,165,166,"International",48,5.9,2
+"PhD","E-mail",3.15,157,165,"International",48,5.9,2
+"PhD","E-mail",3.84,154,167,"International",57,8.4,2
+"PhD","E-mail",3.5,159,158,"International",57,8.4,2
+"MS","E-mail",3.94,161,168,"International",52,6.4,2
+"PhD","E-mail",NA,156,168,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"MS","E-mail",3.66,167,163,"American",83,9.9,2
+"PhD","E-mail",3.7,154,168,"International",57,8.4,2
+"PhD","Other",4,143,157,"International",26,3.3,2
+"PhD","E-mail",3.22,167,167,"American",48,5.9,2
+"PhD","E-mail",3.9,165,169,"American",11,1.2,1
+"PhD","E-mail",3.9,165,169,"American",55,4.7,2
+"MS","E-mail",NA,NA,NA,"International",48,5.9,2
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",3.59,164,162,"American",8,1.5,2
+"MS","E-mail",3.95,159,166,"American",48,5.9,2
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,2
+"MS","E-mail",3.72,155,167,"International",48,5.9,2
+"MS","E-mail",NA,NA,NA,"International",50,5.7,2
+"MS","Website",2.85,164,152,"International",11,1.4,2
+"PhD","E-mail",3.9,145,162,"International",12,1.4,1
+"MS","E-mail",3.14,145,165,"International",11,1.4,2
+"PhD","E-mail",2.7,148,166,"International",24,2,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",24,1.6,2
+"PhD","E-mail",3.7,165,165,"American",73,6.7,2
+"PhD","E-mail",4,158,170,"International",73,6.7,2
+"PhD","E-mail",3.3,167,170,"International",52,6.4,2
+"PhD","E-mail",3.5,145,160,"American",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,11.5,2
+"PhD","E-mail",3.89,152,163,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"American",52,6.4,2
+"PhD","E-mail",NA,NA,NA,"American",21,2.1,2
+"PhD","E-mail",NA,149,160,"International",53,4.8,2
+"PhD","E-mail",3.84,161,165,"International",52,6.4,2
+"MS","E-mail",3.91,153,166,"International",51,5.3,2
+"PhD","E-mail",3.97,148,170,"International",51,5.3,2
+"PhD","E-mail",3.81,170,170,"International",51,5.3,2
+"MS","E-mail",3.8,148,170,"International",NA,NA,2
+"MS","E-mail",4,163,168,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",34,2.3,2
+"MS","E-mail",3.78,170,157,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"American",73,6.7,2
+"MS","E-mail",3.8,162,170,"American",51,5.3,2
+"PhD","E-mail",NA,154,170,"International",42,5.4,2
+"MS","E-mail",NA,NA,NA,"American",51,5.3,2
+"MS","E-mail",3.7,159,170,"International with US Degree",51,5.3,2
+"MS","E-mail",NA,NA,NA,"American",51,5.3,2
+"PhD","E-mail",NA,155,167,"International",33,2.8,2
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,2
+"PhD","E-mail",3.6,158,168,"American",21,2.4,2
+"PhD","E-mail",NA,160,170,"International",29,4.2,2
+"PhD","E-mail",3.27,165,166,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",3.7,164,166,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",4,150,167,"International with US Degree",57,11.5,2
+"PhD","E-mail",3.88,162,170,"American",83,9.9,1
+"PhD","E-mail",3.85,152,169,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",3.84,154,167,"International",57,11.5,2
+"PhD","E-mail",3.1,159,160,"American",57,11.5,2
+"PhD","E-mail",4,160,165,"International with US Degree",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",3.7,170,170,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",48,5.9,2
+"PhD","Website",4,161,168,"American",24,2.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",24,2.1,2
+"PhD","Phone",3.7,166,162,"International with US Degree",57,8.4,2
+"MS","E-mail",NA,NA,NA,"International",53,6.9,2
+"PhD","Phone",NA,NA,NA,"International with US Degree",57,8.4,2
+"PhD","E-mail",4,152,170,"International with US Degree",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"American",47,5.8,2
+"MS","E-mail",3.6,166,161,"American",53,6.9,2
+"PhD","E-mail",NA,NA,NA,"International",33,2.8,2
+"PhD","E-mail",3.86,143,167,"International",57,8.4,2
+"PhD","E-mail",3.46,145,154,"International",32,2.7,2
+"MS","E-mail",3.45,150,166,"International",34,2.3,1
+"PhD","E-mail",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",3.95,155,159,"Other",85,12.3,2
+"PhD","E-mail",3.8,170,168,"American",152,18.1,2
+"PhD","Phone",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,2
+"PhD","E-mail",3.8,159,170,"International with US Degree",37,3.1,2
+"PhD","E-mail",NA,164,170,"International",23,2.7,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",3.58,152,170,"International",19,2.8,2
+"PhD","Website",NA,NA,NA,"International",10,1.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"American",22,2.4,1
+"PhD","E-mail",NA,NA,NA,"International",21,2.4,2
+"PhD","E-mail",3.8,165,166,"International",21,2.4,2
+"PhD","E-mail",3.91,151,162,"International with US Degree",40,3.6,1
+"MS","E-mail",3.24,148,163,"International",53,6.9,1
+"MS","Website",4,170,158,"International",55,4.7,1
+"PhD","E-mail",3.82,168,170,"American",46,4.3,1
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,1
+"PhD","E-mail",4,170,148,"International",83,11.1,1
+"PhD","E-mail",NA,NA,NA,"International",73,6.7,1
+"PhD","Website",4,163,168,"International",73,6.7,1
+"PhD","E-mail",3.84,153,164,"International",83,9.9,1
+"MS","E-mail",3.9,158,169,"International",48,5.9,1
+"MS","E-mail",3.6,168,161,"American",37,5,1
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,1
+"PhD","E-mail",3.9,162,168,"International",83,9.9,1
+"MS","E-mail",3.6,161,169,"International",53,6.9,1
+"MS","E-mail",NA,170,154,"International",NA,NA,1
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,1
+"MS","Website",4,153,168,"International",10,1.5,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",83,9.9,1
+"PhD","E-mail",NA,NA,NA,"American",42,5.4,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",42,5.4,1
+"PhD","Phone",4,168,161,"American",38,3.1,1
+"PhD","Phone",3,166,170,"American",57,8.4,1
+"PhD","E-mail",NA,NA,NA,"American",46,5.6,1
+"PhD","Phone",4,167,170,"American",57,8.4,1
+"PhD","E-mail",NA,NA,NA,"International",37,5,1
+"MS","E-mail",NA,NA,NA,"International",53,6.9,1
+"MS","E-mail",NA,155,164,"International",53,6.9,1
+"MS","E-mail",3.3,160,168,"International",53,6.9,1
+"PhD","E-mail",3.8,170,168,"American",83,9.9,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",83,9.9,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,6.9,1
+"PhD","E-mail",NA,NA,NA,"International",63,8.6,1
+"PhD","E-mail",NA,152,166,"International",37,5,1
+"PhD","E-mail",NA,NA,NA,"American",83,9.9,1
+"MS","E-mail",3.53,165,163,"American",50,5.7,1
+"MS","E-mail",3.7,156,161,"International",46,5.6,1
+"PhD","E-mail",3.31,162,167,"American",19,2.8,1
+"MS","E-mail",3,159,166,"International",46,5.6,1
+"PhD","E-mail",NA,NA,NA,"International",13,1.6,12
+"MS","E-mail",3.87,164,162,"American",37,5,11
+"MS","E-mail",NA,NA,NA,"International",50,5.7,11
+"MS","E-mail",NA,NA,NA,"International",26,2.3,10
+"MS","E-mail",NA,146,162,"International",34,2.3,6
+"MS","E-mail",2.85,139,161,"International",55,4.7,6
+"MS","E-mail",3.65,161,161,"American",23,2.7,6
+"PhD","E-mail",NA,152,168,"International",46,4.3,5
+"MS","Website",NA,NA,NA,"International",38,3.1,5
+"MS","E-mail",3.57,150,166,"International",37,3.4,5
+"MS","E-mail",3.8,149,158,"International",50,5.7,5
+"PhD","E-mail",NA,152,168,"International",38,3.1,5
+"PhD","Website",NA,NA,NA,"International",39,2.4,5
+"MS","E-mail",3.56,151,157,"International",50,5.7,5
+"MS","Other",NA,NA,NA,"International",50,5.7,5
+"PhD","E-mail",3.89,153,155,"International",36,2.8,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",55,4.3,5
+"PhD","E-mail",3.85,147,162,"International",52,6.4,5
+"MS","E-mail",NA,168,156,"International",46,4.3,4
+"MS","Website",3.2,149,168,"International with US Degree",55,4.7,3
+"PhD","Website",3.57,157,170,"International",42,5.4,2
+"PhD","E-mail",NA,160,143,"International",28,2.9,5
+"PhD","E-mail",3.63,143,165,"International",22,1.9,4
+"PhD","E-mail",3.92,153,160,"International",9,1.5,5
+"PhD","E-mail",NA,NA,NA,"International",28,2.9,5
+"MS","E-mail",3.5,169,160,"American",25,3.5,5
+"MS","E-mail",3.2,155,160,"International",42,2.6,4
+"MS","E-mail",NA,NA,NA,"International",30,2.3,4
+"PhD","E-mail",NA,NA,NA,"International",26,2.3,2
+"PhD","E-mail",NA,152,168,"International",24,2,1
+"MS","E-mail",NA,NA,NA,"International",47,5.8,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",50,4.7,4
+"MS","Website",3.6,153,160,"International",30,2.3,4
+"MS","E-mail",NA,154,170,"International",73,6.7,3
+"MS","E-mail",3.42,155,170,"International",46,4.3,4
+"MS","E-mail",NA,163,155,"International",55,4.3,4
+"PhD","E-mail",NA,NA,NA,"International",28,2.9,4
+"PhD","E-mail",NA,NA,NA,"International",9,1.4,4
+"PhD","E-mail",3.94,143,164,"International",22,2.5,4
+"MS","E-mail",3.5,155,156,"International",46,4.3,4
+"MS","E-mail",3.6,154,166,"International",50,5.7,4
+"PhD","E-mail",3.56,154,164,"International",24,2,4
+"MS","E-mail",NA,NA,NA,"International",55,4.3,4
+"PhD","E-mail",3.89,151,169,"International",19,2.8,4
+"PhD","E-mail",NA,NA,NA,"International",23,1.9,4
+"PhD","E-mail",4,154,164,"International",23,1.9,4
+"PhD","E-mail",3.6,147,164,"International",22,2.4,4
+"MS","Website",3.66,161,158,"International",37,3.1,4
+"PhD","E-mail",3.51,150,165,"International",28,2.9,4
+"PhD","E-mail",3.33,157,170,"American",28,2.9,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",19,2.8,4
+"PhD","E-mail",NA,NA,NA,"American",19,2.8,4
+"PhD","E-mail",3.5,142,169,"International",42,2.6,2
+"PhD","E-mail",3.5,142,169,"International",63,8.6,4
+"PhD","E-mail",NA,NA,NA,"Other",63,8.6,4
+"MS","E-mail",3.67,148,165,"Other",37,3.4,4
+"MS","E-mail",NA,NA,NA,"International with US Degree",37,5,4
+"MS","E-mail",3.91,153,166,"International",53,6.9,4
+"MS","E-mail",NA,152,170,"International",42,5.4,4
+"MS","E-mail",NA,NA,NA,"International",16,1.3,4
+"PhD","E-mail",NA,NA,NA,"International",24,2,4
+"PhD","E-mail",3.63,155,162,"International",33,3.4,4
+"MS","E-mail",NA,NA,NA,"American",55,4.3,4
+"PhD","E-mail",3.75,164,163,"American",53,6.9,4
+"PhD","E-mail",NA,NA,NA,"American",28,2.9,4
+"PhD","Website",3.72,156,165,"International with US Degree",6,1.1,4
+"PhD","Website",NA,155,169,"International",22,2.8,4
+"PhD","E-mail",3.8,142,165,"International",53,6.9,4
+"MS","E-mail",NA,NA,NA,"International",15,1.9,4
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,4
+"PhD","E-mail",3.58,145,168,"International",25,3.5,4
+"MS","Other",3.55,152,159,"International with US Degree",39,2.4,3
+"PhD","E-mail",3.33,157,170,"American",25,3.5,4
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,4
+"PhD","Website",NA,NA,NA,"International",73,6.7,4
+"PhD","E-mail",NA,NA,NA,"International",33,3.4,4
+"MS","E-mail",3.73,157,164,"American",46,4.3,4
+"MS","E-mail",3.5,169,165,"International",42,5.4,4
+"MS","E-mail",NA,NA,NA,"International with US Degree",22,1.9,4
+"MS","E-mail",NA,NA,NA,"American",47,5.8,4
+"PhD","Website",NA,NA,NA,"International",21,2.4,4
+"MS","E-mail",NA,NA,NA,"American",47,5.8,4
+"MS","E-mail",NA,155,167,"International",52,6.4,4
+"PhD","E-mail",NA,NA,NA,"International",15,1.9,4
+"MS","Website",4,161,163,"International",73,6.7,4
+"MS","E-mail",3.8,157,166,"International",22,2.4,4
+"PhD","E-mail",NA,NA,NA,"International",22,1.9,4
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",3.53,163,158,"American",22,2.8,4
+"MS","Website",3.93,155,167,"International",73,6.7,4
+"MS","Website",NA,150,170,"International",73,6.7,4
+"MS","Website",NA,NA,NA,"International",73,6.7,4
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,4
+"MS","Website",3.8,153,166,"International",73,6.7,4
+"PhD","Website",NA,157,151,"International",55,4.3,4
+"PhD","E-mail",3.51,150,165,"International",33,3.4,4
+"MS","Website",NA,160,169,"International",73,6.7,4
+"MS","E-mail",NA,161,168,"International",37,5,4
+"MS","Website",NA,162,170,"International",26,3.3,3
+"MS","Website",NA,162,170,"International",73,6.7,3
+"PhD","E-mail",3.92,147,167,"International",11,1.4,3
+"PhD","Other",NA,NA,NA,"International",52,6.4,4
+"PhD","E-mail",3.62,157,165,"American",15,1.5,4
+"MS","E-mail",3.76,164,163,"International",68,8.7,4
+"PhD","E-mail",3.5,166,155,"International",35,3.4,4
+"MS","E-mail",3,154,170,"International",46,5.6,4
+"MS","Website",3.2,161,161,"International",50,4.7,4
+"MS","E-mail",NA,NA,NA,"International",50,4.7,4
+"MS","E-mail",NA,NA,NA,"International",63,8.6,4
+"PhD","E-mail",NA,NA,NA,"International",63,8.6,4
+"PhD","E-mail",3.85,160,152,"American",63,8.6,4
+"PhD","E-mail",NA,149,170,"International",83,9.9,4
+"MS","E-mail",NA,154,161,"International",23,1.9,4
+"PhD","Website",NA,NA,NA,"Other",35,3.4,4
+"MS","Website",3.93,165,159,"International",30,2.3,3
+"PhD","E-mail",NA,NA,NA,"American",63,8.6,3
+"MS","E-mail",NA,NA,NA,"International",23,1.9,4
+"PhD","E-mail",NA,NA,NA,"International",47,3,3
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",24,2,2
+"MS","Website",3.43,151,166,"International",30,2.3,4
+"MS","E-mail",NA,157,167,"International",35,3.4,3
+"MS","E-mail",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",3.74,155,164,"International",63,8.6,4
+"PhD","E-mail",3.7,155,163,"International with US Degree",47,3,3
+"PhD","E-mail",3.85,160,152,"American",47,3,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",40,3.6,3
+"PhD","E-mail",NA,NA,NA,"International",73,6.7,3
+"MS","E-mail",3.25,159,168,"American",22,2.8,3
+"MS","E-mail",3.5,147,163,"American",152,18.1,3
+"MS","E-mail",3.9,159,170,"International",37,5,3
+"MS","E-mail",3.2,151,167,"International",42,5.4,3
+"MS","E-mail",NA,NA,NA,"International",36,2.8,3
+"PhD","E-mail",3.43,145,160,"International",30,2.8,3
+"MS","E-mail",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"International",37,3.4,3
+"MS","E-mail",NA,170,163,"American",26,3.3,3
+"MS","E-mail",3.52,146,170,"International with US Degree",42,5.4,3
+"MS","E-mail",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"American",47,5.8,3
+"MS","E-mail",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",3.17,149,160,"International",NA,NA,3
+"MS","E-mail",NA,NA,NA,"American",37,5,3
+"MS","E-mail",NA,NA,NA,"American",37,5,3
+"PhD","E-mail",3.65,NA,NA,"American",30,2.8,3
+"MS","E-mail",NA,NA,NA,"International",25,3.5,3
+"MS","E-mail",4,164,167,"International",63,8.6,3
+"PhD","E-mail",NA,NA,NA,"International",37,3.4,3
+"MS","E-mail",3,153,163,"International",22,2.4,3
+"MS","E-mail",3.88,152,164,"International",25,3.5,3
+"MS","Website",NA,NA,NA,"International",25,3.5,3
+"MS","E-mail",NA,NA,NA,"International",22,2.8,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",25,3.5,3
+"MS","E-mail",3.61,158,163,"American",26,3.3,3
+"PhD","E-mail",NA,NA,NA,"American",30,2.3,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",53,6.9,3
+"PhD","Website",3.5,159,170,"American",35,3.4,3
+"MS","E-mail",NA,NA,NA,"International",53,6.9,3
+"MS","E-mail",NA,NA,NA,"International",10,1.5,3
+"MS","Website",NA,NA,NA,"International",13,1.8,3
+"MS","E-mail",3.5,157,168,"International",26,2.3,3
+"MS","E-mail",3.89,161,164,"International",57,11.5,3
+"MS","E-mail",NA,161,156,"International",50,5.7,3
+"MS","E-mail",NA,NA,NA,"International",57,11.5,3
+"PhD","Website",NA,NA,NA,"International",29,4.2,3
+"MS","E-mail",3.88,157,165,"International",37,5,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",57,11.5,3
+"MS","E-mail",3.9,166,170,"American",57,11.5,3
+"MS","E-mail",3.66,166,169,"American",57,11.5,3
+"MS","E-mail",3.91,169,160,"International",57,11.5,3
+"MS","E-mail",3.72,167,167,"American",57,11.5,3
+"MS","E-mail",3.7,162,148,"International",35,3.4,3
+"MS","E-mail",3.85,158,170,"International",57,11.5,3
+"MS","E-mail",3.9,160,165,"American",57,11.5,3
+"MS","E-mail",3.94,170,170,"American",57,11.5,3
+"MS","E-mail",3.75,163,169,"American",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",37,5,3
+"MS","E-mail",NA,NA,NA,"International",53,4.8,1
+"PhD","E-mail",NA,NA,NA,"International",43,3.6,3
+"PhD","Website",NA,148,164,"International",26,2.3,3
+"MS","E-mail",NA,NA,NA,"American",47,3,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",73,6.7,2
+"MS","E-mail",3.9,162,166,"International",47,5.8,3
+"MS","E-mail",NA,NA,NA,"International",50,4.7,3
+"MS","E-mail",NA,NA,NA,"International",10,1.3,3
+"MS","E-mail",NA,NA,NA,"Other",47,3,3
+"PhD","Website",3.43,151,166,"International",26,3.3,3
+"MS","E-mail",NA,155,170,"International",48,5.9,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",50,5.7,3
+"MS","E-mail",NA,NA,NA,"International",38,3.1,3
+"PhD","E-mail",NA,NA,NA,"American",47,5.8,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,166,170,"International",83,11.1,3
+"MS","E-mail",3.56,161,161,"American",38,3.1,3
+"MS","E-mail",2.19,148,160,"International",48,5.9,3
+"PhD","E-mail",NA,152,166,"International",30,2.8,3
+"MS","E-mail",NA,NA,NA,"American",48,5.9,3
+"MS","E-mail",NA,NA,NA,"International",38,3.1,3
+"MS","E-mail",2.98,154,168,"International",50,5.7,3
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,3
+"MS","E-mail",NA,NA,NA,"American",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,3
+"PhD","E-mail",3.81,163,165,"International",22,2.4,3
+"MS","E-mail",NA,NA,NA,"International",68,8.7,3
+"MS","E-mail",3.7,159,158,"International",73,6.7,3
+"MS","Website",NA,NA,NA,"American",73,6.7,3
+"MS","E-mail",NA,NA,NA,"International",47,3,3
+"MS","E-mail",3.63,162,153,"American",57,8.4,3
+"MS","E-mail",NA,NA,NA,"International",57,8.4,3
+"PhD","Website",NA,NA,NA,"International",33,2.8,3
+"MS","E-mail",3.5,161,163,"International",152,18.1,3
+"MS","E-mail",NA,NA,NA,"International",37,5,3
+"MS","E-mail",3.95,163,166,"International",30,2.3,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",55,4.3,3
+"MS","Website",3.86,161,168,"International",52,6.4,3
+"MS","Website",NA,NA,NA,"American",35,3.4,3
+"MS","E-mail",NA,NA,NA,"International",30,2.8,3
+"PhD","E-mail",3.86,145,164,"Other",23,2.7,3
+"PhD","E-mail",3.86,145,164,"Other",33,2.8,2
+"MS","Website",NA,153,167,"International",52,6.4,3
+"MS","Website",3.92,152,167,"International",52,6.4,3
+"MS","Other",3.9,161,157,"International",33,3.4,3
+"PhD","E-mail",3.92,150,170,"International",37,3.1,3
+"MS","Website",3.2,151,167,"International",30,2.3,3
+"MS","Website",NA,147,164,"International",30,2.3,3
+"MS","E-mail",NA,NA,NA,"International",25,3.5,2
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",3.3,161,161,"International",83,9.9,3
+"MS","E-mail",3.6,156,170,"International",83,9.9,3
+"PhD","E-mail",3.42,142,170,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,156,165,"International",30,2.3,3
+"MS","E-mail",3.2,160,161,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",3.85,155,166,"American",83,9.9,3
+"PhD","E-mail",3.88,157,161,"International",24,1.6,3
+"PhD","E-mail",3.78,146,170,"International",22,2.8,3
+"PhD","Website",NA,NA,NA,"International with US Degree",38,3.1,3
+"MS","E-mail",3.6,159,165,"International",33,3.4,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",22,1.9,3
+"MS","E-mail",3.3,161,168,"International",30,2.3,3
+"PhD","E-mail",3.42,146,163,"International",10,1.2,3
+"PhD","Website",3.42,146,163,"International",13,1.8,3
+"MS","E-mail",3.8,152,163,"International",13,1.4,3
+"MS","Website",3.26,161,164,"American",29,4.2,3
+"PhD","E-mail",3.4,148,160,"International",23,2.7,3
+"MS","E-mail",3.4,162,155,"American",73,6.7,3
+"PhD","E-mail",3.81,151,155,"International",39,2.4,3
+"PhD","E-mail",NA,NA,NA,"American",46,5.6,3
+"PhD","E-mail",NA,NA,NA,"International",23,2.7,3
+"MS","Website",NA,NA,NA,"International",152,18.1,3
+"PhD","E-mail",3.61,170,148,"International",47,3,3
+"PhD","E-mail",NA,NA,NA,"International",23,2.7,3
+"PhD","Website",NA,NA,NA,"International with US Degree",73,6.7,3
+"MS","E-mail",3.72,155,168,"International",152,18.1,3
+"PhD","Website",NA,NA,NA,"American",46,5.6,3
+"MS","E-mail",3.9,153,160,"International with US Degree",22,2.4,3
+"MS","E-mail",NA,NA,NA,"American",152,18.1,3
+"MS","E-mail",NA,NA,NA,"International",152,18.1,3
+"PhD","Website",NA,NA,NA,"American",85,12.3,3
+"PhD","E-mail",NA,NA,NA,"International",37,5,3
+"PhD","Website",NA,NA,NA,"International",22,2.4,3
+"MS","E-mail",3.8,153,164,"International",39,2.4,3
+"PhD","E-mail",NA,NA,NA,"International",43,3.6,3
+"PhD","Website",NA,NA,NA,"International",22,1.9,2
+"PhD","E-mail",NA,NA,NA,"International",21,2.4,3
+"MS","E-mail",4,164,170,"International",73,6.7,3
+"PhD","E-mail",NA,NA,NA,"International",32,2.7,2
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","Website",NA,NA,NA,"American",12,1.5,3
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,3
+"MS","E-mail",NA,NA,NA,"International",19,2.8,3
+"MS","Website",3.6,170,156,"International",37,3.4,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",21,2.4,3
+"MS","Website",3.85,166,155,"American",21,2.4,3
+"MS","E-mail",3.8,153,166,"International",152,18.1,3
+"MS","E-mail",3.8,167,170,"International with US Degree",152,18.1,3
+"PhD","E-mail",4,160,168,"International",48,5.9,2
+"PhD","E-mail",4,160,168,"International",46,5.6,2
+"PhD","E-mail",4,160,168,"International",26,2.5,2
+"MS","E-mail",4,151,163,"International",152,18.1,3
+"MS","E-mail",3.2,154,164,"International",53,6.9,3
+"PhD","E-mail",3.82,153,168,"International",34,2.3,3
+"MS","E-mail",NA,NA,NA,"International",23,2.7,3
+"MS","E-mail",3.93,154,158,"International",53,6.9,3
+"MS","E-mail",NA,NA,NA,"American",73,6.7,3
+"PhD","Website",3.1,150,170,"International",55,4.7,3
+"MS","E-mail",NA,NA,NA,"International",40,3.6,3
+"MS","E-mail",3.38,157,157,"American",152,18.1,3
+"PhD","Website",NA,NA,NA,"International",53,4.8,1
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",3.5,160,170,"International",48,5.9,3
+"MS","E-mail",NA,155,167,"International",73,6.7,2
+"MS","E-mail",3.69,156,165,"International",23,2.7,3
+"PhD","Other",NA,NA,NA,"International",46,4.3,3
+"PhD","E-mail",3.09,145,157,"International",17,1.5,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",26,3.3,3
+"PhD","E-mail",3.78,165,170,"American",26,3.3,3
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",3.98,144,162,"International",28,2,3
+"MS","E-mail",NA,NA,NA,"International",30,2.8,3
+"PhD","E-mail",NA,NA,NA,"American",28,2,2
+"PhD","E-mail",3.8,141,168,"International",28,2,2
+"PhD","E-mail",NA,NA,NA,"American",19,2.8,2
+"PhD","E-mail",3.3,142,164,"International with US Degree",32,2.7,2
+"PhD","E-mail",NA,159,158,"International",37,3.4,2
+"PhD","E-mail",4,155,170,"International",83,11.1,2
+"PhD","Website",NA,165,156,"International",85,12.3,2
+"PhD","Website",NA,NA,NA,"International",37,3.1,2
+"PhD","E-mail",NA,156,159,"International",32,2.7,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",32,2.7,2
+"MS","E-mail",NA,NA,NA,"American",83,9.9,2
+"PhD","Website",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",3.5,159,170,"American",39,2.4,2
+"PhD","Website",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",3.7,168,152,"American",42,5.4,2
+"PhD","E-mail",3.88,157,161,"International",46,4.3,2
+"PhD","E-mail",3.7,170,160,"International with US Degree",46,4.3,2
+"PhD","E-mail",NA,156,159,"International",46,4.3,2
+"PhD","E-mail",NA,NA,NA,"International",14,1.5,2
+"PhD","E-mail",NA,NA,NA,"International",12,1.2,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",43,3.6,2
+"PhD","E-mail",NA,NA,NA,"International",10,1.3,2
+"PhD","Website",NA,NA,NA,"International",24,2.1,2
+"PhD","E-mail",NA,165,166,"International",53,4.8,2
+"PhD","Website",3.74,170,149,"International with US Degree",24,2.1,2
+"PhD","Other",3.7,152,164,"International",55,4.7,2
+"PhD","E-mail",NA,NA,NA,"American",43,3.6,2
+"PhD","E-mail",NA,NA,NA,"American",53,6.9,2
+"MS","E-mail",3.7,167,163,"American",68,8.7,2
+"PhD","E-mail",3.95,147,170,"International",57,8.4,2
+"PhD","E-mail",3.95,147,170,"International",73,6.7,2
+"MS","E-mail",3.88,167,163,"American",68,8.7,2
+"MS","E-mail",NA,NA,NA,"Other",11,1.4,2
+"MS","E-mail",3.6,152,161,"International",53,4.8,2
+"PhD","E-mail",3.6,157,170,"International",53,4.8,2
+"MS","Website",NA,NA,NA,"International",83,11.1,2
+"PhD","Website",NA,NA,NA,"International",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",22,2.5,2
+"PhD","E-mail",4,170,169,"American",39,2.4,2
+"PhD","Website",NA,NA,NA,"International",21,2.4,2
+"MS","E-mail",3.95,163,166,"International",40,3.6,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",51,5.3,2
+"PhD","E-mail",3.57,154,164,"International",48,5.9,2
+"MS","Website",3.5,150,162,"American",83,11.1,2
+"MS","E-mail",NA,166,170,"International",51,5.3,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",51,5.3,2
+"PhD","Website",NA,NA,NA,"International",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International",20,2.3,2
+"PhD","Website",NA,146,170,"International",83,11.1,2
+"PhD","E-mail",3.92,150,170,"International",73,6.7,2
+"PhD","E-mail",3.7,151,164,"International",19,1.6,2
+"PhD","E-mail",3.7,151,164,"International",13,1.4,2
+"MS","E-mail",NA,NA,NA,"International",48,5.9,2
+"MS","E-mail",3.5,154,166,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",3.7,163,170,"International with US Degree",37,3.1,2
+"PhD","E-mail",4,162,170,"American",57,8.4,1
+"PhD","E-mail",3.75,164,163,"American",83,11.1,2
+"MS","E-mail",3.67,154,169,"International with US Degree",152,18.1,2
+"PhD","E-mail",3.9,147,162,"International",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",48,5.9,2
+"PhD","E-mail",3.96,148,170,"International",48,5.9,2
+"PhD","E-mail",3.7,157,167,"International with US Degree",48,5.9,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"MS","E-mail",4,164,167,"International",152,18.1,2
+"MS","E-mail",4,152,165,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",3.69,142,157,"International",34,2.3,1
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,2
+"PhD","E-mail",3.7,144,163,"International",48,5.9,2
+"MS","E-mail",NA,160,166,"International",48,5.9,2
+"PhD","E-mail",3.5,149,163,"International",48,5.9,2
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,2
+"PhD","E-mail",3.1,162,158,"International",30,2.3,2
+"PhD","Website",3.57,164,153,"Other",46,5.6,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",3.76,164,170,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"MS","E-mail",3.6,152,168,"International",152,18.1,2
+"PhD","E-mail",3.76,164,170,"International",52,6.4,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",3.85,166,170,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",52,6.4,2
+"PhD","E-mail",3.8,142,165,"International",53,4.8,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",39,2.4,2
+"MS","Website",3.64,154,167,"International",43,3.6,2
+"PhD","E-mail",3.8,166,153,"International",51,5.3,2
+"MS","E-mail",NA,NA,NA,"International",53,6.9,2
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"MS","Website",2.19,148,160,"International",55,4.7,2
+"PhD","Website",NA,NA,NA,"International",55,4.3,2
+"PhD","Website",3.78,146,170,"International",55,4.3,2
+"MS","E-mail",3.7,162,168,"International",152,18.1,2
+"PhD","E-mail",3.98,144,162,"International",12,1.4,2
+"MS","E-mail",3.5,153,168,"International",50,5.7,2
+"PhD","Other",NA,NA,NA,"American",29,4.2,2
+"PhD","E-mail",3.88,164,170,"International with US Degree",68,8.7,2
+"PhD","E-mail",4,156,170,"International",51,5.3,2
+"PhD","E-mail",3.9,146,168,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",3.6,167,166,"International",51,5.3,2
+"PhD","E-mail",3.6,167,158,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International",26,2.5,2
+"PhD","Website",NA,NA,NA,"International",26,3.3,2
+"PhD","E-mail",NA,170,161,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",47,5.8,2
+"PhD","E-mail",3.51,153,163,"International",10,1.3,2
+"PhD","E-mail",3.43,151,166,"International",12,1.5,2
+"PhD","E-mail",3.53,158,166,"International",50,4.7,2
+"PhD","E-mail",NA,NA,NA,"International",50,4.7,2
+"PhD","Website",3.64,156,166,"International",NA,NA,2
+"PhD","E-mail",3.66,167,163,"American",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"American",68,8.7,2
+"PhD","E-mail",3.99,163,170,"American",50,4.7,2
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,2
+"PhD","E-mail",NA,NA,NA,"American",152,18.1,2
+"PhD","E-mail",3.8,162,170,"International with US Degree",57,8.4,1
+"PhD","E-mail",NA,NA,NA,"International",29,4.2,2
+"MS","E-mail",3.72,150,170,"International",152,18.1,2
+"PhD","E-mail",4,155,155,"International with US Degree",57,11.5,2
+"PhD","E-mail",NA,157,166,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,8.4,1
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",3.83,157,167,"American",57,8.4,1
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","Website",NA,NA,NA,"International",73,6.7,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",3.96,148,170,"International",48,5.9,1
+"PhD","Website",3.9,157,156,"American",13,1.8,2
+"MS","E-mail",NA,162,170,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",35,3.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","E-mail",NA,166,168,"International",57,11.5,2
+"PhD","E-mail",NA,165,158,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",NA,154,169,"International",73,6.7,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",NA,152,170,"International",83,11.1,2
+"MS","E-mail",3.99,163,170,"American",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",12,1.4,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",6,1.2,2
+"PhD","E-mail",NA,168,170,"International",25,3.5,2
+"PhD","E-mail",NA,154,169,"International",57,8.4,1
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",3.99,159,170,"International",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",25,3.5,2
+"PhD","E-mail",3,142,163,"International",37,3.4,2
+"MS","E-mail",3.6,152,160,"International",24,2,12
+"PhD","E-mail",3.4,168,157,"International",55,4.3,2
+"PhD","E-mail",3,153,164,"International",12,1.4,2
+"MS","E-mail",NA,NA,NA,"International",83,9.9,2
+"MS","E-mail",NA,166,165,"International",83,9.9,2
+"PhD","E-mail",NA,NA,NA,"American",46,5.6,2
+"MS","Website",NA,NA,NA,"International",53,4.8,1
+"MS","Website",3.3,161,161,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",26,2.3,2
+"PhD","E-mail",3.35,154,168,"International",73,6.7,2
+"PhD","Website",NA,NA,NA,"American",73,6.7,2
+"PhD","Website",3.7,156,169,"International",73,6.7,2
+"PhD","E-mail",NA,NA,NA,"American",46,5.6,2
+"MS","E-mail",3.57,153,164,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,165,170,"International",55,4.3,1
+"PhD","E-mail",NA,NA,NA,"American",152,18.1,2
+"PhD","E-mail",NA,162,168,"International",37,3.4,1
+"MS","E-mail",3.86,170,164,"American",83,9.9,2
+"PhD","E-mail",NA,NA,NA,"International",40,3.6,2
+"PhD","E-mail",3.81,162,166,"American",57,8.4,1
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,155,168,"American",NA,NA,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"American",23,2.7,1
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",3.9,156,157,"American",57,8.4,1
+"PhD","E-mail",NA,NA,NA,"American",23,2.7,1
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,8.4,NA
+"PhD","E-mail",3.6,159,170,"International",48,5.9,1
+"PhD","Phone",3.96,162,168,"American",57,8.4,1
+"PhD","E-mail",NA,165,170,"International",37,3.4,1
+"MS","E-mail",NA,NA,NA,"International",55,4.7,1
+"PhD","E-mail",3.68,160,166,"International with US Degree",24,2,1
+"PhD","E-mail",3.96,162,168,"American",22,2.4,1
+"MS","E-mail",3.49,165,166,"American",53,6.9,1
+"PhD","E-mail",NA,161,170,"International",83,9.9,1
+"PhD","E-mail",3.83,160,170,"American",57,8.4,1
+"PhD","E-mail",3.9,165,169,"International",63,8.6,1
+"PhD","E-mail",3.77,158,163,"International",57,8.4,1
+"PhD","E-mail",3.83,169,154,"American",83,9.9,1
+"PhD","E-mail",4,161,170,"International with US Degree",37,3.1,1
+"PhD","E-mail",3.84,170,168,"American",83,9.9,1
+"PhD","E-mail",4,163,170,"American",46,5.6,1
+"PhD","Other",NA,NA,NA,"International with US Degree",12,1.8,1
+"PhD","E-mail",NA,NA,NA,"International",35,3.4,1
+"PhD","Website",NA,NA,NA,"American",46,5.6,1
+"MS","E-mail",NA,NA,NA,"International",20,1.5,1
+"PhD","E-mail",3.6,152,164,"International with US Degree",33,2.8,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",83,9.9,1
+"PhD","E-mail",NA,NA,NA,"American",42,5.4,1
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,1
+"PhD","E-mail",3.8,162,170,"International with US Degree",83,9.9,1
+"PhD","E-mail",NA,168,152,"International",83,9.9,1
+"PhD","E-mail",4,167,165,"American",83,9.9,1
+"PhD","Website",NA,NA,NA,"American",37,3.1,1
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,1
+"MS","E-mail",3.77,151,160,"American",53,4.8,1
+"PhD","E-mail",4,162,170,"American",83,9.9,1
+"MS","E-mail",3.42,162,165,"American",53,6.9,1
+"MS","Website",3.66,167,163,"American",11,1.2,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,4.8,1
+"MS","Website",NA,NA,NA,"International with US Degree",53,4.8,12
+"MS","E-mail",3.03,143,164,"International",53,4.8,11
+"MS","E-mail",NA,156,169,"International",38,3.1,11
+"MS","E-mail",3,167,157,"American",46,4.3,4
+"MS","E-mail",3.6,150,162,"International",34,2.3,9
+"PhD","Other",3.7,159,165,"Other",57,11.5,2
+"MS","Other",3.2,159,165,"International with US Degree",57,11.5,2
+"PhD","Other",NA,NA,NA,"International",11,1.6,6
+"PhD","E-mail",4,155,160,"International",28,2.9,6
+"MS","Website",3.26,156,149,"International",37,3.1,5
+"MS","E-mail",3.26,156,149,"International",36,2.8,5
+"PhD","Other",3.44,150,160,"International with US Degree",50,5.7,5
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,5
+"MS","E-mail",NA,NA,NA,"International",42,5.4,5
+"PhD","E-mail",NA,NA,NA,"International",23,1.9,5
+"PhD","E-mail",4,165,166,"International with US Degree",83,11.1,5
+"PhD","E-mail",4,152,158,"International",6,1.2,4
+"MS","E-mail",NA,NA,NA,"International",24,1.6,5
+"MS","Website",NA,NA,NA,"International with US Degree",46,4.3,5
+"MS","Website",NA,NA,NA,"International",11,1.4,5
+"MS","Website",NA,NA,NA,"International",39,2.4,5
+"PhD","E-mail",3.8,160,167,"International",83,11.1,3
+"MS","E-mail",NA,NA,NA,"International",33,3.4,5
+"PhD","E-mail",NA,NA,NA,"International with US Degree",19,1.9,4
+"MS","E-mail",NA,NA,NA,"International",47,5.8,4
+"MS","E-mail",NA,NA,NA,"International",47,5.8,4
+"PhD","E-mail",3.68,149,161,"International",19,1.9,4
+"PhD","E-mail",3.4,170,140,"International",19,2.8,4
+"MS","E-mail",NA,NA,NA,"International",19,2.8,4
+"PhD","E-mail",2.9,162,163,"International",55,4.7,1
+"MS","E-mail",NA,NA,NA,"International",47,5.8,4
+"MS","E-mail",3.2,157,163,"International",22,2.4,4
+"MS","E-mail",3,154,162,"International",53,6.9,4
+"PhD","E-mail",NA,NA,NA,"International",55,4.3,4
+"PhD","E-mail",NA,154,166,"International",15,1.5,4
+"PhD","E-mail",3.96,147,161,"International",15,1.5,3
+"MS","Website",3.5,153,166,"International",55,4.3,4
+"MS","E-mail",NA,NA,NA,"International with US Degree",152,18.1,4
+"MS","E-mail",3.51,145,160,"International",37,3.1,4
+"MS","Website",NA,154,162,"International",NA,NA,4
+"PhD","E-mail",NA,NA,NA,"American",13,1.8,4
+"PhD","E-mail",3.96,147,161,"International",22,1.9,4
+"MS","Website",NA,NA,NA,"American",26,3.3,4
+"MS","E-mail",NA,NA,NA,"International",19,1.6,4
+"MS","E-mail",3.74,156,158,"International with US Degree",50,5.7,4
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,4
+"PhD","E-mail",3.8,168,166,"International",21,2.1,4
+"PhD","E-mail",3.6,167,166,"International",22,2.5,4
+"MS","Website",NA,NA,NA,"International with US Degree",37,3.1,4
+"PhD","Other",NA,NA,NA,"International with US Degree",152,18.1,4
+"PhD","Other",NA,NA,NA,"International with US Degree",42,5.4,4
+"PhD","E-mail",3.4,155,147,"International",29,4.2,4
+"MS","E-mail",3.66,160,166,"International",23,1.9,4
+"PhD","E-mail",3.85,155,163,"International with US Degree",21,2.1,4
+"MS","E-mail",3.5,144,154,"International",6,1.2,3
+"PhD","E-mail",3.64,160,163,"American",52,6.4,4
+"PhD","Other",3.5,167,166,"International",37,3.1,4
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,4
+"PhD","Website",3.85,160,161,"International",37,3.4,4
+"PhD","E-mail",NA,NA,NA,"International",37,5,4
+"PhD","Website",3.5,154,168,"International",37,3.4,4
+"PhD","Website",NA,NA,NA,"International",37,3.4,4
+"PhD","E-mail",3.82,154,170,"International",68,8.7,4
+"PhD","E-mail",NA,NA,NA,"International",NA,NA,4
+"MS","E-mail",NA,NA,NA,"American",53,6.9,4
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,4
+"MS","E-mail",NA,NA,NA,"International",6,1.1,3
+"MS","E-mail",NA,NA,NA,"American",15,1.9,4
+"MS","Website",NA,NA,NA,"International",42,5.4,4
+"MS","E-mail",3.7,150,162,"International",50,5.7,4
+"MS","E-mail",NA,NA,NA,"International with US Degree",37,5,4
+"MS","E-mail",3.93,155,157,"American",30,2.8,4
+"PhD","E-mail",3.54,152,166,"International with US Degree",37,3.1,4
+"PhD","E-mail",3.6,140,162,"International",36,2.8,4
+"MS","E-mail",3.9,162,170,"International",30,2.8,4
+"MS","E-mail",NA,NA,NA,"International",53,4.8,3
+"MS","E-mail",NA,NA,NA,"International",47,3,4
+"PhD","E-mail",NA,NA,NA,"American",15,1.9,4
+"PhD","E-mail",NA,NA,NA,"International",15,1.9,4
+"MS","E-mail",3.72,158,162,"International with US Degree",37,5,4
+"PhD","E-mail",NA,NA,NA,"International",22,2.8,4
+"PhD","E-mail",NA,NA,NA,"International",63,8.6,4
+"PhD","E-mail",3.24,161,162,"International",21,2.1,4
+"PhD","E-mail",3.7,168,166,"International",63,8.6,4
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,2
+"PhD","E-mail",3.08,163,158,"American",55,4.7,4
+"MS","E-mail",3.8,155,163,"International",37,5,3
+"MS","E-mail",3.3,156,166,"International",37,5,4
+"PhD","E-mail",NA,NA,NA,"International",19,1.9,4
+"MS","E-mail",3.2,158,166,"International",68,8.7,4
+"MS","E-mail",3.51,145,160,"International",40,3.6,4
+"PhD","E-mail",NA,NA,NA,"American",50,4.7,4
+"MS","E-mail",NA,NA,NA,"International",21,2.4,2
+"PhD","Website",2.9,150,161,"International",50,4.7,4
+"PhD","Website",NA,NA,NA,"International",55,4.3,4
+"PhD","E-mail",3.72,143,162,"International",53,6.9,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,6.9,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",46,4.3,4
+"MS","E-mail",NA,NA,NA,"International with US Degree",53,6.9,4
+"MS","E-mail",3.74,156,158,"International with US Degree",53,6.9,4
+"MS","E-mail",NA,NA,NA,"International",53,6.9,4
+"MS","E-mail",3.52,155,169,"International",53,6.9,4
+"MS","E-mail",NA,151,165,"International",53,6.9,4
+"MS","E-mail",3.93,163,170,"International",37,5,4
+"MS","Website",NA,NA,NA,"International with US Degree",46,5.6,4
+"PhD","E-mail",NA,NA,NA,"International",19,2.8,4
+"MS","E-mail",3.87,153,164,"International",46,5.6,4
+"MS","E-mail",NA,NA,NA,"International",13,1.5,3
+"MS","E-mail",3.57,152,168,"International",47,5.8,4
+"PhD","E-mail",NA,NA,NA,"International",22,2.5,4
+"MS","E-mail",NA,NA,NA,"International",42,5.4,3
+"MS","E-mail",NA,NA,NA,"International",6,1.1,3
+"MS","E-mail",3.72,168,167,"American",57,11.5,3
+"PhD","Other",NA,NA,NA,"American",40,3.6,3
+"PhD","E-mail",3.92,153,161,"International",73,6.7,3
+"MS","E-mail",3,149,166,"International",NA,NA,3
+"MS","E-mail",NA,NA,NA,"International",37,5,3
+"PhD","Website",3.75,160,168,"International",83,11.1,3
+"PhD","Website",3.94,155,168,"International",83,11.1,3
+"MS","E-mail",NA,NA,NA,"International",37,5,3
+"MS","E-mail",3.93,157,155,"American",50,5.7,3
+"MS","E-mail",3.5,168,154,"International",42,5.4,3
+"PhD","E-mail",NA,156,164,"International",73,6.7,3
+"MS","E-mail",3.1,169,159,"International",47,3,3
+"MS","E-mail",3.1,169,159,"International",26,3.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",50,4.7,3
+"MS","E-mail",3,150,170,"International",52,6.4,3
+"MS","E-mail",3.7,168,166,"International",37,5,3
+"MS","E-mail",3.46,149,163,"International",10,1.2,3
+"MS","E-mail",3.52,155,169,"International",47,5.8,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",20,2.3,3
+"MS","E-mail",3.88,164,168,"International",57,11.5,3
+"MS","E-mail",3.22,NA,NA,"International",23,1.9,3
+"MS","E-mail",3.89,155,161,"American",47,3,3
+"MS","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","Website",3.95,167,166,"International",42,5.4,3
+"MS","E-mail",3.6,155,163,"International",57,11.5,3
+"MS","E-mail",3.91,166,169,"International",57,11.5,3
+"MS","E-mail",NA,166,164,"International",57,11.5,3
+"MS","E-mail",3.33,167,170,"American",57,11.5,3
+"PhD","Website",3.94,166,154,"International",42,5.4,3
+"MS","E-mail",NA,NA,NA,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",57,11.5,3
+"MS","E-mail",3.76,150,170,"International",57,11.5,3
+"MS","E-mail",3.68,170,147,"International",57,11.5,3
+"MS","E-mail",3.98,166,170,"American",57,11.5,3
+"MS","E-mail",3,157,163,"American",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",57,11.5,3
+"MS","E-mail",3.6,165,165,"International",57,11.5,3
+"MS","Website",3.95,153,163,"International",42,5.4,3
+"MS","Website",4,169,146,"International with US Degree",42,5.4,3
+"MS","E-mail",NA,NA,NA,"International",47,5.8,3
+"PhD","E-mail",NA,153,170,"International",22,2.4,3
+"MS","E-mail",3.2,158,166,"International",40,3.6,3
+"PhD","Website",3.35,142,167,"International",83,11.1,3
+"MS","E-mail",NA,NA,NA,"International",21,2.4,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",23,1.9,3
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,3
+"PhD","E-mail",4,169,170,"American",83,11.1,3
+"PhD","E-mail",3.6,163,170,"International",42,5.4,3
+"MS","Website",3.7,160,168,"American",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",50,4.7,2
+"PhD","E-mail",3.74,159,162,"International with US Degree",50,4.7,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",73,6.7,3
+"MS","E-mail",3.8,149,158,"International",73,6.7,3
+"MS","E-mail",NA,NA,NA,"International",68,8.7,3
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,3
+"MS","E-mail",NA,NA,NA,"International",68,8.7,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",30,2.3,2
+"PhD","Other",4,163,166,"International with US Degree",29,4.2,3
+"MS","E-mail",3.89,155,161,"American",25,3.5,3
+"PhD","E-mail",NA,NA,NA,"International",50,4.7,3
+"MS","Website",NA,NA,NA,"International",50,4.7,3
+"PhD","Website",3.25,155,165,"International",43,3.6,3
+"MS","E-mail",NA,158,169,"International",25,3.5,3
+"MS","E-mail",NA,NA,NA,"International",73,6.7,3
+"MS","Website",NA,NA,NA,"International",25,3.5,3
+"MS","E-mail",NA,NA,NA,"International",25,3.5,3
+"PhD","E-mail",NA,NA,NA,"International",33,2.8,2
+"MS","Website",NA,NA,NA,"International with US Degree",23,2.7,3
+"MS","E-mail",NA,NA,NA,"International",13,1.4,3
+"MS","Website",3.88,164,168,"International",11,1.4,3
+"MS","E-mail",3.6,165,165,"International",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International",23,2.7,3
+"PhD","Website",3.66,160,166,"International",NA,NA,3
+"PhD","Website",NA,NA,NA,"International",22,1.9,3
+"MS","E-mail",3.98,167,165,"American",52,6.4,2
+"MS","E-mail",3.98,167,165,"American",53,6.9,1
+"PhD","E-mail",3.96,166,163,"American",50,5.7,3
+"MS","E-mail",3.52,163,163,"American",152,18.1,3
+"PhD","E-mail",NA,NA,NA,"International",21,2.1,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",40,3.6,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",83,9.9,3
+"MS","E-mail",4,160,168,"International",83,9.9,3
+"MS","E-mail",3.44,154,158,"International",83,9.9,3
+"MS","E-mail",3.52,155,169,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",42,5.4,3
+"MS","E-mail",NA,NA,NA,"International",40,3.6,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",3.92,153,161,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","Website",NA,NA,NA,"International with US Degree",73,6.7,3
+"PhD","E-mail",NA,NA,NA,"International",73,6.7,3
+"MS","E-mail",NA,NA,NA,"American",42,5.4,3
+"MS","E-mail",3.66,166,166,"International",50,5.7,3
+"PhD","E-mail",3.8,165,166,"International",83,9.9,3
+"PhD","E-mail",3.94,166,154,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",55,4.7,3
+"MS","E-mail",NA,NA,NA,"International",38,3.1,3
+"MS","E-mail",3.97,170,164,"American",42,5.4,3
+"MS","Website",NA,NA,NA,"International",55,4.7,3
+"MS","E-mail",3.87,153,164,"International",13,1.6,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",13,1.6,3
+"MS","Website",3.2,157,165,"International",NA,NA,3
+"PhD","E-mail",3.02,147,163,"International",55,4.7,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",37,5,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",10,1.6,3
+"MS","E-mail",3.5,149,170,"International",38,3.1,3
+"PhD","Other",NA,159,164,"International",29,4.2,3
+"PhD","Website",3.81,155,169,"International",68,8.7,3
+"MS","Website",3.87,153,164,"International",13,1.6,3
+"PhD","Website",NA,NA,NA,"International",85,12.3,3
+"MS","Website",3.66,166,166,"International",152,18.1,3
+"PhD","E-mail",3.46,163,149,"International",36,2.8,3
+"MS","E-mail",3.81,169,170,"American",152,18.1,2
+"MS","Website",3.2,167,166,"International with US Degree",22,2.8,3
+"PhD","E-mail",3.57,149,167,"International",35,3.4,3
+"MS","E-mail",3.4,155,163,"American",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",85,12.3,3
+"MS","Other",3.63,143,165,"International",15,1.8,2
+"PhD","Website",NA,NA,NA,"International",52,6.4,3
+"MS","Website",NA,NA,NA,"American",52,6.4,3
+"PhD","Website",NA,NA,NA,"International",52,6.4,3
+"MS","E-mail",3.2,157,165,"International",39,2.4,3
+"MS","E-mail",3.1,145,162,"International",19,1.5,3
+"PhD","E-mail",3.65,145,158,"International",36,2.8,3
+"MS","E-mail",3,147,164,"American",152,18.1,3
+"MS","Website",NA,NA,NA,"International",26,2.5,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",13,1.8,3
+"PhD","Website",NA,NA,NA,"International",26,2.5,3
+"MS","E-mail",NA,NA,NA,"American",50,5.7,3
+"PhD","E-mail",NA,NA,NA,"International",30,2.8,3
+"PhD","Other",NA,NA,NA,"International",29,4.2,3
+"MS","E-mail",NA,NA,NA,"International",57,8.4,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",68,8.7,3
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,3
+"MS","E-mail",3.6,158,163,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,3
+"PhD","E-mail",NA,147,157,"International",25,3.5,3
+"PhD","Website",3.76,165,147,"International",25,3.5,3
+"PhD","Website",3.6,157,164,"International",13,1.8,3
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,3
+"PhD","Website",3.71,165,166,"American",46,5.6,3
+"MS","Website",3.81,168,164,"American",42,5.4,3
+"MS","E-mail",NA,NA,NA,"International",48,5.9,2
+"PhD","E-mail",3.85,148,166,"International",37,5,3
+"PhD","E-mail",NA,NA,NA,"American",46,5.6,3
+"PhD","E-mail",NA,NA,NA,"American",46,5.6,3
+"PhD","Website",NA,NA,NA,"International",24,2.1,2
+"PhD","E-mail",3.98,145,169,"International",37,5,3
+"PhD","E-mail",NA,NA,NA,"International",12,1.8,3
+"PhD","Website",NA,NA,NA,"American",13,1.6,3
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"MS","E-mail",4,161,162,"International",30,2.3,3
+"MS","E-mail",NA,NA,NA,"American",50,5.7,3
+"PhD","Website",NA,NA,NA,"International",52,6.4,3
+"PhD","Website",NA,NA,NA,"International",85,12.3,3
+"PhD","Website",3.65,160,168,"American",85,12.3,3
+"MS","Other",NA,NA,NA,"American",29,4.2,2
+"PhD","Website",3.68,164,153,"International",46,5.6,3
+"PhD","Website",NA,NA,NA,"International with US Degree",85,12.3,3
+"PhD","Website",3.87,150,170,"International with US Degree",85,12.3,3
+"PhD","Website",3.92,154,165,"International",85,12.3,3
+"PhD","Website",NA,NA,NA,"International",85,12.3,3
+"PhD","E-mail",4,169,168,"International",152,18.1,2
+"PhD","E-mail",3.89,147,163,"International",12,1.5,3
+"PhD","E-mail",3.9,158,170,"International",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"American",13,1.6,2
+"MS","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","Website",3.5,164,165,"American",24,2.1,2
+"PhD","E-mail",NA,NA,NA,"International",37,3.1,2
+"PhD","E-mail",NA,NA,NA,"International",33,2.8,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",42,2.6,2
+"MS","E-mail",3.8,170,170,"American",51,5.3,2
+"MS","E-mail",NA,NA,NA,"International",47,5.8,2
+"PhD","E-mail",NA,NA,NA,"International",55,4.3,2
+"PhD","E-mail",NA,NA,NA,"International",39,2.4,2
+"PhD","Website",3.89,147,163,"International",16,1.3,2
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,2
+"MS","E-mail",NA,NA,NA,"American",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"American",47,5.8,2
+"MS","E-mail",NA,163,165,"International",73,6.7,2
+"PhD","E-mail",NA,NA,NA,"International",26,3.3,2
+"PhD","E-mail",3.8,144,170,"International",35,3.4,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"American",38,3.1,2
+"PhD","Website",3.28,157,164,"International",13,1.8,1
+"PhD","Phone",NA,NA,NA,"International with US Degree",85,12.3,2
+"PhD","E-mail",3.5,161,169,"American",19,1.9,2
+"PhD","Phone",NA,NA,NA,"International with US Degree",85,12.3,2
+"MS","Website",NA,162,170,"International with US Degree",26,3.3,2
+"PhD","Other",4,152,158,"International",10,1.2,2
+"PhD","E-mail",3.7,167,151,"International",36,2.8,2
+"PhD","Website",3.8,167,169,"International with US Degree",73,6.7,2
+"PhD","E-mail",3.9,156,168,"American",53,6.9,2
+"PhD","Website",NA,159,164,"International",46,5.6,2
+"PhD","Website",NA,159,164,"International",46,5.6,2
+"MS","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",3.59,160,166,"International",35,3.4,2
+"PhD","E-mail",3.7,152,170,"International",32,2.7,2
+"MS","E-mail",NA,NA,NA,"International",32,2.7,2
+"PhD","E-mail",NA,NA,NA,"International",37,5,2
+"MS","E-mail",NA,NA,NA,"American",12,1.6,2
+"PhD","E-mail",3.8,167,166,"International with US Degree",32,2.7,2
+"MS","E-mail",3.89,NA,NA,"American",14,1.5,2
+"PhD","E-mail",3.4,159,165,"International",51,5.3,2
+"PhD","Website",NA,152,163,"International",37,3.1,2
+"PhD","E-mail",NA,NA,NA,"International",19,2.8,2
+"PhD","E-mail",NA,NA,NA,"International",12,1.4,2
+"PhD","E-mail",NA,NA,NA,"International",55,4.7,2
+"MS","E-mail",3.64,154,164,"International",53,4.8,2
+"PhD","E-mail",3.7,167,166,"International with US Degree",21,2.4,2
+"PhD","E-mail",3.63,163,170,"American",42,2.6,2
+"PhD","E-mail",NA,NA,NA,"International",85,12.3,2
+"MS","E-mail",NA,NA,NA,"American",53,4.8,2
+"PhD","Website",NA,159,170,"International",53,4.8,2
+"PhD","E-mail",3.91,163,168,"International",48,5.9,2
+"MS","E-mail",3.8,170,159,"International",48,5.9,2
+"PhD","E-mail",NA,NA,NA,"American",68,8.7,2
+"PhD","E-mail",3.9,158,170,"International",48,5.9,2
+"MS","E-mail",NA,162,165,"International",48,5.9,2
+"PhD","E-mail",3.57,157,168,"International",48,5.9,2
+"PhD","E-mail",NA,168,152,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International",33,3.4,2
+"PhD","E-mail",3.7,160,166,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",NA,159,164,"International",48,5.9,2
+"MS","E-mail",NA,NA,NA,"American",51,5.3,2
+"PhD","Website",3.74,169,151,"International with US Degree",53,4.8,2
+"PhD","Website",3.71,156,155,"International with US Degree",NA,NA,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"Other",53,4.8,2
+"PhD","Website",3.9,165,163,"American",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","Website",NA,NA,NA,"International with US Degree",50,4.7,2
+"MS","E-mail",3.76,167,169,"American",51,5.3,2
+"MS","E-mail",NA,NA,NA,"American",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,4.8,2
+"PhD","E-mail",3.1,150,170,"International",53,4.8,2
+"PhD","E-mail",3.64,160,163,"American",35,3.4,2
+"MS","E-mail",NA,NA,NA,"International",53,4.8,2
+"MS","E-mail",3.4,152,163,"International",30,2.3,2
+"MS","E-mail",NA,162,165,"International",22,2.4,2
+"PhD","E-mail",3.6,139,165,"International",24,2,2
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,2
+"PhD","E-mail",3.6,157,168,"International",37,3.1,1
+"PhD","E-mail",3.39,170,153,"International with US Degree",63,8.6,2
+"PhD","Other",NA,NA,NA,"International",73,6.7,2
+"PhD","E-mail",3.94,162,163,"American",53,4.8,2
+"MS","E-mail",4,154,169,"International",53,4.8,2
+"PhD","E-mail",3.75,163,170,"American",53,6.9,1
+"PhD","Website",4,157,170,"International",73,6.7,2
+"PhD","E-mail",NA,NA,NA,"American",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",13,1.8,2
+"PhD","E-mail",NA,NA,NA,"American",22,1.9,2
+"PhD","E-mail",2.98,162,166,"International with US Degree",46,4.3,2
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",46,4.3,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",3.6,148,163,"International",51,5.3,2
+"PhD","E-mail",4,169,170,"American",57,11.5,2
+"PhD","E-mail",3.5,145,167,"International",53,4.8,2
+"PhD","E-mail",3.84,160,164,"American",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",3.35,160,162,"International",19,1.6,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",3.85,161,169,"American",57,11.5,2
+"PhD","E-mail",3.8,165,170,"American",57,11.5,2
+"PhD","E-mail",3.64,160,163,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,11.5,2
+"PhD","E-mail",3.9,156,166,"International",57,11.5,2
+"PhD","E-mail",3.93,165,169,"International",57,11.5,2
+"PhD","E-mail",3.9,162,169,"International",57,8.4,2
+"PhD","Phone",NA,NA,NA,"American",46,4.3,2
+"MS","E-mail",NA,NA,NA,"American",26,2.5,2
+"PhD","E-mail",NA,NA,NA,"International",NA,NA,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"American",22,2.5,2
+"PhD","E-mail",NA,NA,NA,"American",25,3.5,2
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"PhD","E-mail",3.6,154,167,"International",55,4.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,2
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"PhD","Phone",NA,NA,NA,"American",57,11.5,2
+"MS","E-mail",3.87,170,148,"International with US Degree",26,2.5,2
+"PhD","E-mail",3.82,169,170,"American",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,8.4,2
+"PhD","E-mail",3.64,160,163,"American",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,8.4,2
+"PhD","Phone",NA,NA,NA,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",10,1.2,2
+"PhD","E-mail",3.84,160,164,"American",83,9.9,2
+"PhD","E-mail",NA,151,162,"International",83,9.9,2
+"PhD","E-mail",NA,162,151,"International",152,18.1,2
+"PhD","Phone",3.72,153,169,"International",57,11.5,2
+"PhD","Other",NA,NA,NA,"International with US Degree",85,12.3,2
+"MS","E-mail",3.81,168,164,"American",152,18.1,2
+"PhD","E-mail",NA,143,167,"International",53,6.9,2
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",46,5.6,2
+"MS","E-mail",NA,NA,NA,"American",152,18.1,2
+"PhD","Other",3,157,162,"International",25,3.5,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",NA,170,164,"American",152,18.1,2
+"MS","E-mail",3.84,160,165,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"American",152,18.1,1
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","Website",3.5,151,170,"International",46,5.6,2
+"PhD","E-mail",NA,155,166,"International",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,159,164,"International",152,18.1,2
+"PhD","E-mail",3.9,163,155,"Other",152,18.1,2
+"PhD","Website",NA,NA,NA,"International",46,5.6,2
+"PhD","E-mail",3,157,162,"International",152,18.1,2
+"PhD","E-mail",3.9,169,163,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"MS","E-mail",3.5,159,160,"International",12,1.5,2
+"MS","E-mail",3.5,159,160,"International",12,1.5,6
+"PhD","Phone",NA,NA,NA,"American",26,3.3,2
+"PhD","E-mail",NA,NA,NA,"American",55,4.3,2
+"PhD","E-mail",NA,NA,NA,"Other",12,1.5,2
+"PhD","E-mail",NA,152,165,"International",32,2.7,2
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,2
+"PhD","E-mail",4,165,170,"American",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,2
+"MS","E-mail",3.81,155,164,"American",73,6.7,2
+"PhD","E-mail",3.51,158,163,"American",152,18.1,2
+"PhD","E-mail",3.77,154,163,"International with US Degree",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"American",26,3.3,2
+"PhD","E-mail",NA,NA,NA,"International",15,1.5,2
+"PhD","E-mail",3.76,168,170,"International",85,12.3,2
+"PhD","E-mail",3.92,165,170,"International",68,8.7,2
+"PhD","E-mail",NA,154,167,"International",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",68,8.7,2
+"MS","E-mail",NA,166,166,"International",83,9.9,2
+"PhD","E-mail",3.92,165,170,"International",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"American",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",29,4.2,2
+"PhD","E-mail",3.1,170,145,"International",29,4.2,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",85,12.3,2
+"PhD","E-mail",3.89,155,166,"International",83,11.1,2
+"PhD","E-mail",3.91,163,168,"International",22,2.4,2
+"PhD","E-mail",3.91,163,168,"International",83,9.9,1
+"PhD","Phone",3.9,158,170,"American",57,8.4,2
+"PhD","E-mail",3.89,147,163,"International",17,1.5,2
+"MS","E-mail",NA,162,164,"International",83,9.9,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"American",23,2.7,2
+"PhD","E-mail",NA,NA,NA,"International",40,3.6,2
+"PhD","E-mail",3.9,162,166,"International",25,3.5,2
+"PhD","E-mail",NA,NA,NA,"Other",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",73,6.7,2
+"PhD","Phone",NA,NA,NA,"American",57,8.4,1
+"PhD","E-mail",NA,NA,NA,"International",50,5.7,2
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,2
+"PhD","E-mail",NA,NA,NA,"American",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",50,5.7,2
+"PhD","E-mail",3.64,160,163,"American",22,2.4,2
+"PhD","E-mail",3.94,153,168,"International",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"American",63,8.6,2
+"PhD","E-mail",NA,NA,NA,"International",23,2.7,2
+"PhD","E-mail",NA,158,162,"International",25,3.5,2
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,2
+"PhD","E-mail",3.4,168,153,"International",25,3.5,2
+"PhD","E-mail",3.57,149,159,"International",152,18.1,2
+"MS","E-mail",3.68,159,166,"International",83,9.9,2
+"PhD","E-mail",NA,NA,NA,"American",19,1.6,2
+"MS","E-mail",NA,147,166,"International",83,9.9,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,1
+"PhD","E-mail",3.75,168,160,"International",63,8.6,1
+"PhD","E-mail",NA,NA,NA,"International",46,5.6,1
+"PhD","E-mail",NA,NA,NA,"American",22,2.4,1
+"PhD","E-mail",3.52,157,168,"International",39,2.4,1
+"MS","Website",3.66,151,166,"Other",55,4.3,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",50,4.7,1
+"PhD","E-mail",3.67,155,166,"International",19,2.8,1
+"PhD","Other",NA,NA,NA,"International with US Degree",63,8.6,1
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,1
+"PhD","E-mail",3.7,153,165,"International",19,2.8,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",19,2.8,1
+"PhD","E-mail",3.8,155,166,"International",48,5.9,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,4.8,1
+"PhD","E-mail",3.9,167,170,"American",85,12.3,1
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,1
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,1
+"PhD","E-mail",NA,NA,NA,"Other",13,1.8,1
+"MS","E-mail",3.8,166,152,"International",152,18.1,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,4.8,1
+"MS","E-mail",3.07,157,145,"International",50,5.7,1
+"MS","E-mail",3.7,151,162,"International with US Degree",53,4.8,1
+"PhD","E-mail",3.82,167,160,"American",13,1.8,1
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,1
+"PhD","E-mail",3.5,157,164,"American",83,9.9,1
+"MS","E-mail",3.97,162,167,"International",11,1.2,1
+"PhD","E-mail",NA,NA,NA,"American",83,9.9,1
+"MS","Other",NA,NA,NA,"American",19,2.8,12
+"PhD","E-mail",NA,NA,NA,"American",38,3.1,11
+"MS","Website",3.52,155,169,"International",46,5.6,11
+"MS","E-mail",3.24,170,164,"American",53,6.9,4
+"PhD","Website",NA,NA,NA,"International",28,2.9,6
+"PhD","E-mail",NA,NA,NA,"International",15,1.5,5
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"MS","E-mail",4,160,158,"International",55,4.3,4
+"MS","E-mail",3.14,156,166,"International",47,5.8,5
+"MS","E-mail",NA,NA,NA,"International with US Degree",47,5.8,5
+"PhD","E-mail",3.41,149,166,"International",53,6.9,5
+"PhD","E-mail",3.5,NA,NA,"American",19,1.9,5
+"PhD","E-mail",NA,NA,NA,"American",28,2,5
+"PhD","Website",3.24,156,166,"International",55,4.3,5
+"MS","E-mail",NA,NA,NA,"International",23,1.9,5
+"MS","Website",NA,NA,NA,"International",55,4.3,5
+"PhD","E-mail",NA,NA,NA,"International",55,4.3,5
+"MS","Website",NA,NA,NA,"International",55,4.3,5
+"MS","E-mail",NA,143,163,"International",23,1.9,5
+"MS","E-mail",NA,NA,NA,"International",55,4.3,5
+"MS","E-mail",NA,NA,NA,"International",23,2.7,5
+"PhD","Website",NA,NA,NA,"International",55,4.3,5
+"MS","Other",NA,NA,NA,"International with US Degree",42,5.4,5
+"PhD","E-mail",NA,NA,NA,"International",33,2.8,4
+"MS","E-mail",NA,NA,NA,"American",55,4.3,5
+"MS","Website",NA,NA,NA,"International",22,2.4,4
+"MS","E-mail",NA,NA,NA,"International",20,2.3,4
+"MS","E-mail",NA,NA,NA,"American",37,3.4,4
+"PhD","Other",NA,NA,NA,"International",50,5.7,4
+"PhD","E-mail",NA,NA,NA,"International",55,4.3,4
+"MS","E-mail",3.31,159,161,"American",53,6.9,4
+"MS","E-mail",NA,NA,NA,"American",53,6.9,4
+"MS","E-mail",3.58,157,157,"American",53,6.9,4
+"PhD","E-mail",NA,NA,NA,"International",19,2.8,4
+"MS","E-mail",3.7,160,163,"International",53,6.9,4
+"MS","E-mail",3.6,147,158,"International",46,4.3,4
+"PhD","Other",NA,NA,NA,"American",37,3.1,4
+"PhD","E-mail",3.8,170,150,"International",37,3.1,4
+"PhD","E-mail",NA,NA,NA,"International",46,4.3,4
+"MS","Other",NA,NA,NA,"International",73,6.7,2
+"PhD","Website",NA,NA,NA,"International",22,1.9,4
+"MS","E-mail",NA,NA,NA,"International",23,1.9,4
+"MS","E-mail",NA,NA,NA,"International",23,1.9,4
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,4
+"PhD","Website",NA,NA,NA,"International",37,3.4,4
+"PhD","Other",NA,NA,NA,"American",50,5.7,4
+"MS","E-mail",3.8,163,166,"International",73,6.7,4
+"PhD","E-mail",NA,NA,NA,"International",15,1.9,4
+"MS","E-mail",4,165,166,"International",57,11.5,3
+"MS","E-mail",3.11,142,168,"International",73,6.7,4
+"MS","E-mail",3.6,154,166,"International with US Degree",22,2.5,4
+"MS","E-mail",NA,NA,NA,"International with US Degree",73,6.7,4
+"PhD","Website",NA,NA,NA,"International with US Degree",37,3.4,4
+"PhD","Website",3.43,162,158,"International",38,3.1,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",13,1.8,4
+"PhD","E-mail",NA,151,163,"International",11,1.4,4
+"MS","E-mail",2,165,166,"International",47,5.8,4
+"MS","E-mail",NA,NA,NA,"International",63,8.6,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",48,5.9,4
+"MS","E-mail",NA,NA,NA,"American",73,6.7,4
+"MS","Website",NA,NA,NA,"International",52,6.4,4
+"PhD","Website",3.66,158,161,"American",22,2.5,4
+"MS","E-mail",NA,NA,NA,"International",47,5.8,4
+"PhD","Website",NA,NA,NA,"International with US Degree",37,3.4,4
+"PhD","E-mail",NA,NA,NA,"American",20,2.3,4
+"PhD","Website",NA,NA,NA,"International",22,1.9,4
+"MS","E-mail",NA,NA,NA,"International",47,5.8,4
+"MS","E-mail",4,162,166,"International",53,6.9,4
+"MS","E-mail",3.51,170,163,"International",53,4.8,4
+"MS","E-mail",NA,NA,NA,"International",42,5.4,4
+"PhD","E-mail",NA,NA,NA,"International",63,8.6,4
+"MS","E-mail",3.81,165,143,"Other",22,2.8,4
+"PhD","Website",NA,NA,NA,"International with US Degree",37,3.4,4
+"PhD","E-mail",4,148,164,"International",24,2,2
+"PhD","E-mail",NA,NA,NA,"American",50,4.7,3
+"PhD","E-mail",NA,NA,NA,"American",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"MS","E-mail",3.66,165,164,"International",25,3.5,4
+"MS","E-mail",3.2,158,166,"International",53,6.9,4
+"MS","E-mail",3.2,158,166,"International",25,3.5,3
+"PhD","E-mail",NA,NA,NA,"American",20,2.3,4
+"MS","Website",NA,NA,NA,"International",37,5,4
+"PhD","E-mail",3.97,162,163,"International",53,4.8,3
+"PhD","E-mail",3.5,164,145,"American",63,8.6,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",50,5.7,3
+"MS","Website",2.9,154,144,"American",38,3.1,4
+"MS","Website",2.9,154,144,"American",38,3.1,4
+"MS","E-mail",NA,NA,NA,"International",22,2.8,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",63,8.6,4
+"MS","E-mail",3.73,163,164,"American",152,18.1,2
+"MS","E-mail",3.97,156,165,"International with US Degree",53,6.9,4
+"MS","E-mail",NA,NA,NA,"International",46,4.3,4
+"MS","E-mail",NA,NA,NA,"International",13,1.5,3
+"MS","E-mail",NA,NA,NA,"International",53,6.9,4
+"MS","E-mail",NA,NA,NA,"International",25,3.5,4
+"PhD","Website",NA,NA,NA,"International",50,4.7,4
+"PhD","Website",NA,NA,NA,"International",50,4.7,4
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,4
+"MS","E-mail",3.4,161,163,"American",83,9.9,3
+"MS","E-mail",3.4,161,163,"American",53,6.9,4
+"PhD","Website",3.2,151,162,"International",38,3.1,3
+"PhD","E-mail",3.83,156,161,"International",19,1.9,3
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,3
+"MS","E-mail",3.64,155,163,"American",68,8.7,3
+"PhD","E-mail",NA,NA,NA,"International",7,1.2,3
+"PhD","E-mail",3.83,156,161,"International",26,2.3,3
+"PhD","E-mail",NA,NA,NA,"International",19,1.9,3
+"MS","E-mail",3.74,170,155,"International",68,8.7,3
+"PhD","E-mail",3.6,153,166,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"American",73,6.7,3
+"MS","E-mail",NA,NA,NA,"American",73,6.7,3
+"MS","E-mail",NA,NA,NA,"International",68,8.7,3
+"MS","Website",NA,NA,NA,"International",30,2.3,3
+"MS","E-mail",NA,NA,NA,"International",68,8.7,3
+"MS","E-mail",3.3,142,170,"International",37,5,3
+"PhD","Website",NA,NA,NA,"International",22,2.8,3
+"MS","E-mail",3.5,153,166,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"International",22,2.5,3
+"MS","E-mail",NA,NA,NA,"International",15,1.5,3
+"MS","E-mail",3.4,160,167,"International",30,2.3,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",11,1.4,3
+"MS","Website",NA,NA,NA,"International",55,4.3,3
+"MS","E-mail",NA,NA,NA,"International",48,5.9,3
+"MS","E-mail",NA,NA,NA,"Other",47,5.8,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,6.9,3
+"PhD","E-mail",3.54,148,166,"International",22,2.8,3
+"PhD","E-mail",3.35,162,166,"American",22,2.8,3
+"PhD","E-mail",NA,NA,NA,"International",22,2.8,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,6.9,3
+"MS","E-mail",NA,NA,NA,"International",55,4.3,3
+"MS","E-mail",3.45,156,158,"American",46,5.6,3
+"MS","E-mail",NA,167,166,"International",30,2.3,3
+"PhD","E-mail",3.1,159,166,"International",53,6.9,3
+"PhD","Other",NA,NA,NA,"American",29,4.2,3
+"MS","E-mail",3.3,168,166,"International",73,6.7,3
+"MS","E-mail",NA,NA,NA,"American",73,6.7,3
+"PhD","E-mail",NA,NA,NA,"International",12,1.4,2
+"MS","E-mail",NA,162,166,"International",39,2.4,3
+"MS","E-mail",NA,NA,NA,"American",15,1.9,3
+"PhD","Website",3.75,152,170,"International",46,5.6,3
+"PhD","E-mail",NA,NA,NA,"International",15,1.9,3
+"MS","E-mail",NA,NA,NA,"International",22,2.8,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",37,5,3
+"MS","E-mail",3.63,162,164,"International",37,5,3
+"PhD","E-mail",NA,NA,NA,"International",22,2.4,3
+"PhD","E-mail",3.3,152,166,"American",83,9.9,3
+"MS","E-mail",NA,165,163,"International",22,2.5,3
+"PhD","Website",NA,NA,NA,"International",35,3.4,3
+"MS","E-mail",NA,NA,NA,"International",23,1.9,3
+"MS","E-mail",3.6,151,167,"International",23,1.9,3
+"PhD","E-mail",NA,NA,NA,"International",23,1.9,3
+"MS","E-mail",3.35,165,166,"International",NA,NA,3
+"MS","E-mail",NA,164,164,"International",73,6.7,3
+"PhD","E-mail",3.88,160,166,"American",13,1.8,3
+"MS","E-mail",NA,NA,NA,"International",30,2.3,3
+"MS","E-mail",4,166,166,"International with US Degree",57,11.5,4
+"MS","E-mail",NA,159,169,"International",32,2.7,2
+"MS","E-mail",NA,NA,NA,"International",9,1.5,3
+"MS","E-mail",NA,NA,NA,"International",55,4.7,3
+"PhD","Website",NA,NA,NA,"Other",43,3.6,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","Website",NA,NA,NA,"International",52,6.4,3
+"MS","E-mail",4,163,166,"International",57,11.5,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,2
+"MS","E-mail",4,161,166,"International",57,11.5,3
+"MS","E-mail",3.95,163,164,"American",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",19,2.8,3
+"PhD","E-mail",3.34,153,166,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",19,2.8,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","Phone",NA,170,163,"International",6,1.1,3
+"PhD","E-mail",NA,NA,NA,"International",19,2.8,3
+"MS","E-mail",2.76,161,159,"American",57,11.5,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",NA,151,163,"International",83,9.9,3
+"PhD","E-mail",4,163,166,"International",42,5.4,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",73,6.7,3
+"PhD","E-mail",NA,NA,NA,"International",24,1.6,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",3.7,160,166,"American",83,9.9,3
+"PhD","E-mail",3.97,162,163,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",37,5,3
+"PhD","E-mail",NA,NA,NA,"International",21,2.4,3
+"PhD","E-mail",NA,NA,NA,"International",30,2.3,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","Website",3.44,150,159,"International",25,3.5,3
+"PhD","E-mail",3.44,150,159,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",13,1.5,3
+"PhD","E-mail",3.7,148,161,"American",52,6.4,3
+"MS","E-mail",3.73,163,164,"American",46,4.3,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",3.8,161,166,"International",40,3.6,2
+"PhD","E-mail",3.67,155,170,"International",19,2.8,3
+"MS","E-mail",3.75,168,166,"International",42,5.4,3
+"MS","E-mail",3.85,NA,NA,"American",83,11.1,3
+"MS","E-mail",NA,NA,NA,"American",46,4.3,3
+"PhD","E-mail",NA,170,163,"International",68,8.7,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"MS","E-mail",NA,NA,NA,"American",42,5.4,3
+"PhD","Website",NA,NA,NA,"International",50,4.7,3
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,3
+"PhD","E-mail",3.87,170,166,"American",68,8.7,3
+"PhD","E-mail",4,170,143,"International",68,8.7,3
+"PhD","Website",3.43,162,158,"International",50,4.7,3
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,3
+"MS","Website",NA,NA,NA,"International",50,4.7,3
+"MS","E-mail",3.86,166,164,"International",68,8.7,3
+"MS","E-mail",NA,NA,NA,"American",47,5.8,3
+"MS","E-mail",3.82,161,165,"International",30,2.3,2
+"PhD","E-mail",2.88,143,161,"International",NA,NA,2
+"PhD","E-mail",3.35,153,166,"International",52,6.4,3
+"MS","E-mail",NA,NA,NA,"International",16,1.3,3
+"PhD","Website",NA,NA,NA,"International",11,1.4,3
+"PhD","E-mail",NA,NA,NA,"International",15,1.9,3
+"PhD","Website",3.99,160,166,"International",53,4.8,3
+"PhD","E-mail",NA,NA,NA,"International",10,1.6,3
+"PhD","Website",NA,NA,NA,"International",24,2.1,3
+"PhD","Website",NA,NA,NA,"International",24,2.1,3
+"PhD","Website",NA,NA,NA,"International",24,2.1,3
+"MS","E-mail",NA,NA,NA,"International",73,6.7,3
+"PhD","E-mail",3.97,159,149,"International",36,2.8,3
+"PhD","Other",NA,NA,NA,"International",68,8.7,3
+"PhD","E-mail",NA,153,165,"International",47,5.8,3
+"MS","E-mail",NA,162,163,"International",48,5.9,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",39,2.4,2
+"PhD","E-mail",NA,NA,NA,"International",46,5.6,3
+"MS","Website",NA,NA,NA,"International",38,3.1,3
+"MS","Website",NA,NA,NA,"International",38,3.1,3
+"MS","Website",NA,NA,NA,"International",38,3.1,3
+"MS","E-mail",NA,151,160,"International",57,8.4,3
+"PhD","E-mail",NA,NA,NA,"International",22,2.5,3
+"MS","E-mail",3.82,162,166,"American",28,2,3
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,3
+"PhD","E-mail",NA,NA,NA,"American",37,5,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",37,5,3
+"PhD","Website",NA,NA,NA,"International",43,3.6,3
+"PhD","E-mail",NA,157,166,"International",83,11.1,3
+"MS","E-mail",3.6,169,158,"International",48,5.9,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","E-mail",NA,165,163,"International",83,11.1,3
+"PhD","E-mail",3.76,148,168,"International",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,3
+"MS","E-mail",3.86,160,166,"International",53,4.8,2
+"MS","E-mail",NA,NA,NA,"International",48,5.9,3
+"MS","Website",3.73,163,164,"American",46,5.6,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"MS","E-mail",NA,NA,NA,"American",48,5.9,3
+"MS","E-mail",NA,NA,NA,"American",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",25,3.5,3
+"PhD","E-mail",3.44,150,160,"International with US Degree",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,3
+"MS","E-mail",3.9,161,166,"American",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,3
+"PhD","E-mail",3.76,165,166,"American",83,11.1,3
+"MS","E-mail",NA,NA,NA,"International",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",83,11.1,3
+"MS","E-mail",NA,NA,NA,"International",83,11.1,3
+"PhD","E-mail",3.64,158,164,"International with US Degree",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","E-mail",3,170,138,"International",48,5.9,3
+"MS","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"MS","E-mail",3.6,170,145,"International",47,5.8,3
+"MS","E-mail",NA,NA,NA,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",42,5.4,2
+"MS","E-mail",3.71,164,166,"International",152,18.1,3
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",53,6.9,3
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,3
+"PhD","E-mail",3.64,158,164,"International with US Degree",57,11.5,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,11.5,3
+"PhD","Website",3.77,164,164,"International with US Degree",29,4.2,3
+"MS","E-mail",4,156,166,"International",28,2.9,1
+"MS","E-mail",3.89,152,160,"International",13,1.8,3
+"MS","E-mail",NA,NA,NA,"International",152,18.1,3
+"MS","Website",NA,NA,NA,"International",21,2.4,3
+"PhD","E-mail",3.85,150,165,"International",6,1.2,2
+"MS","E-mail",3.4,NA,NA,"American",152,18.1,3
+"MS","E-mail",NA,NA,NA,"American",152,18.1,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",50,5.7,3
+"PhD","E-mail",3.41,149,166,"International",55,4.7,3
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",22,2.5,2
+"PhD","E-mail",NA,NA,NA,"International",15,1.5,3
+"PhD","Website",NA,NA,NA,"International",52,6.4,3
+"MS","Website",NA,NA,NA,"American",52,6.4,3
+"PhD","Website",NA,NA,NA,"International",52,6.4,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",52,6.4,3
+"MS","E-mail",3.9,NA,NA,"International",73,6.7,2
+"PhD","Website",NA,NA,NA,"International",25,3.5,3
+"PhD","E-mail",4,170,156,"International with US Degree",25,3.5,2
+"PhD","E-mail",3.3,155,166,"International",42,2.6,2
+"PhD","E-mail",3.5,161,159,"American",51,5.3,2
+"PhD","E-mail",3.5,161,159,"American",47,5.8,2
+"MS","E-mail",NA,151,160,"International",52,6.4,2
+"PhD","E-mail",NA,NA,NA,"American",85,12.3,2
+"PhD","Website",3.66,158,161,"American",85,12.3,2
+"MS","Website",NA,NA,NA,"International",50,4.7,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",30,2.8,2
+"PhD","E-mail",NA,NA,NA,"American",53,4.8,2
+"PhD","Other",3.9,167,153,"American",35,3.4,2
+"MS","E-mail",3.82,147,163,"International",55,4.7,2
+"MS","Website",NA,NA,NA,"International",13,1.6,2
+"PhD","E-mail",NA,NA,NA,"Other",53,4.8,2
+"PhD","E-mail",3.84,150,167,"International",53,4.8,2
+"MS","Website",NA,NA,NA,"International",38,3.1,2
+"PhD","E-mail",NA,NA,NA,"International",23,1.9,2
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,2
+"PhD","E-mail",NA,NA,NA,"American",53,6.9,2
+"MS","E-mail",NA,NA,NA,"International",53,4.8,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",46,5.6,2
+"PhD","Website",3.3,169,153,"International",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"International",30,2.3,2
+"PhD","E-mail",NA,153,166,"International",47,5.8,2
+"MS","E-mail",NA,153,166,"International",51,5.3,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","Website",3.42,170,152,"International",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,2
+"MS","E-mail",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",3.5,161,157,"American",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International",46,5.6,2
+"PhD","Website",NA,NA,NA,"International with US Degree",30,2.3,2
+"PhD","E-mail",4,157,158,"International with US Degree",152,18.1,2
+"MS","E-mail",NA,NA,NA,"American",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"American",53,6.9,2
+"PhD","Website",NA,NA,NA,"American",85,12.3,2
+"MS","E-mail",NA,NA,NA,"International",47,5.8,2
+"PhD","Website",NA,NA,NA,"International with US Degree",85,12.3,2
+"PhD","E-mail",3.8,163,166,"International",85,12.3,2
+"MS","Website",NA,NA,NA,"American",85,12.3,2
+"PhD","Website",NA,NA,NA,"American",85,12.3,2
+"PhD","Website",4,162,166,"International",85,12.3,2
+"MS","E-mail",NA,NA,NA,"International",32,2.7,2
+"PhD","Website",NA,NA,NA,"International with US Degree",85,12.3,2
+"MS","E-mail",3.42,170,148,"International",32,2.7,2
+"PhD","Phone",3.65,160,164,"American",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,11.5,2
+"MS","E-mail",NA,142,164,"International",32,2.7,2
+"MS","E-mail",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",32,2.7,2
+"MS","E-mail",3.52,160,166,"International",73,6.7,2
+"PhD","E-mail",NA,NA,NA,"International",55,4.3,2
+"PhD","Website",3.95,154,166,"International",39,2.4,2
+"PhD","E-mail",3.1,164,166,"International with US Degree",30,2.3,2
+"PhD","Website",NA,NA,NA,"American",37,5,2
+"PhD","E-mail",3.6,170,151,"International",35,3.4,2
+"PhD","E-mail",NA,NA,NA,"American",47,5.8,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","Phone",NA,NA,NA,"International",85,12.3,2
+"MS","Other",NA,NA,NA,"International",85,12.3,2
+"PhD","Website",NA,NA,NA,"International",13,1.6,2
+"PhD","E-mail",NA,NA,NA,"American",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",53,4.8,1
+"PhD","E-mail",NA,NA,NA,"International",37,5,2
+"PhD","E-mail",3.85,164,166,"International",51,5.3,2
+"MS","E-mail",NA,NA,NA,"International",26,2.5,2
+"MS","E-mail",3.94,155,165,"American",57,11.5,2
+"PhD","E-mail",3.73,164,166,"International with US Degree",53,4.8,2
+"PhD","E-mail",3.6,153,166,"International",52,6.4,2
+"MS","E-mail",3.54,164,160,"International",63,8.6,2
+"PhD","Website",3.89,148,164,"International",30,2.3,2
+"PhD","E-mail",3.99,160,166,"International",52,6.4,2
+"PhD","Website",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,2
+"MS","E-mail",3.73,163,164,"American",52,6.4,2
+"MS","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",3.2,148,168,"International",24,2,2
+"MS","E-mail",3.8,164,166,"International",51,5.3,2
+"PhD","E-mail",3.87,165,168,"American",52,6.4,2
+"PhD","E-mail",3.1,159,166,"International",36,2.8,2
+"PhD","E-mail",NA,NA,NA,"American",52,6.4,2
+"MS","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",3.81,152,170,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"American",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"American",51,5.3,2
+"MS","E-mail",3.75,169,166,"International",51,5.3,2
+"MS","E-mail",3.6,153,166,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",35,3.4,2
+"MS","Website",NA,NA,NA,"International",26,3.3,2
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,2
+"PhD","Website",NA,NA,NA,"International",13,1.6,2
+"PhD","E-mail",NA,NA,NA,"International",73,6.7,2
+"MS","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",4,170,169,"American",46,5.6,1
+"PhD","E-mail",3.6,155,166,"International",19,1.6,2
+"PhD","E-mail",NA,NA,NA,"International",33,3.4,2
+"PhD","E-mail",NA,NA,NA,"Other",73,6.7,2
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,2
+"PhD","E-mail",NA,170,146,"International",57,11.5,2
+"MS","E-mail",NA,NA,NA,"American",42,5.4,2
+"MS","E-mail",3.94,156,170,"International",152,18.1,2
+"MS","E-mail",3.8,163,166,"International",50,4.7,2
+"PhD","E-mail",NA,NA,NA,"American",26,3.3,2
+"MS","E-mail",NA,NA,NA,"American",53,6.9,2
+"PhD","Website",3.3,160,166,"International",26,3.3,2
+"PhD","E-mail",NA,NA,NA,"American",26,3.3,2
+"MS","E-mail",3.7,158,166,"International",73,6.7,2
+"PhD","E-mail",3.65,152,167,"International",51,5.3,2
+"PhD","Website",3.9,168,166,"International with US Degree",26,3.3,2
+"PhD","E-mail",NA,NA,NA,"American",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International",26,3.3,2
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,2
+"PhD","E-mail",NA,NA,NA,"International",37,5,2
+"PhD","E-mail",NA,NA,NA,"International",19,2.8,2
+"PhD","E-mail",NA,NA,NA,"International",37,5,2
+"PhD","E-mail",NA,158,166,"International",22,2.4,2
+"PhD","Website",3.81,156,166,"International",30,2.3,2
+"PhD","E-mail",NA,NA,NA,"International",46,5.6,2
+"PhD","E-mail",3.3,163,164,"American",30,2.3,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",63,8.6,2
+"PhD","E-mail",NA,NA,NA,"International",35,3.4,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",3.87,164,161,"American",63,8.6,2
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",3.6,166,166,"International",68,8.7,2
+"PhD","E-mail",3.6,153,166,"International",37,5,2
+"MS","E-mail",3.56,167,166,"International",152,18.1,2
+"PhD","Website",NA,NA,NA,"International",30,2.3,2
+"PhD","Website",4,160,166,"International with US Degree",21,2.4,2
+"PhD","E-mail",3.65,152,167,"International",152,18.1,2
+"PhD","Other",NA,NA,NA,"American",73,6.7,2
+"PhD","E-mail",3.6,164,166,"American",57,11.5,2
+"PhD","E-mail",3.37,160,160,"International",57,11.5,2
+"PhD","Other",3.56,158,164,"American",26,3.3,2
+"MS","E-mail",3.84,148,144,"International",40,3.6,2
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","Website",3.9,165,166,"International",42,5.4,2
+"PhD","Website",NA,NA,NA,"International",42,5.4,2
+"PhD","E-mail",NA,NA,NA,"International",30,2.3,2
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",85,12.3,2
+"MS","Website",3.8,163,166,"International",13,1.8,2
+"PhD","E-mail",NA,NA,NA,"International",46,4.3,2
+"PhD","E-mail",3.3,158,166,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"American",152,18.1,2
+"PhD","Other",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,11.5,2
+"MS","E-mail",3.8,153,161,"International",152,18.1,2
+"PhD","E-mail",4,152,166,"International",57,11.5,2
+"PhD","E-mail",3.87,170,166,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"American",37,5,2
+"PhD","E-mail",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",3.96,168,166,"International with US Degree",37,5,2
+"PhD","E-mail",3.64,170,165,"American",37,5,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",3.98,165,166,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",4,161,166,"International",152,18.1,2
+"PhD","E-mail",3.87,170,166,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",42,5.4,1
+"MS","E-mail",NA,165,166,"International",48,5.9,1
+"PhD","Website",NA,NA,NA,"American",24,2.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","Phone",3.99,168,162,"International with US Degree",57,11.5,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,162,166,"International with US Degree",85,12.3,2
+"PhD","E-mail",3.99,168,162,"International with US Degree",85,12.3,2
+"MS","E-mail",3.66,170,155,"International",152,18.1,2
+"PhD","Website",3.85,142,165,"International",28,2.9,2
+"PhD","E-mail",NA,NA,NA,"American",83,11.1,2
+"MS","E-mail",3.7,158,166,"International",83,9.9,2
+"PhD","E-mail",3.9,160,165,"International",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,2
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,2
+"PhD","E-mail",3.84,154,166,"American",53,6.9,2
+"PhD","E-mail",NA,NA,NA,"American",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",73,6.7,2
+"PhD","Website",NA,NA,NA,"American",28,2.9,2
+"PhD","E-mail",NA,NA,NA,"International",26,3.3,2
+"PhD","E-mail",3.6,NA,NA,"American",53,4.8,2
+"PhD","E-mail",3.96,158,168,"International",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"International",23,2.7,2
+"PhD","E-mail",3.88,167,166,"International",73,6.7,2
+"PhD","Other",NA,NA,NA,"American",33,2.8,2
+"PhD","E-mail",3.74,161,166,"International",35,3.4,2
+"PhD","E-mail",NA,NA,NA,"American",68,8.7,2
+"PhD","E-mail",NA,162,166,"International with US Degree",29,4.2,2
+"PhD","E-mail",NA,NA,NA,"American",68,8.7,2
+"MS","E-mail",3.66,170,155,"International",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,2
+"PhD","E-mail",NA,165,153,"International",57,8.4,2
+"PhD","E-mail",3.99,168,162,"International with US Degree",68,8.7,2
+"MS","E-mail",3.2,150,160,"International",24,2,2
+"PhD","E-mail",3.2,152,166,"International",57,8.4,2
+"PhD","E-mail",NA,162,166,"International",35,3.4,1
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",4,152,166,"International",83,9.9,2
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,2
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",3.43,162,158,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,2
+"PhD","E-mail",3.6,162,168,"International with US Degree",40,3.6,2
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,164,166,"International with US Degree",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"PhD","Website",4,156,166,"American",26,2.3,2
+"PhD","E-mail",NA,NA,NA,"International",63,8.6,2
+"PhD","E-mail",NA,NA,NA,"American",40,3.6,2
+"PhD","E-mail",NA,NA,NA,"International",50,5.7,2
+"PhD","E-mail",3.75,152,170,"International",53,4.8,2
+"PhD","E-mail",3.8,166,166,"International",53,4.8,2
+"PhD","E-mail",3.87,164,161,"American",13,1.8,2
+"PhD","Website",3.68,163,160,"American",25,3.5,2
+"PhD","Phone",NA,166,166,"International",57,8.4,2
+"PhD","E-mail",3.9,160,163,"American",50,4.7,1
+"PhD","E-mail",NA,NA,NA,"American",46,4.3,1
+"PhD","E-mail",3.81,154,166,"International",53,4.8,2
+"PhD","Phone",NA,NA,NA,"American",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",37,3.1,1
+"PhD","E-mail",NA,NA,NA,"American",152,18.1,1
+"PhD","E-mail",NA,NA,NA,"American",83,9.9,1
+"PhD","E-mail",3.98,165,166,"International",152,18.1,1
+"PhD","Phone",3.97,167,164,"American",57,8.4,1
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,1
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,1
+"MS","E-mail",NA,160,167,"International",53,4.8,1
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,1
+"PhD","E-mail",NA,NA,NA,"American",48,5.9,1
+"PhD","E-mail",NA,NA,NA,"American",42,5.4,1
+"PhD","E-mail",3.99,166,166,"American",50,4.7,1
+"PhD","Website",3.97,161,166,"American",37,3.1,1
+"PhD","E-mail",NA,NA,NA,"International",37,5,1
+"MS","Website",3.2,157,164,"International",55,4.7,1
+"PhD","E-mail",3.87,NA,NA,"International",48,5.9,1
+"PhD","E-mail",4,158,164,"International",42,5.4,1
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,1
+"PhD","E-mail",NA,NA,NA,"International",6,1.2,1
+"PhD","E-mail",NA,NA,NA,"American",83,9.9,1
+"MS","Website",NA,165,166,"International",46,5.6,12
+"MS","E-mail",3.7,158,166,"International",50,5.7,11
+"MS","Website",3.3,156,166,"International",16,1.3,11
+"MS","E-mail",2.9,160,156,"International",21,2.4,11
+"PhD","E-mail",NA,NA,NA,"International with US Degree",26,2.3,11
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,10
+"PhD","Other",NA,NA,NA,"International with US Degree",73,6.7,9
+"MS","Website",NA,NA,NA,"Other",26,2.3,7
+"MS","Website",NA,NA,NA,"International",13,1.4,3
+"PhD","E-mail",3.78,158,166,"International",22,2.5,5
+"PhD","E-mail",NA,NA,NA,"International with US Degree",39,2.4,5
+"MS","E-mail",NA,NA,NA,"International",22,2.4,5
+"MS","Website",NA,NA,NA,"International",43,3.6,5
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,5
+"MS","E-mail",3.59,159,159,"International",23,1.9,5
+"PhD","Website",NA,NA,NA,"International",13,1.8,5
+"PhD","Website",NA,NA,NA,"International",55,4.3,4
+"PhD","E-mail",NA,NA,NA,"International",19,2.8,4
+"PhD","Website",3.8,168,166,"International",50,4.7,4
+"MS","E-mail",NA,NA,NA,"International",37,3.4,4
+"PhD","E-mail",3.7,149,164,"International",38,3.1,4
+"MS","E-mail",NA,NA,NA,"International",47,5.8,4
+"MS","E-mail",3.83,159,166,"International",30,2.3,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",46,4.3,4
+"MS","E-mail",3.97,160,166,"International",22,2.5,4
+"MS","E-mail",3.3,149,163,"American",52,6.4,4
+"PhD","E-mail",NA,NA,NA,"International",22,2.5,4
+"MS","Website",NA,NA,NA,"International",55,4.7,4
+"PhD","Website",NA,NA,NA,"International",38,3.1,4
+"MS","Website",3.97,160,166,"International",33,2.8,4
+"MS","E-mail",NA,NA,NA,"International",19,2.8,4
+"PhD","Website",3.26,143,166,"International",38,3.1,4
+"PhD","Website",NA,NA,NA,"International",38,3.1,4
+"PhD","Website",3.62,170,141,"International with US Degree",37,3.4,4
+"PhD","Other",NA,NA,NA,"International",20,2.3,4
+"MS","E-mail",3.6,156,166,"International",73,6.7,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",36,2.8,4
+"PhD","Website",3.4,170,146,"International",37,3.4,4
+"PhD","E-mail",NA,NA,NA,"International",46,4.3,4
+"PhD","E-mail",NA,NA,NA,"International",15,1.5,4
+"PhD","E-mail",3.5,158,166,"International",19,2.8,4
+"PhD","E-mail",NA,NA,NA,"International",19,2.8,4
+"PhD","Website",NA,NA,NA,"International with US Degree",53,4.8,4
+"PhD","E-mail",NA,162,164,"International with US Degree",15,1.5,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",20,2.3,4
+"MS","E-mail",NA,NA,NA,"International",63,8.6,4
+"MS","E-mail",NA,NA,NA,"International",13,1.8,4
+"PhD","Website",NA,NA,NA,"International",55,4.3,4
+"MS","E-mail",NA,NA,NA,"International",53,6.9,4
+"PhD","E-mail",NA,162,164,"International",53,4.8,2
+"MS","E-mail",3.12,170,146,"International",13,1.8,4
+"PhD","E-mail",NA,NA,NA,"International",63,8.6,4
+"PhD","E-mail",3.7,139,164,"International",63,8.6,4
+"PhD","E-mail",NA,NA,NA,"International",63,8.6,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",47,5.8,4
+"PhD","E-mail",3.99,170,145,"International",52,6.4,4
+"PhD","Website",NA,NA,NA,"International",42,5.4,4
+"PhD","Website",NA,NA,NA,"International",42,5.4,4
+"MS","E-mail",3.77,164,161,"International",73,6.7,4
+"PhD","E-mail",3.55,152,159,"International",NA,NA,4
+"PhD","Website",NA,NA,NA,"International",11,1.4,4
+"MS","E-mail",NA,NA,NA,"International",68,8.7,4
+"PhD","E-mail",NA,NA,NA,"American",73,6.7,4
+"PhD","E-mail",3.8,168,166,"International",73,6.7,4
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,4
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,4
+"MS","E-mail",3.1,154,166,"International",22,2.4,4
+"MS","E-mail",3.4,158,166,"International",48,5.9,4
+"PhD","Website",3.6,153,166,"International",37,3.4,4
+"MS","E-mail",NA,NA,NA,"International",22,2.5,4
+"PhD","Website",NA,NA,NA,"International with US Degree",25,3.5,4
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,4
+"MS","E-mail",NA,138,163,"International",68,8.7,4
+"PhD","E-mail",NA,NA,NA,"International",12,1.8,4
+"MS","E-mail",2.7,170,149,"American",30,2.3,3
+"MS","E-mail",3,155,155,"International",33,3.4,3
+"MS","E-mail",3,155,155,"International",30,2.3,2
+"MS","Website",NA,NA,NA,"International",53,4.8,4
+"PhD","Website",NA,NA,NA,"International",73,6.7,4
+"PhD","Other",3.5,163,166,"International",29,4.2,4
+"MS","E-mail",NA,NA,NA,"International",35,3.4,4
+"PhD","E-mail",NA,NA,NA,"Other",37,3.1,2
+"PhD","E-mail",NA,NA,NA,"International",55,4.3,4
+"PhD","E-mail",3.6,146,166,"International with US Degree",73,6.7,4
+"MS","E-mail",NA,NA,NA,"International",NA,NA,4
+"PhD","E-mail",3.5,149,166,"International",6,1.1,4
+"PhD","E-mail",NA,NA,NA,"International",6,1.1,4
+"PhD","E-mail",3,158,166,"American",53,6.9,4
+"MS","Website",NA,NA,NA,"International",13,1.8,4
+"PhD","E-mail",NA,NA,NA,"International",22,2.8,4
+"PhD","E-mail",NA,NA,NA,"International",55,4.3,3
+"MS","E-mail",NA,NA,NA,"International",63,8.6,3
+"MS","E-mail",NA,NA,NA,"International",40,3.6,3
+"MS","Website",3.92,152,166,"International",37,5,3
+"PhD","E-mail",NA,NA,NA,"International",37,3.4,3
+"PhD","E-mail",3.87,159,166,"International",12,1.8,3
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"American",12,1.8,3
+"PhD","Website",2.9,156,160,"American",35,3.4,3
+"PhD","Website",NA,NA,NA,"International",25,3.5,3
+"PhD","Website",NA,NA,NA,"International",11,1.4,3
+"PhD","Website",NA,NA,NA,"International",42,5.4,3
+"MS","Website",NA,NA,NA,"International",37,5,3
+"MS","E-mail",NA,NA,NA,"International",53,4.8,3
+"MS","E-mail",NA,NA,NA,"International",21,2.1,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,4.8,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",47,5.8,3
+"MS","E-mail",3.71,161,163,"American",38,3.1,3
+"PhD","E-mail",NA,NA,NA,"International",37,3.4,3
+"MS","Website",3.93,152,164,"International",30,2.3,3
+"MS","Website",NA,NA,NA,"International with US Degree",47,5.8,3
+"PhD","Website",3.75,151,164,"International",42,5.4,3
+"PhD","E-mail",3.6,153,166,"International",42,5.4,3
+"MS","E-mail",3.9,169,166,"International with US Degree",73,6.7,3
+"MS","E-mail",3.1,170,147,"International",53,6.9,3
+"MS","Other",3.4,152,166,"International",22,2.8,3
+"PhD","E-mail",3.82,158,166,"International",53,4.8,3
+"MS","E-mail",NA,NA,NA,"International",73,6.7,3
+"PhD","Other",NA,NA,NA,"International",50,5.7,3
+"PhD","E-mail",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",3.9,170,152,"American",21,2.4,3
+"PhD","E-mail",NA,NA,NA,"International",21,2.4,3
+"PhD","Website",3.6,170,141,"International",11,1.4,3
+"PhD","Website",NA,NA,NA,"International with US Degree",55,4.3,3
+"MS","E-mail",3.75,163,166,"International with US Degree",47,5.8,3
+"MS","Website",NA,158,166,"International",55,4.7,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",22,2.4,3
+"PhD","E-mail",NA,NA,NA,"International",46,4.3,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",37,5,3
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,3
+"PhD","Website",NA,152,166,"International",13,1.6,3
+"PhD","E-mail",NA,NA,NA,"International",14,1.4,3
+"PhD","Other",NA,NA,NA,"International",38,3.1,3
+"PhD","E-mail",NA,NA,NA,"International",22,2.4,3
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,3
+"PhD","Other",NA,NA,NA,"International",85,12.3,3
+"MS","E-mail",3.2,165,161,"International",73,6.7,3
+"MS","E-mail",3.87,168,166,"International",73,6.7,3
+"MS","Website",3.8,159,161,"International with US Degree",73,6.7,3
+"PhD","Other",2.58,151,166,"American",29,4.2,3
+"PhD","Other",NA,NA,NA,"American",29,4.2,3
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,3
+"PhD","Website",NA,NA,NA,"International",37,5,3
+"MS","E-mail",NA,NA,NA,"International",57,8.4,3
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,3
+"PhD","Website",3.6,160,166,"International",42,5.4,3
+"MS","E-mail",3.59,167,166,"International with US Degree",40,3.6,3
+"PhD","E-mail",3.44,143,166,"American",53,6.9,3
+"PhD","E-mail",3.4,168,166,"International",35,3.4,3
+"MS","Website",3.41,155,158,"International",55,4.7,3
+"PhD","E-mail",NA,NA,NA,"International",35,3.4,3
+"PhD","E-mail",NA,NA,NA,"International",22,2.4,2
+"MS","Website",NA,NA,NA,"International",21,2.4,3
+"MS","E-mail",NA,NA,NA,"American",NA,NA,3
+"MS","Other",3.8,158,164,"International",22,2.5,3
+"PhD","E-mail",NA,NA,NA,"International",33,2.8,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",46,5.6,3
+"PhD","Website",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",3.7,167,161,"International with US Degree",17,1.5,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",35,3.4,1
+"PhD","E-mail",NA,NA,NA,"International",63,8.6,3
+"PhD","E-mail",NA,NA,NA,"International",12,1.5,3
+"MS","E-mail",3.61,168,166,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"American",57,11.5,3
+"MS","E-mail",NA,162,164,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",57,11.5,3
+"MS","E-mail",3.99,164,164,"American",57,11.5,3
+"MS","E-mail",3.3,164,158,"American",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",NA,NA,3
+"PhD","Website",3.78,170,147,"International",52,6.4,3
+"PhD","Website",NA,NA,NA,"International",33,2.8,3
+"MS","E-mail",NA,NA,NA,"International",22,2.8,3
+"PhD","E-mail",3.64,168,166,"International",47,5.8,3
+"MS","E-mail",NA,NA,NA,"International",53,6.9,3
+"MS","Website",NA,NA,NA,"International",30,2.3,3
+"MS","E-mail",NA,NA,NA,"American",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",21,2.1,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",3.2,156,164,"American",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",3.65,170,144,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",35,3.4,1
+"MS","E-mail",NA,NA,NA,"International",52,6.4,3
+"PhD","Other",3.2,159,163,"International",50,5.7,3
+"MS","E-mail",3.65,163,166,"International",53,6.9,3
+"MS","Website",NA,NA,NA,"International",42,5.4,3
+"MS","E-mail",3.7,153,166,"International",68,8.7,3
+"MS","E-mail",NA,NA,NA,"International",10,1.2,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",15,1.9,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",26,2.5,3
+"MS","E-mail",NA,NA,NA,"International",50,4.7,3
+"PhD","Website",NA,NA,NA,"International",42,5.4,3
+"MS","E-mail",3.82,158,166,"International",42,5.4,3
+"PhD","Website",NA,NA,NA,"International",25,3.5,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",68,8.7,2
+"MS","Website",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",3.7,158,163,"International",11,1.4,3
+"MS","Website",NA,NA,NA,"International",42,5.4,3
+"MS","E-mail",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"International",15,1.9,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",73,6.7,3
+"MS","E-mail",3.82,165,166,"International with US Degree",48,5.9,3
+"PhD","E-mail",NA,NA,NA,"American",48,5.9,3
+"PhD","E-mail",NA,NA,NA,"American",68,8.7,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",68,8.7,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",48,5.9,3
+"MS","Website",NA,NA,NA,"International",52,6.4,3
+"PhD","E-mail",NA,NA,NA,"Other",22,2.8,3
+"PhD","E-mail",3.4,168,166,"International",22,2.8,3
+"PhD","Website",4,164,163,"American",15,1.9,3
+"PhD","Website",NA,NA,NA,"International",15,1.9,3
+"PhD","E-mail",3.8,166,163,"International",48,5.9,3
+"PhD","E-mail",3.74,170,142,"International",48,5.9,3
+"PhD","Website",NA,NA,NA,"International with US Degree",13,1.8,3
+"PhD","Website",NA,NA,NA,"International",43,3.6,3
+"MS","E-mail",NA,NA,NA,"International",55,4.7,3
+"MS","E-mail",NA,NA,NA,"International",15,1.9,3
+"MS","E-mail",NA,NA,NA,"International",48,5.9,3
+"MS","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","E-mail",3.4,168,166,"International",48,5.9,3
+"MS","E-mail",NA,NA,NA,"International",48,5.9,3
+"MS","E-mail",NA,NA,NA,"International",73,6.7,3
+"MS","E-mail",NA,NA,NA,"International",48,5.9,3
+"MS","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","Website",3.99,155,164,"International",37,5,3
+"PhD","Website",NA,NA,NA,"International",37,5,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",37,5,3
+"PhD","Website",NA,NA,NA,"International",30,2.3,3
+"PhD","E-mail",NA,162,159,"American",13,1.8,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",23,2.7,3
+"MS","Website",NA,NA,NA,"International",NA,NA,3
+"PhD","E-mail",3.4,152,159,"American",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"American",32,2.7,3
+"PhD","E-mail",3.94,143,166,"International",53,4.8,3
+"PhD","E-mail",3.85,170,152,"International with US Degree",24,2,3
+"MS","Other",3.7,153,166,"International",6,1.1,3
+"PhD","E-mail",NA,NA,NA,"International",30,2.3,2
+"PhD","E-mail",NA,NA,NA,"International",10,1.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",37,3.1,2
+"MS","Phone",3.68,157,153,"American",12,1.6,2
+"PhD","Website",NA,NA,NA,"International",15,1.5,NA
+"PhD","E-mail",NA,NA,NA,"International with US Degree",37,3.1,2
+"PhD","E-mail",NA,NA,NA,"International",63,8.6,3
+"MS","Website",NA,NA,NA,"International",13,1.4,3
+"MS","E-mail",NA,NA,NA,"International",83,11.1,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",25,3.5,3
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,3
+"MS","Website",NA,NA,NA,"International",55,4.3,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",NA,168,161,"International",23,2.7,3
+"PhD","E-mail",3.28,149,151,"American",28,2.9,3
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",30,2.3,3
+"MS","Website",NA,NA,NA,"International",15,1.5,3
+"PhD","E-mail",3.95,160,166,"International with US Degree",51,5.3,3
+"PhD","Website",NA,NA,NA,"International",73,6.7,3
+"MS","Website",3.4,158,160,"International",15,1.5,3
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,2
+"PhD","E-mail",NA,NA,NA,"International",50,4.7,3
+"MS","E-mail",NA,NA,NA,"American",83,9.9,3
+"MS","E-mail",3.9,169,166,"International with US Degree",152,18.1,3
+"MS","E-mail",3.7,169,164,"International",57,8.4,3
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,1
+"PhD","E-mail",NA,NA,NA,"International",23,2.7,3
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",30,2.3,3
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,3
+"PhD","Website",NA,NA,NA,"International",26,2.3,3
+"PhD","E-mail",NA,NA,NA,"International",63,8.6,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",21,2.4,3
+"PhD","E-mail",3.93,162,166,"American",20,2.3,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",47,5.8,3
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,3
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,3
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,3
+"PhD","E-mail",3.96,160,166,"International",83,11.1,3
+"PhD","Website",NA,NA,NA,"International",26,2.5,3
+"PhD","E-mail",3.8,156,166,"International with US Degree",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,3
+"MS","E-mail",NA,NA,NA,"International",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",83,11.1,3
+"MS","E-mail",NA,NA,NA,"International",63,8.6,3
+"PhD","Website",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,3
+"MS","E-mail",NA,NA,NA,"International",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,3
+"MS","E-mail",3.91,146,155,"Other",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"International",83,11.1,3
+"PhD","E-mail",NA,NA,NA,"Other",83,11.1,3
+"PhD","E-mail",NA,165,166,"International",22,2.4,3
+"PhD","E-mail",NA,NA,NA,"International",39,2.4,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",68,8.7,3
+"MS","E-mail",NA,NA,NA,"American",52,6.4,2
+"MS","E-mail",NA,NA,NA,"International",42,5.4,2
+"PhD","E-mail",NA,NA,NA,"American",39,2.4,2
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,2
+"MS","E-mail",3.72,162,166,"International",53,4.8,2
+"MS","E-mail",NA,NA,NA,"American",68,8.7,2
+"PhD","Website",NA,NA,NA,"International",52,6.4,2
+"MS","Website",3.4,166,166,"International",42,5.4,2
+"MS","E-mail",3.4,166,166,"International",53,4.8,2
+"MS","E-mail",3.71,152,166,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"MS","Website",NA,161,163,"International",26,3.3,2
+"PhD","Website",NA,NA,NA,"International",26,3.3,2
+"PhD","Other",NA,NA,NA,"International with US Degree",26,2.5,2
+"PhD","Other",NA,NA,NA,"Other",26,3.3,2
+"PhD","Website",NA,NA,NA,"International",85,12.3,2
+"PhD","Website",NA,NA,NA,"International",26,3.3,2
+"PhD","E-mail",NA,NA,NA,"International",50,4.7,2
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,2
+"PhD","E-mail",3.3,155,160,"International",37,5,2
+"PhD","Website",NA,NA,NA,"American",26,2.5,2
+"MS","E-mail",3.35,165,166,"International",53,4.8,2
+"PhD","Website",NA,NA,NA,"International",50,4.7,2
+"PhD","Website",NA,NA,NA,"International",50,4.7,2
+"MS","E-mail",NA,NA,NA,"International",26,2.3,2
+"PhD","Website",NA,NA,NA,"International with US Degree",50,4.7,2
+"PhD","Website",3.7,170,144,"International",26,3.3,2
+"PhD","E-mail",NA,NA,NA,"International",11,1.4,2
+"PhD","Website",3.3,155,160,"International",26,3.3,2
+"PhD","Website",NA,NA,NA,"American",26,3.3,2
+"PhD","Website",NA,NA,NA,"International with US Degree",26,3.3,2
+"PhD","Website",NA,NA,NA,"International with US Degree",26,3.3,2
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"International",32,2.7,2
+"PhD","Website",NA,NA,NA,"International",30,2.3,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",3.9,169,166,"International with US Degree",42,2.6,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",50,5.7,2
+"MS","E-mail",NA,152,166,"International",53,4.8,2
+"PhD","E-mail",3.6,170,141,"International",12,1.5,2
+"PhD","Website",NA,NA,NA,"International",30,2.3,2
+"PhD","E-mail",3.8,158,163,"International",152,18.1,2
+"MS","Website",3.54,159,166,"American",26,3.3,2
+"PhD","Other",NA,NA,NA,"International with US Degree",22,2.4,2
+"PhD","Website",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",3.9,156,164,"American",26,2.5,2
+"PhD","Website",NA,NA,NA,"International",47,5.8,2
+"PhD","E-mail",3.77,164,166,"Other",24,2,2
+"PhD","E-mail",3.8,156,166,"International with US Degree",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",NA,170,166,"American",68,8.7,2
+"MS","E-mail",3.3,170,166,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"International",NA,NA,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",13,1.6,2
+"PhD","E-mail",NA,NA,NA,"American",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","Website",NA,NA,NA,"American",26,2.5,2
+"PhD","E-mail",NA,NA,NA,"International",30,2.3,2
+"PhD","Other",NA,NA,NA,"Other",53,4.8,2
+"MS","Website",NA,NA,NA,"International",55,4.3,2
+"MS","E-mail",3.9,168,166,"American",63,8.6,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","Website",NA,NA,NA,"International",85,12.3,2
+"PhD","Website",NA,NA,NA,"International with US Degree",50,5.7,2
+"MS","E-mail",NA,162,166,"International",32,2.7,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","Website",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",3.6,170,142,"International",32,2.7,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",3.7,152,166,"International",25,3.5,2
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"MS","Website",NA,NA,NA,"International",34,2.3,2
+"MS","E-mail",3.3,170,166,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","Phone",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",4,169,166,"International with US Degree",152,18.1,2
+"PhD","E-mail",3.5,156,159,"American",152,18.1,2
+"PhD","Website",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",3.99,155,164,"International",152,18.1,2
+"PhD","Website",3.95,154,166,"American",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","Website",NA,NA,NA,"International with US Degree",85,12.3,2
+"PhD","Website",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",3.78,159,164,"International",22,2.4,2
+"PhD","Website",NA,NA,NA,"American",NA,NA,2
+"PhD","Website",NA,NA,NA,"International with US Degree",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",85,12.3,2
+"PhD","Website",NA,NA,NA,"International with US Degree",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,2
+"MS","E-mail",4,165,166,"International",26,2.5,2
+"PhD","E-mail",3.5,161,163,"International",34,2.3,1
+"PhD","E-mail",NA,NA,NA,"International",22,2.8,2
+"PhD","E-mail",NA,NA,NA,"International",73,6.7,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",73,6.7,2
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,2
+"PhD","E-mail",NA,NA,NA,"Other",32,2.7,2
+"MS","E-mail",NA,NA,NA,"International",26,3.3,2
+"PhD","E-mail",NA,NA,NA,"American",52,6.4,2
+"PhD","Phone",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",3.7,160,161,"American",50,4.7,2
+"PhD","Website",NA,148,164,"International",37,3.4,2
+"PhD","E-mail",3.93,143,160,"International",29,4.2,2
+"PhD","Website",NA,NA,NA,"International",16,1.3,2
+"PhD","Phone",NA,NA,NA,"American",152,18.1,2
+"PhD","E-mail",3.9,151,164,"International",57,11.5,2
+"PhD","Phone",NA,NA,NA,"American",152,18.1,2
+"PhD","Phone",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,2
+"PhD","E-mail",3.6,164,164,"American",63,8.6,2
+"MS","Website",NA,NA,NA,"International",55,4.3,2
+"PhD","E-mail",NA,NA,NA,"International",50,5.7,2
+"PhD","E-mail",3.97,170,141,"International",50,5.7,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","Website",3.74,158,161,"International",24,2.1,2
+"PhD","E-mail",NA,NA,NA,"American",63,8.6,2
+"PhD","E-mail",NA,NA,NA,"International",46,5.6,2
+"PhD","Website",NA,NA,NA,"International",24,2.1,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",3.9,170,149,"International",51,5.3,2
+"PhD","E-mail",3.7,162,166,"American",50,4.7,2
+"PhD","E-mail",NA,NA,NA,"International",46,5.6,2
+"PhD","E-mail",3.91,164,166,"American",53,6.9,2
+"PhD","E-mail",NA,NA,NA,"International",23,2.7,2
+"PhD","Website",NA,NA,NA,"American",22,2.8,2
+"PhD","E-mail",NA,NA,NA,"International",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",46,5.6,2
+"PhD","E-mail",3.67,NA,NA,"International with US Degree",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",3.4,153,159,"American",46,5.6,2
+"MS","Other",NA,NA,NA,"American",73,6.7,2
+"PhD","E-mail",NA,NA,NA,"American",51,5.3,2
+"MS","E-mail",NA,NA,NA,"American",51,5.3,2
+"MS","E-mail",NA,NA,NA,"International",26,3.3,2
+"PhD","E-mail",3.94,167,166,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",22,2.4,2
+"PhD","Website",3.99,170,147,"American",37,3.4,2
+"PhD","E-mail",NA,170,166,"American",83,9.9,1
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"MS","Website",NA,NA,NA,"International",25,3.5,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"American",83,11.1,2
+"PhD","Website",NA,154,166,"International",10,1.3,2
+"PhD","Phone",3.93,165,166,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","Website",3.9,170,148,"International with US Degree",16,1.3,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"MS","E-mail",3.9,162,166,"International with US Degree",63,8.6,2
+"PhD","E-mail",3.6,152,166,"International",37,5,2
+"PhD","E-mail",3.8,159,164,"International",83,9.9,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",50,4.7,2
+"PhD","E-mail",NA,158,166,"International",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International",28,2.9,2
+"PhD","E-mail",NA,NA,NA,"American",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"American",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,2
+"PhD","E-mail",NA,NA,NA,"International",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"American",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",85,12.3,2
+"PhD","Website",3.32,162,164,"American",52,6.4,2
+"PhD","E-mail",3.99,158,161,"American",50,4.7,2
+"PhD","E-mail",NA,NA,NA,"International",26,2.3,2
+"PhD","Phone",3.95,162,166,"International",57,8.4,2
+"PhD","E-mail",NA,160,166,"International",83,9.9,2
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"PhD","E-mail",3.95,153,160,"International with US Degree",24,2,2
+"PhD","E-mail",NA,NA,NA,"American",22,2.4,1
+"PhD","Phone",3.87,160,166,"International with US Degree",57,8.4,2
+"PhD","E-mail",3.85,152,166,"American",73,6.7,2
+"PhD","E-mail",NA,155,164,"International",57,8.4,2
+"MS","E-mail",NA,NA,NA,"International",57,8.4,2
+"MS","E-mail",3.82,168,166,"International",50,4.7,2
+"MS","Website",NA,NA,NA,"International",26,3.3,2
+"MS","E-mail",3.9,139,158,"International",NA,NA,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",3.8,151,166,"American",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"PhD","E-mail",3.8,NA,NA,"American",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",19,2.8,2
+"MS","Website",NA,NA,NA,"International",55,4.3,2
+"MS","E-mail",NA,NA,NA,"American",53,6.9,2
+"PhD","Website",4,164,163,"American",13,1.8,1
+"MS","Phone",3,170,166,"American",12,1.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"American",46,5.6,1
+"MS","E-mail",NA,NA,NA,"American",53,6.9,1
+"PhD","E-mail",3.87,160,166,"International with US Degree",152,18.1,1
+"MS","E-mail",NA,NA,NA,"American",53,6.9,1
+"PhD","E-mail",NA,NA,NA,"American",152,18.1,1
+"PhD","E-mail",3.7,160,166,"International",42,5.4,1
+"PhD","Other",NA,NA,NA,"International with US Degree",152,18.1,1
+"PhD","Phone",NA,NA,NA,"International",152,18.1,1
+"PhD","E-mail",3.37,160,160,"International",28,2.9,1
+"PhD","E-mail",NA,NA,NA,"American",42,5.4,1
+"MS","Website",2.3,152,163,"International",55,4.7,1
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,1
+"MS","E-mail",NA,NA,NA,"American",83,9.9,1
+"MS","Website",NA,NA,NA,"American",46,5.6,1
+"PhD","E-mail",NA,NA,NA,"International",85,12.3,1
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,1
+"PhD","E-mail",NA,NA,NA,"American",83,9.9,1
+"MS","E-mail",NA,NA,NA,"International",47,5.8,12
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,4.8,10
+"MS","E-mail",NA,NA,NA,"American",16,1.5,10
+"PhD","E-mail",4,154,166,"International",43,3.6,6
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,4
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,6
+"MS","E-mail",NA,154,166,"International",73,6.7,6
+"MS","Website",NA,NA,NA,"International",26,2.3,5
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,5
+"PhD","Website",NA,NA,NA,"International",38,3.1,5
+"PhD","Website",NA,NA,NA,"International",38,3.1,5
+"PhD","Phone",NA,NA,NA,"American",22,2.5,5
+"MS","E-mail",NA,NA,NA,"International",73,6.7,5
+"PhD","Website",NA,NA,NA,"International",50,4.7,4
+"MS","E-mail",3.42,158,166,"International",13,1.5,4
+"PhD","E-mail",NA,NA,NA,"International",15,1.8,4
+"MS","E-mail",NA,NA,NA,"International",47,5.8,4
+"PhD","E-mail",NA,NA,NA,"International",17,1.5,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",38,3.1,4
+"PhD","E-mail",NA,NA,NA,"International",21,2.1,4
+"PhD","Other",NA,NA,NA,"International",11,1.4,4
+"PhD","E-mail",NA,NA,NA,"American",47,5.8,NA
+"MS","E-mail",NA,NA,NA,"International",23,1.9,4
+"PhD","E-mail",NA,NA,NA,"International",55,4.7,4
+"PhD","Phone",NA,NA,NA,"International",46,4.3,4
+"MS","E-mail",NA,154,155,"International",55,4.3,4
+"PhD","Website",NA,NA,NA,"International",55,4.3,4
+"PhD","E-mail",NA,NA,NA,"International",19,1.9,4
+"PhD","Website",NA,NA,NA,"International",55,4.3,4
+"PhD","E-mail",NA,NA,NA,"International",15,1.8,4
+"PhD","Website",NA,NA,NA,"International",37,3.4,4
+"MS","E-mail",NA,NA,NA,"International",37,3.1,4
+"MS","E-mail",3.4,167,166,"American",68,8.7,4
+"PhD","E-mail",NA,NA,NA,"International",50,5.7,4
+"PhD","E-mail",NA,NA,NA,"International",50,5.7,4
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,4
+"MS","E-mail",NA,NA,NA,"International",19,1.9,4
+"PhD","E-mail",NA,NA,NA,"American",22,2.4,4
+"PhD","E-mail",NA,NA,NA,"International",7,1.3,4
+"MS","E-mail",NA,NA,NA,"International",63,8.6,4
+"PhD","E-mail",NA,NA,NA,"International",55,4.7,4
+"PhD","E-mail",NA,NA,NA,"American",NA,NA,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",NA,NA,4
+"PhD","E-mail",NA,NA,NA,"International",22,2.4,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",22,2.4,4
+"PhD","E-mail",NA,NA,NA,"American",68,8.7,4
+"PhD","Website",NA,NA,NA,"International",73,6.7,4
+"MS","E-mail",NA,NA,NA,"American",13,1.8,4
+"PhD","Phone",NA,NA,NA,"International",37,3.4,4
+"PhD","E-mail",NA,NA,NA,"International",23,1.9,4
+"PhD","E-mail",3.85,162,158,"American",42,2.6,4
+"PhD","Phone",NA,NA,NA,"International",68,8.7,4
+"PhD","E-mail",3.92,164,166,"International with US Degree",83,9.9,4
+"MS","Website",NA,NA,NA,"International",35,3.4,4
+"PhD","E-mail",3.88,142,159,"American",63,8.6,4
+"MS","Other",NA,NA,NA,"International",37,3.1,4
+"MS","E-mail",NA,NA,NA,"International",38,3.1,4
+"MS","E-mail",NA,NA,NA,"International",38,3.1,4
+"MS","E-mail",NA,NA,NA,"International",53,6.9,4
+"PhD","E-mail",NA,NA,NA,"International",22,2.4,4
+"PhD","E-mail",NA,NA,NA,"American",25,3.5,4
+"PhD","Phone",NA,NA,NA,"International",68,8.7,4
+"PhD","Other",NA,NA,NA,"International with US Degree",53,6.9,4
+"PhD","E-mail",3.5,161,166,"American",22,2.4,4
+"PhD","E-mail",3.99,152,166,"International",22,2.4,4
+"PhD","E-mail",NA,NA,NA,"International",22,2.4,4
+"PhD","E-mail",NA,NA,NA,"International",50,5.7,4
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,4
+"PhD","E-mail",NA,NA,NA,"International",22,2.8,3
+"PhD","Website",NA,NA,NA,"International",40,3.6,4
+"MS","E-mail",3.35,158,164,"International",30,2.3,3
+"PhD","E-mail",NA,NA,NA,"International",50,5.7,5
+"PhD","E-mail",NA,NA,NA,"International",38,3.1,4
+"PhD","Website",NA,NA,NA,"International",73,6.7,4
+"MS","E-mail",NA,NA,NA,"International",68,8.7,4
+"MS","E-mail",NA,NA,NA,"International",22,2.8,4
+"PhD","E-mail",3.78,162,161,"International",30,2.8,4
+"PhD","E-mail",3.8,151,166,"International",47,5.8,4
+"MS","E-mail",3.4,167,166,"American",152,18.1,4
+"MS","E-mail",NA,NA,NA,"International",19,2.8,4
+"MS","Website",NA,NA,NA,"International",30,2.3,4
+"PhD","E-mail",NA,NA,NA,"International with US Degree",30,2.8,4
+"MS","E-mail",NA,NA,NA,"International",NA,NA,4
+"MS","Website",NA,NA,NA,"American",47,5.8,4
+"MS","E-mail",NA,NA,NA,"American",19,2.8,4
+"MS","E-mail",NA,NA,NA,"International",73,6.7,4
+"MS","Website",NA,NA,NA,"International",52,6.4,4
+"MS","Website",NA,NA,NA,"International",52,6.4,4
+"PhD","Website",4,134,163,"International with US Degree",25,3.5,4
+"PhD","E-mail",3.2,146,163,"International",38,3.1,4
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,4
+"PhD","Website",NA,NA,NA,"International",25,3.5,4
+"MS","Website",3.11,152,160,"American",35,3.4,4
+"MS","E-mail",NA,NA,NA,"International",53,6.9,4
+"PhD","E-mail",NA,NA,NA,"American",46,4.3,4
+"PhD","E-mail",NA,NA,NA,"International",20,1.5,4
+"PhD","E-mail",3.8,149,166,"International",43,3.6,4
+"MS","Website",NA,NA,NA,"International",39,2.4,4
+"PhD","Website",NA,NA,NA,"American",52,6.4,4
+"PhD","Website",NA,NA,NA,"International",39,2.4,4
+"PhD","E-mail",NA,NA,NA,"International",12,1.8,4
+"MS","Website",3.4,163,166,"International",55,4.3,4
+"MS","Website",3.85,154,164,"International with US Degree",52,6.4,4
+"PhD","E-mail",3.8,163,166,"International",83,9.9,3
+"PhD","E-mail",3.8,151,166,"International",12,1.8,4
+"MS","E-mail",NA,NA,NA,"American",53,4.8,4
+"MS","Website",NA,NA,NA,"International",35,3.4,3
+"PhD","Other",NA,NA,NA,"International",29,4.2,3
+"PhD","Website",3.46,148,166,"International",13,1.8,3
+"PhD","E-mail",NA,NA,NA,"American",53,4.8,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","Website",NA,169,166,"American",52,6.4,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","Website",NA,NA,NA,"International with US Degree",13,1.6,3
+"PhD","E-mail",NA,NA,NA,"International",36,2.8,3
+"MS","E-mail",NA,NA,NA,"American",22,2.4,3
+"MS","E-mail",3.7,166,166,"International",68,8.7,3
+"PhD","Website",NA,NA,NA,"International",42,5.4,3
+"MS","E-mail",NA,NA,NA,"International",37,5,3
+"PhD","Other",NA,NA,NA,"International",37,3.4,3
+"MS","Website",NA,NA,NA,"International",73,6.7,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",25,3.5,3
+"PhD","E-mail",3.8,160,161,"American",46,4.3,3
+"PhD","E-mail",NA,NA,NA,"International",43,3.6,3
+"MS","Website",NA,NA,NA,"International",52,6.4,3
+"PhD","E-mail",NA,NA,NA,"International",30,2.8,3
+"PhD","E-mail",NA,NA,NA,"International",30,2.8,3
+"MS","Website",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"American",30,2.8,3
+"MS","E-mail",NA,NA,NA,"Other",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",57,11.5,3
+"PhD","E-mail",NA,NA,NA,"American",40,3.6,3
+"MS","Other",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"International",19,2.8,3
+"MS","E-mail",NA,NA,NA,"International",42,5.4,3
+"MS","Website",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,4.8,3
+"PhD","Website",NA,NA,NA,"International with US Degree",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"American",53,6.9,3
+"PhD","E-mail",NA,NA,NA,"International",13,1.8,3
+"MS","E-mail",NA,NA,NA,"International",22,2.4,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",19,2.8,3
+"MS","E-mail",NA,NA,NA,"International",25,3.5,3
+"PhD","Website",NA,NA,NA,"American",42,5.4,3
+"MS","E-mail",NA,NA,NA,"International",21,2.4,3
+"MS","E-mail",NA,NA,NA,"International",53,6.9,3
+"PhD","E-mail",NA,NA,NA,"International",47,3,3
+"MS","Website",NA,NA,NA,"International",42,5.4,3
+"PhD","Website",NA,NA,NA,"International",42,5.4,3
+"PhD","Other",3.85,162,158,"American",29,4.2,3
+"PhD","E-mail",3.85,162,158,"American",13,1.8,3
+"PhD","E-mail",NA,NA,NA,"International",63,8.6,3
+"MS","Other",NA,NA,NA,"International",20,1.5,3
+"PhD","Other",3.8,151,166,"International",29,4.2,3
+"PhD","E-mail",NA,NA,NA,"International",37,5,3
+"PhD","E-mail",3.8,151,166,"International",37,5,3
+"PhD","E-mail",NA,NA,NA,"International",37,5,3
+"MS","Website",NA,NA,NA,"International",53,4.8,3
+"PhD","Website",NA,NA,NA,"International",NA,NA,3
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,3
+"MS","E-mail",NA,NA,NA,"International",37,5,3
+"PhD","E-mail",NA,NA,NA,"International",24,2,3
+"MS","E-mail",NA,NA,NA,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"American",57,11.5,3
+"MS","E-mail",NA,162,166,"International",57,11.5,3
+"MS","E-mail",NA,155,166,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"International",57,11.5,3
+"MS","E-mail",NA,NA,NA,"American",26,2.5,3
+"PhD","E-mail",NA,NA,NA,"International",30,2.3,3
+"MS","Website",NA,NA,NA,"International",46,5.6,3
+"PhD","Website",NA,NA,NA,"International",30,2.3,3
+"MS","E-mail",NA,NA,NA,"International with US Degree",152,18.1,3
+"MS","E-mail",NA,NA,NA,"International",152,18.1,3
+"MS","E-mail",NA,NA,NA,"International",46,4.3,3
+"MS","E-mail",NA,NA,NA,"International",37,5,3
+"PhD","E-mail",3.5,161,166,"International",35,3.4,3
+"PhD","Phone",4,169,166,"American",152,18.1,1
+"MS","Website",NA,NA,NA,"International",53,4.8,3
+"PhD","E-mail",NA,NA,NA,"American",53,6.9,3
+"PhD","Other",NA,NA,NA,"International",29,4.2,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,6.9,3
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,3
+"PhD","E-mail",NA,NA,NA,"International",39,2.4,3
+"PhD","E-mail",NA,NA,NA,"American",73,6.7,3
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,3
+"PhD","Website",NA,NA,NA,"International",42,5.4,3
+"PhD","Phone",NA,NA,NA,"American",22,2.4,3
+"PhD","E-mail",NA,NA,NA,"American",48,5.9,3
+"PhD","Website",NA,NA,NA,"International",42,5.4,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,3
+"PhD","E-mail",NA,NA,NA,"American",53,6.9,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",NA,169,166,"American",53,6.9,3
+"PhD","Other",NA,NA,NA,"American",29,4.2,3
+"MS","E-mail",NA,NA,NA,"American",83,9.9,3
+"PhD","E-mail",3.85,160,166,"American",19,2.8,2
+"PhD","Website",NA,NA,NA,"International",42,5.4,3
+"MS","E-mail",NA,164,166,"International",30,2.3,1
+"MS","Other",NA,164,166,"International",50,5.7,1
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","E-mail",NA,NA,NA,"International",83,9.9,3
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,3
+"MS","Other",NA,163,164,"International",35,3.4,3
+"MS","Website",3.6,170,152,"American",50,4.7,3
+"PhD","E-mail",NA,NA,NA,"International",10,1.2,3
+"MS","E-mail",NA,NA,NA,"International",152,18.1,3
+"MS","E-mail",3.17,153,163,"American",23,1.9,3
+"MS","E-mail",NA,NA,NA,"American",47,5.8,3
+"PhD","E-mail",3.79,162,166,"International",52,6.4,3
+"PhD","E-mail",3.9,165,166,"American",83,9.9,3
+"MS","Website",3.93,157,164,"American",47,5.8,3
+"PhD","E-mail",NA,166,166,"International",46,5.6,3
+"MS","E-mail",NA,NA,NA,"American",68,8.7,3
+"PhD","Website",NA,NA,NA,"International",39,2.4,3
+"PhD","Website",NA,NA,NA,"International",24,2.1,3
+"PhD","Website",NA,NA,NA,"International",24,2.1,3
+"PhD","E-mail",NA,NA,NA,"International",43,3.6,3
+"PhD","Website",NA,NA,NA,"International",55,4.3,3
+"PhD","Website",NA,NA,NA,"International",24,2.1,3
+"PhD","Website",NA,NA,NA,"International",24,2.1,3
+"MS","E-mail",NA,NA,NA,"International",50,5.7,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","E-mail",NA,NA,NA,"International",37,3.1,3
+"MS","E-mail",NA,NA,NA,"International",37,5,3
+"PhD","E-mail",NA,NA,NA,"International",22,2.4,3
+"MS","E-mail",NA,NA,NA,"American",73,6.7,3
+"PhD","E-mail",NA,NA,NA,"American",68,8.7,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",25,3.5,3
+"PhD","E-mail",NA,NA,NA,"International with US Degree",33,3.4,3
+"MS","E-mail",NA,NA,NA,"International",68,8.7,3
+"MS","E-mail",3.6,170,152,"American",68,8.7,3
+"MS","E-mail",NA,NA,NA,"American",53,6.9,3
+"PhD","E-mail",NA,NA,NA,"International",22,2.4,3
+"PhD","Website",NA,NA,NA,"International with US Degree",25,3.5,3
+"PhD","E-mail",NA,NA,NA,"International",22,2.8,3
+"PhD","E-mail",NA,NA,NA,"American",16,1.3,3
+"PhD","E-mail",NA,NA,NA,"American",53,6.9,3
+"PhD","E-mail",NA,NA,NA,"American",73,6.7,3
+"PhD","E-mail",NA,NA,NA,"International",16,1.3,2
+"PhD","Website",NA,NA,NA,"American",15,1.9,3
+"MS","E-mail",2,140,166,"International",15,1.9,3
+"PhD","E-mail",NA,NA,NA,"American",48,5.9,3
+"PhD","Website",3.78,170,151,"International with US Degree",26,2.3,3
+"MS","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","E-mail",NA,NA,NA,"International",48,5.9,3
+"MS","E-mail",NA,NA,NA,"International",48,5.9,3
+"PhD","E-mail",NA,NA,NA,"American",48,5.9,3
+"PhD","Website",NA,NA,NA,"International",85,12.3,2
+"MS","E-mail",NA,NA,NA,"International",25,3.5,3
+"PhD","Website",NA,NA,NA,"International",25,3.5,3
+"PhD","E-mail",NA,NA,NA,"International",37,3.1,3
+"MS","E-mail",NA,NA,NA,"International",25,3.5,3
+"PhD","Website",NA,NA,NA,"International",25,3.5,3
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,3
+"PhD","E-mail",NA,NA,NA,"American",83,9.9,3
+"MS","E-mail",3.8,155,160,"American",24,2,3
+"MS","Website",NA,NA,NA,"International",152,18.1,3
+"PhD","E-mail",3.14,160,164,"American",53,6.9,3
+"PhD","E-mail",3.8,167,166,"International",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"International",10,1.2,2
+"PhD","Website",3.82,166,164,"International",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"International",22,2.8,2
+"PhD","E-mail",NA,NA,NA,"International",22,2.8,2
+"PhD","Website",3.8,170,142,"International",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",30,2.3,2
+"PhD","E-mail",NA,NA,NA,"International",30,2.3,2
+"PhD","Website",NA,NA,NA,"International",30,2.3,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"International",53,6.9,2
+"PhD","Website",3.85,162,158,"American",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"American",152,18.1,2
+"PhD","E-mail",3.9,168,166,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","E-mail",NA,NA,NA,"American",53,6.9,2
+"PhD","Other",NA,NA,NA,"International",22,2.4,2
+"PhD","E-mail",3.56,143,164,"International",37,5,2
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,2
+"PhD","Website",NA,NA,NA,"International",NA,NA,2
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,2
+"PhD","Website",NA,NA,NA,"International with US Degree",NA,NA,2
+"PhD","E-mail",NA,NA,NA,"Other",73,6.7,2
+"MS","E-mail",NA,NA,NA,"International",152,18.1,2
+"MS","Website",3.8,163,156,"International",55,4.7,1
+"PhD","Website",NA,NA,NA,"International",38,3.1,2
+"PhD","E-mail",3.68,162,158,"American",57,8.4,2
+"MS","E-mail",NA,NA,NA,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,2
+"PhD","Website",NA,NA,NA,"American",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"American",73,6.7,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",73,6.7,2
+"PhD","Website",3.8,150,166,"International",85,12.3,2
+"PhD","Website",NA,NA,NA,"International with US Degree",85,12.3,2
+"PhD","E-mail",3.8,160,161,"American",32,2.7,2
+"PhD","Website",NA,166,166,"International",85,12.3,2
+"PhD","Website",3.6,158,163,"International",85,12.3,2
+"PhD","Website",NA,NA,NA,"International with US Degree",85,12.3,2
+"PhD","Website",NA,NA,NA,"International",85,12.3,2
+"PhD","Website",NA,NA,NA,"International",85,12.3,2
+"PhD","Other",NA,NA,NA,"American",85,12.3,2
+"PhD","Website",NA,141,166,"International",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"American",63,8.6,2
+"PhD","E-mail",3.98,158,160,"American",22,2.4,2
+"PhD","E-mail",NA,NA,NA,"American",50,5.7,2
+"PhD","Phone",NA,NA,NA,"American",57,8.4,2
+"PhD","E-mail",3.73,154,166,"International",15,1.5,2
+"MS","E-mail",3.5,158,166,"International",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,2
+"PhD","E-mail",NA,NA,NA,"International",63,8.6,1
+"PhD","E-mail",3.77,148,161,"American",55,4.3,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",51,5.3,2
+"MS","Website",3,162,163,"International",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International",52,6.4,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"MS","E-mail",3.8,155,160,"American",46,5.6,2
+"PhD","E-mail",NA,NA,NA,"International",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"PhD","E-mail",3,142,164,"International",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"American",73,6.7,2
+"MS","Website",NA,NA,NA,"International",83,11.1,2
+"PhD","E-mail",4,170,166,"International",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","Website",NA,NA,NA,"International",32,2.7,2
+"PhD","Website",NA,NA,NA,"International",83,11.1,2
+"MS","E-mail",NA,NA,NA,"International",83,11.1,2
+"MS","E-mail",NA,166,166,"International",83,11.1,2
+"MS","E-mail",NA,NA,NA,"International",51,5.3,2
+"PhD","E-mail",3.84,163,160,"American",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"American",83,11.1,2
+"MS","E-mail",3.97,153,155,"American",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",83,11.1,2
+"PhD","Website",NA,NA,NA,"American",83,11.1,2
+"PhD","Website",NA,NA,NA,"American",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"American",38,3.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",33,2.8,1
+"PhD","E-mail",3.66,142,166,"International",51,5.3,2
+"PhD","E-mail",NA,NA,NA,"American",51,5.3,2
+"PhD","Website",NA,NA,NA,"International",32,2.7,2
+"PhD","E-mail",NA,NA,NA,"American",51,5.3,2
+"PhD","E-mail",NA,166,164,"International",51,5.3,2
+"PhD","E-mail",3.84,163,160,"American",51,5.3,2
+"MS","E-mail",NA,NA,NA,"American",51,5.3,2
+"PhD","Website",NA,162,166,"International",53,4.8,2
+"PhD","Website",NA,NA,NA,"International",32,2.7,2
+"MS","E-mail",3.9,154,164,"International with US Degree",57,11.5,2
+"MS","Website",NA,NA,NA,"International",53,4.8,2
+"MS","Phone",3.8,153,166,"International",53,4.8,2
+"PhD","E-mail",3.73,154,166,"International with US Degree",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","Website",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"American",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,11.5,2
+"PhD","E-mail",NA,NA,NA,"International",53,6.9,2
+"PhD","E-mail",NA,NA,NA,"American",26,3.3,2
+"PhD","E-mail",NA,NA,NA,"International",50,4.7,2
+"PhD","E-mail",NA,NA,NA,"International",33,2.8,2
+"PhD","E-mail",NA,NA,NA,"American",10,1.2,2
+"PhD","E-mail",NA,NA,NA,"International",25,3.5,2
+"PhD","E-mail",NA,141,166,"International",25,3.5,2
+"PhD","E-mail",3.88,154,166,"International",53,4.8,2
+"MS","E-mail",NA,NA,NA,"International with US Degree",53,4.8,2
+"MS","E-mail",NA,NA,NA,"International",26,2.5,2
+"PhD","E-mail",NA,142,166,"International",37,5,2
+"PhD","E-mail",NA,NA,NA,"American",37,5,2
+"PhD","Phone",3.8,165,166,"American",57,8.4,2
+"PhD","E-mail",NA,NA,NA,"International",53,4.8,2
+"PhD","E-mail",3.85,162,158,"American",37,5,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,4.8,2
+"PhD","E-mail",NA,NA,NA,"International",19,2.8,2
+"PhD","E-mail",NA,NA,NA,"American",57,8.4,2
+"MS","E-mail",3.5,161,166,"American",19,1.5,1
+"PhD","E-mail",NA,144,166,"International",23,1.9,2
+"PhD","E-mail",NA,NA,NA,"American",50,4.7,2
+"PhD","E-mail",NA,NA,NA,"American",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"American",85,12.3,2
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"International",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"International",47,5.8,2
+"PhD","E-mail",3.77,140,166,"International with US Degree",37,5,2
+"PhD","E-mail",NA,NA,NA,"American",37,5,2
+"MS","Other",3.5,167,166,"American",73,6.7,2
+"MS","Website",NA,157,166,"International",26,2.5,2
+"PhD","E-mail",NA,NA,NA,"American",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",53,4.8,1
+"MS","E-mail",3.86,167,166,"International with US Degree",83,11.1,2
+"PhD","E-mail",NA,NA,NA,"International with US Degree",68,8.7,2
+"PhD","E-mail",NA,NA,NA,"International",26,2.5,2
+"MS","E-mail",NA,NA,NA,"American",152,18.1,2
+"PhD","E-mail",NA,NA,NA,"International",26,2.5,2
+"PhD","E-mail",NA,NA,NA,"International",83,9.9,2
+"PhD","Other",NA,NA,NA,"American",73,6.7,2
+"PhD","Phone",NA,168,164,"International",33,3.4,2
+"PhD","Phone",NA,NA,NA,"International",152,18.1,1
+"PhD","E-mail",4,162,161,"International with US Degree",37,3.1,1
+"MS","Website",NA,NA,NA,"International",55,4.7,2
+"MS","Website",NA,166,166,"International",37,3.1,1
+"MS","E-mail",NA,NA,NA,"International",30,2.3,2
+"PhD","E-mail",NA,NA,NA,"American",25,3.5,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",57,11.5,1
+"PhD","E-mail",NA,NA,NA,"International",6,1.2,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",42,5.4,1
+"PhD","E-mail",3.9,167,164,"American",25,3.5,1
+"PhD","E-mail",NA,NA,NA,"International",152,18.1,1
+"PhD","Website",NA,NA,NA,"International",38,3.1,1
+"PhD","E-mail",NA,NA,NA,"International with US Degree",42,5.4,1
+"PhD","E-mail",NA,NA,NA,"International",42,5.4,1
+"PhD","Phone",NA,NA,NA,"American",152,18.1,1
+"PhD","E-mail",NA,NA,NA,"International",57,11.5,1
+"PhD","E-mail",NA,NA,NA,"American",83,9.9,1
+"PhD","E-mail",3.21,154,166,"American",83,9.9,1
+"PhD","E-mail",NA,NA,NA,"American",83,9.9,1
+"MS","Other",NA,NA,NA,"American",26,3.3,12

@@ -1,0 +1,104 @@
+csRaw <- read.csv('dataset/gradcafe/cs_raw.csv')
+
+summary(csRaw)
+colnames(csRaw)
+
+library(ggplot2)
+library(plyr)
+# GRE Verbal
+csRawFull <- csRaw[!is.na(csRaw$decision), ]
+csRawFull <- csRawFull[!is.na(csRawFull$gre_verbal), ]
+greVmu <- ddply(csRawFull, "decision", summarise, grp.mean=mean(gre_verbal))
+greVdist <- ggplot(csRawFull, aes(x=gre_verbal, color=decision, fill=decision)) + 
+  geom_histogram(aes(y=..density..), position="dodge", alpha=0.3) +
+  geom_density(alpha=0.5) +
+  geom_vline(data=greVmu, aes(xintercept=grp.mean, color=decision), linetype="dashed") + 
+  labs(title="GRE Verbal Distribution",x="GRE Verbal", y = "Density") +
+  theme_classic() + theme(legend.position="top")
+greVbox <- ggplot(csRawFull, aes(x=decision, y=gre_verbal)) + 
+  geom_boxplot(outlier.colour="red", outlier.shape=8) + 
+  coord_flip()
+# grid.arrange(greVdist, greVbox, ncol=1, nrow=2, heights=c(4, 2))
+
+# GRE Quant
+csRawFull <- csRaw[!is.na(csRaw$decision), ]
+csRawFull <- csRawFull[!is.na(csRawFull$gre_quant), ]
+greQmu <- ddply(csRawFull, "decision", summarise, grp.mean=mean(gre_quant))
+greQdist <- ggplot(csRawFull, aes(x=gre_quant, color=decision, fill=decision)) + 
+  geom_histogram(aes(y=..density..), position="dodge", alpha=0.3) +
+  geom_density(alpha=0.5) +
+  geom_vline(data=greQmu, aes(xintercept=grp.mean, color=decision), linetype="dashed") + 
+  labs(title="GRE Quantitative Distribution",x="GRE Quant", y = "Density") +
+  theme_classic() + theme(legend.position="top")
+greQbox <- ggplot(csRawFull, aes(x=decision, y=gre_quant)) + 
+  geom_boxplot(outlier.colour="red", outlier.shape=8) + 
+  coord_flip()
+grid.arrange(greQdist, greVdist, greQbox, greVbox, ncol=2, nrow=2, widths=c(6, 6), heights=c(4, 2))
+
+# GRE Writing
+csRawFull <- csRaw[!is.na(csRaw$decision), ]
+csRawFull <- csRawFull[!is.na(csRawFull$gre_writing), ]
+p <- ggplot(csRawFull, aes(x=decision, y=gre_writing)) + 
+  geom_boxplot()
+greWbox <- p + geom_jitter(shape=16, position=position_jitter(0.2)) +
+  labs(title="GRE Writing distribution",x="Decision", y = "GRE Writing")
+
+grid.arrange(greQdist, greVdist, greQbox, greVbox, greWbox, layout_matrix=rbind(c(1,2,5),c(3,4,5)))
+
+# Initial correlation matrix
+library("PerformanceAnalytics")
+summary(csRaw)
+csTmp <- subset(csRaw, select = -c(X, id))
+library(corrplot)
+M<-cor(data.matrix(na.omit(csTmp)), method="kendall")
+corrplot(M, type = "lower", order = "hclust")
+
+# Ranking
+csRnk <- read.csv("dataset/cs_raw_with_ranking.csv")
+M <- cor(data.matrix(csRnk), method="kendall")
+corrplot(M, type = "lower", order = "hclust", method = "number")
+
+# Relation with major
+ggplot(csTmp, aes(x=major, fill=decision)) + geom_bar(stat="count")
+
+# GPA vs Ranking
+library("gridExtra")
+
+csRnk <- csRnk[csRnk$world_ranking != 1000, ]
+gpaRnk <- ggplot(csRnk, aes(x=gpa, y=world_ranking, color=decision)) +
+  geom_point() + geom_smooth(method=lm)
+
+gpaDense <- ggplot(csRnk, aes(gpa, fill=decision)) +
+  geom_density(alpha=.5)
+  # scale_fill_manual(values = c('#999999','#E69F00')) +
+  # theme(legend.position = "none")
+
+grid.arrange(gpaDense, gpaRnk, ncol=1, nrow=2, heights=c(1.4, 4))
+
+# Annual change
+csRaw <- read.csv("dataset/gradcafe/cs_raw.csv")
+csSeason <- csRaw[csRaw$season != "", ]
+unique(csSeason$season)
+csSeason$year <- lapply(csSeason$season, function(x) as.factor(substring(x, 2)))
+csSeason$season <- lapply(csSeason$season, function(x) as.factor(substring(x, 1, 1)))
+csSeason$year <- as.factor(unlist(csSeason$year))
+csSeason$season <- as.factor(unlist(csSeason$season))
+
+csTime <- csSeason[c("decision", "season", "year")]
+csTime$decision <- csTime$decision == "Accepted"
+
+csAdmit <- aggregate(decision ~ year + season, csTime, FUN=mean)
+csAdmit <- csAdmit[!csAdmit$year %in% c('16', '09'), ]
+
+ggplot(csAdmit[], aes(x=year, y=decision, group=season)) + 
+  geom_line(aes(color=season)) +
+  geom_point(aes(color=season))
+
+library(varhandle)
+csAdmit$year <- unfactor(csAdmit$year)
+isSpr <- csAdmit$season == 'S'
+splineSpr <- as.data.frame(spline(csAdmit[isSpr, "year"], csAdmit[isSpr, "decision"]))
+
+ggplot(csAdmit) + 
+  geom_point(aes(x = year, y = decision, color = season), size = 3) +
+  geom_smooth(aes(x = year, y = decision, color = season))

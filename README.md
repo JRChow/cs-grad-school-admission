@@ -87,8 +87,6 @@ results are summarized in the table below.
 | Trn Acc   |                  56.61%                 |                63.87%                |          59.48%         |        67.84%        |
 | Vld Acc |                  56.39%                 |                63.25%                |          56.41%         |        64.17%        |
 
-:Effect of University ranking
-
 
 ### Incorporating Categorical University Name Information
 
@@ -137,8 +135,6 @@ Then we applied these two transformations in succession on the "University Names
 |  Training Accuracy |                63.87%               |              67.53%              |        67.84%       |      70.82%      |
 |  Testing Accuracy  |                63.25%               |              65.67%              |        64.17%       |      66.74%      |
 
-:Effect of One-Hot Encoded University Name on Logistic Regression and SVM
-
 However, simply feeding the updated dataset to Random Forest yields very bad performance, this is mainly due to two reasons. The first reason is that the number of original features are drowned by the new binary features, and the old parameters (especially `mtry` / `max_features`) are not suitable for the new dataset. The second reason is that the newly introduced parameters are all discrete, which random forest has not been utilizing very well (TODO is this true?).
 
 # Models
@@ -157,8 +153,6 @@ Then we tried to improve the performance by applying *normalization*. We impleme
 |----------------------|:---------------------:|:------------------:|
 |  Training Accuracy   |         67.37%        |       68.12%       |
 |  Validation Accuracy |         65.95%        |       66.03%       |
-
-: Cross-Validated Effect of Normalization
 
 We are able to see some tiny improvements but the accuracy gain is quite insignificant. This is likely due to logistic regression's built-in strategy of handling large input ranges (by assigning the value a small weight).
 
@@ -200,7 +194,6 @@ Then we tried to improve the performance by applying *normalization*. Again, we 
 | Training Accuracy   |            69.36%            |           67.70%          |
 | Validation Accuracy |            63.19%            |           64.50%          |
 
-:Cross-Validated Effect of Normalization on kNN
 
 ![k-nearest neighbors](img/knn.png)
 
@@ -217,7 +210,6 @@ Vanilla random forest (implemented in python sklearn library) with default param
 | Train Accuracy | 98.16%  | 85.48%          |
 | Test Accuracy  | 66.00   | 67.01%          |
 
-:vanila random forest
 
 The default model has clear overfitting. By restricting the minimum leaf to have size 5, the model's performance increased by 1 percent.
 
@@ -253,7 +245,6 @@ We can examine the importance scores of the variables to interpret the model.
 | 0.000300            | is_spring                                |
 | 0.000300            | is_fall                                  |
 
-:Importance scores of variables in building random forest
 
 The most import predictor here is university_ranking which means that in general, the better the university is, the harder it is for the applicants to get admitted. GPA is almost as important as university_ranking which can means that students' individual effort really matter as well. Surprisingly, GRE_verbal is more important than GRE_quant. One possible explanation here is that most CS applicants have good quantitative skills so GRE_Verbal actually better differentiate the applicants. Year is the next important feature which speaks that the course of history shall not be ignored.
 

@@ -19,3 +19,5 @@ The dataset we use is the [TheGradCafe](https://github.com/deedy/gradcafe_data).
 **GRE verbal**, **GRE quantatitive**, and **GRE writing** all follow a left-skewed distribution. `gre_quant` is probably the most skewed, while `gre_writing` has the least skewness among the three.
 
 ![The distribution of GRE quantitative, verbal and writing scores](img/gre.png "The distribution of GRE quantitative, verbal and writing scores")
+
+For GRE quantitive scores, although the 1^st^ and 3^rd^ quartiles are similar, accepted applicants have a higher median value than the other two types. The same argument applies to GRE verbal scores. Comparing the quantitative and verbal score distributions, we observe that the distribution of GRE quantitative scores is more left-skewed and has a higher median than its verbal distribution, in line with the empirical evidence that most students have a high quantitative GRE score.

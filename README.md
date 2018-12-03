@@ -92,41 +92,7 @@ results are summarized in the table below.
 
 Incorporating ranking information was extremely helpful in predicting the outcome of the application, however, that was not good enough. The university ranking only provides an ordinal perspective, but in reality, a higher university ranking doesn't necessarily indicate that the admission rate is lower. On the other hand, a horizontal comparison of students applying to the same university may be of a better reference. Therefore, we would need a way to utilize this nominal / categorical information.
 
-Our solution is to encode the university name with *one-hot encoding*. The first step is to encode the universities names into a numerical label. We implemented this with the `LabelEncoder` provided by `scikit-learn`. This process is illustrated below:
-
-$$
-\begin{bmatrix}
-    \text{Arizona State University (ASU)}\\
-    \text{Auburn University}\\
-    \text{Boston University (BU)}\\
-    \vdots\\
-    \text{Yale University}
-\end{bmatrix} \rightarrow \begin{bmatrix}
-    0\\
-    1\\
-    2\\
-    \vdots\\
-    118
-\end{bmatrix}
-$$
-
-Then we would just need to encode these integers into multiple boolean variables. We implemented this with the `OneHotEncoding` interface provided by `scikit-learn`, see the illustration below.
-
-$$
-\begin{bmatrix}
-    0\\
-    1\\
-    2\\
-    \vdots\\
-    118
-\end{bmatrix} \rightarrow \begin{bmatrix}
-    1 & 0 & 0 & \dots & 0\\
-    0 & 1 & 0 & \dots & 0\\
-    0 & 0 & 1 & \dots & 0\\
-    \vdots & \vdots & \vdots & \ddots & \vdots\\
-    0 & 0 & 0 & \dots & 1\\
-\end{bmatrix}
-$$
+Our solution is to encode the university name with *one-hot encoding*. The first step is to encode the universities names into a numerical label. We implemented this with the `LabelEncoder` provided by `scikit-learn`. Then we would just need to encode these integers into multiple boolean variables. We implemented this with the `OneHotEncoding` interface provided by `scikit-learn`.
 
 Then we applied these two transformations in succession on the "University Names" column of the input data and concatenated the generated matrix to the input data, and it boosted the performance of both logistic regression and support vector machine. The cross-validated results are summarized in the tables below.
 
@@ -173,9 +139,7 @@ The radial basis function kernel, or rbf kernel, is a popular kernel function us
 
 ## Generalized Additive Model
 
-For binary classification problems, we can use a logistic GAM which models:
-
-$$log\left(\frac{P(y=1|X)}{P(y=0|X)}\right)=\beta_0+f_1(X_1)+f_2(X_2, X3)+\dots+f_M(X_N)$$
+For binary classification problems, we can use a logistic GAM.
 
 GAM gives training accuracy of 67.45% and validation accuracy of 66.15%
 

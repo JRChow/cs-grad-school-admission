@@ -48,7 +48,7 @@ The figure below shows a correlation matrix containing certain variables of inte
 
 Certain entries correspond with empirical evidence. For instance, GRE writing and verbal scores have a strong correlation of 0.33 because both likely are associated with a candidate's communication and understanding abilities.
 
-![Correlation matrix containing some variables of interest.](images/corr.png){#fig:corr_w_rank width=50%}
+![Correlation matrix containing some variables of interest.](img/corr.png){#fig:corr_w_rank width=50%}
 
 Moreover, our goal, `decision`, seems to have limited correlation with any of the variables. Therefore, arguably there might not be a single dominant factor influencing admission decisions. However, a salient point is that the ranking of graduate schools is negatively correlated with admission decisions, with a relatively large coefficient of -0.2.
 
@@ -56,7 +56,7 @@ Moreover, our goal, `decision`, seems to have limited correlation with any of th
 
 In addition, we have also explored the change of admission rate over the years, shown in figure below.
 
-![The change of admission rate over the years.](images/rate-change.png){#fig:ad width=40%}
+![The change of admission rate over the years.](img/rate-change.png){#fig:ad width=40%}
 
 For spring admission, there is a large number of variations, which might due to the fact that the sample size is relatively small, especially compared with the fall season data. Surprisingly, as opposed to the common sense that graduate school admission is progressively competitive, the admission rate, as shown in the dataset, is in reality increasing.
 
@@ -64,7 +64,7 @@ For spring admission, there is a large number of variations, which might due to 
 
 Lastly, Figure @fig:rank_v_gpa explores the relationship (if any) between two significant factors, namely the graduate school’s ranking and a candidate's GPA. First, note that the distribution of applicants’ GPA again follows as **left-skewed** distribution, which shows that most students who apply to graduate schools have a relatively high GPA, regardless of whether they are accepted or not in the end.
 
-![Ranking plotted against GPA.](images/gpa-ranking.png){#fig:rank_v_gpa width=50%}
+![Ranking plotted against GPA.](img/gpa-ranking.png){#fig:rank_v_gpa width=50%}
 
 Furthermore, we observe that by and large, the candidates with a higher GPA usually apply to schools of higher ranking. But the intercept of the accepted and rejected candidates are different - rejected candidates have an intercept that corresponds to a higher university ranking than their accepted counterparts. Therefore, we would suggest applicants to graduate schools make cautious and informed decisions regarding their target universities.
 
@@ -202,7 +202,7 @@ Then we tried to improve the performance by applying *normalization*. Again, we 
 
 :Cross-Validated Effect of Normalization on kNN
 
-![k-nearest neighbors](images/knn.png){#fig:knn width=40%}
+![k-nearest neighbors](img/knn.png){#fig:knn width=40%}
 
 As shown in the Figure, we use cross-validation to try different hyperparameters, i.e. number of nearest neighbors.
 N = 14 performs best when normalization is not used, while N = 26 performs best when normalization is used. From the comparison, we can see that normalization improves the model.
@@ -228,7 +228,7 @@ We know that different universities could have vastly different admission rate w
 ### Neural Network
 After data engineering, the dataset contains less than 5000 examples, which is a very small number to train a neural network. Nevertheless, we try to train a small neural network with predictors as input, two fully connected layers and output one hot encoded prediction. The network trained has test accuracy 66.5% which is not as good as random forest or support vector machine. We reason that this result is partially due to the small size of the dataset or the impurity of the data.
 
-![Neural Network training, testing loss and accuracies](images/neural.png){#fig:neural width=70%}
+![Neural Network training, testing loss and accuracies](img/neural.png){#fig:neural width=70%}
 
 # Result
 The best cross-validation accuracy we can obtain is ~67% with random forest so we further fine tune the random forest model and use it for testing. The final train accuracy is 90.65% and test accuracy is 70.14%.

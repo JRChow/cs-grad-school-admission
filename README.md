@@ -68,7 +68,7 @@ For spring admission, there is a large number of variations, which might due to 
 
 ### Relationship Between Applicant GPA and School Ranking
 
-Lastly, Figure @fig:rank_v_gpa explores the relationship (if any) between two significant factors, namely the graduate school’s ranking and a candidate's GPA. First, note that the distribution of applicants’ GPA again follows as **left-skewed** distribution, which shows that most students who apply to graduate schools have a relatively high GPA, regardless of whether they are accepted or not in the end.
+Lastly, the figure below explores the relationship (if any) between two significant factors, namely the graduate school’s ranking and a candidate's GPA. First, note that the distribution of applicants’ GPA again follows as **left-skewed** distribution, which shows that most students who apply to graduate schools have a relatively high GPA, regardless of whether they are accepted or not in the end.
 
 ![Ranking plotted against GPA.](img/gpa-ranking.png)
 
@@ -83,8 +83,8 @@ If we simply omit that field, we lose all information about universities. In tha
 purely rely on student's information, i.e. gre, gpa, etc, which means very likely the best prediction would
 be a guess that better students have higher chances to get accepted.
 
-It is necessary to incorporate other datasets. We choose [QS World University Ranking](https://www.kaggle.com/mylesoneill/world-university-rankings.), write a script to match university
-names of gradcafe dataset and world ranking of @qsgithub. Then we generate a new dataset, which has the ranking
+It is necessary to incorporate other datasets. We choose [QS World University Ranking](https://www.kaggle.com/mylesoneill/world-university-rankings), write a script to match university
+names of gradcafe dataset and world ranking of [QS World University Ranking](https://www.kaggle.com/mylesoneill/world-university-rankings). Then we generate a new dataset, which has the ranking
 of each university that the student is applying to. We use Logistic Regression and SVM to evaluate it. The cross-validated
 results are summarized in the table below.
 

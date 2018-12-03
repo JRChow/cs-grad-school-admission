@@ -21,3 +21,12 @@ The dataset we use is the [TheGradCafe](https://github.com/deedy/gradcafe_data).
 ![The distribution of GRE quantitative, verbal and writing scores](img/gre.png "The distribution of GRE quantitative, verbal and writing scores")
 
 For GRE quantitive scores, although the 1st and 3rd quartiles are similar, accepted applicants have a higher median value than the other two types. The same argument applies to GRE verbal scores. Comparing the quantitative and verbal score distributions, we observe that the distribution of GRE quantitative scores is more left-skewed and has a higher median than its verbal distribution, in line with the empirical evidence that most students have a high quantitative GRE score.
+
+In contrast, the GRE writing distribution is obviously more balanced. An interesting discovery is that accepted and rejected applicants share a similar distribution. Both have almost identical minimum, maximum, lower and upper quartiles, with a common median at 4. Additionally, we find that the subset of waitlisted candidates is much smaller than its accepted and rejected counterpart. The summary below confirms our observation - "waitlisted" results constitute around merely 1.48% of the whole dataset. Furthermore, empirical evidence suggests that the majority of waitlisted candidates will be rejected in the end. Considering the above factors, we will treat waitlisted applicants as if they were rejected in remaining parts of this report.
+
+| Category     | `decision` |
+| ------------ | ---------- |
+| NA:          | 804        |
+| Accepted:    | 9971       |
+| Rejected:    | 10912      |
+| Wait listed: | 326        |
